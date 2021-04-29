@@ -34,7 +34,7 @@ namespace addBranches
                   "Storage Technical Specialist",
                   "EDM Technical Specialist",
                    };
-            Guid parentID = new Guid();
+            Guid parentID = new Guid("c03c43ae-e3e0-48e6-a488-fdf2985d5a99");
             Branch parent = new Branch()
             {
                 ID = parentID,
@@ -48,7 +48,7 @@ namespace addBranches
                 branch.parentID = parentID;
                 parent.ChildrenIDs.Add(branch.ID);
                 await _dbContext.Replace<Branch>("branches", branch.ID, branch);
-                Console.WriteLine(name);
+                Console.WriteLine(parentID);
             }
             _dbContext.Add("branches", parent);
 
