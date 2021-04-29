@@ -1,0 +1,1510 @@
+Cloud,Vmware stack ,VMware Cloud Technical specialist,,Virtualization ,understand the basics (Gareth intro) ,knowledge based on Vmware Vsphere ICM training ,VCP (knowledge and certifications/contract) ,"knows the difference between Virtualization Hypervisors (Vmware, Hyper V, OpenStack) ",,,,,,,,,,,,
+Cloud,Vmware stack ,VMware Cloud Technical specialist,,"*Hardware - ESXi hosts, servers ",ability to solve issue based on KB ,"TS1+ 
+deeper understanding 
+understands Vmware clusters, DRS, HA, host and storage migrations ","basic troubleshooting of Vmware clusters, DRS, HA, host and storage migrations ","setup and advanced troubleshooting of Vmware clusters, DRS, HA, host and storage migrations 
+(training VMware vSphere Troubleshooting workshop)  ",,,,,,,,,,,,
+Cloud,Vmware stack ,VMware Cloud Technical specialist,,*Hardware - Storage ,,"basic understanding of storage technologies used in Tieto (SAN, NAS, EMC, Netapp) Training by Mirek Dvorak 
+TCSo / 1C onsite
+- basic knowleadge of OIB storage - Dell_MD3200 and compellent sc2020
+-basic knowleadge of MIB -HP_Lefthands 
+-basic knowleadge of BOSplus CMC and their disk configuration
+","basic troubleshooting of storage technologies used in Tieto (SAN, NAS, EMC, Netapp) 
+TCSo / 1C onsite
+- basic troubleshooting of OIB storage - Dell_MD3200 and compellent sc2020
+-basic knowleadge of MIB -HP_Lefthands 
+-basic troubleshooting of BOSplus CMC and their disk configuration
+- basic of vSAN technology","setup and troubleshooting of storage technologies used in Tieto (SAN, NAS, EMC, Netapp) 
+TCSo / 1C onsite 
+- troubleshooting/installation and configuration of OIB storage - Dell_MD3200 and compellent sc2020
+- troubleshooting/installation and configuration of MIB -HP_Lefthands 
+- troubleshooting/installation and configuration of BOSplus CMC and their disk configuration
+- installation/troubleshooting of vSAN ",,,,,,,,,,,,
+Cloud,Vmware stack ,VMware Cloud Technical specialist,,*Hardware - Backup ,,"basic understanding of backup technologies used in Tieto (NetBackup, TSM) 
+understands the difference between File level and Snapshot based backup ","basic troubleshooting of backup technologies used in Tieto (NetBackup, TSM) ","troubleshooting of backup technologies used in Tieto (NetBackup, TSM) ",,,,,,,,,,,,
+Cloud,Vmware stack ,VMware Cloud Technical specialist,,*Network ,,"basic understanding of Ipv4, subnets, routing, etc","advanced knowledge of Ipv4, subnets, routing and IPAM ","network troubleshooting (IP Scan, sniff, etc.)  ",,,,,,,,,,,,
+Cloud,Vmware stack ,VMware Cloud Technical specialist,,*Monitoring ,ability to understand the TK based on monitoring tool ,knowledge of monitoring tools and their scope ,knowledge of monitoring tools and their scope ,"able to setup monitoring (tresholds, ranges, triggers) ",,,,,,,,,,,,
+Cloud,Vmware stack ,VMware Cloud Technical specialist,,*Scripting ,,,basic knowledge Power Shell and Power CLI ,ability to write basic scripts using PowerShell and Power CLI ,,,,,,,,,,,,
+Cloud,"Vmware on-site 
+& Customized solutions",VMware Cloud Technical specialist,Vmware,"TCSo -BOS,BOSplus,MIB,DIB,HIB
+1C - XS,S,M,L",,basic understanding of onsite products,"knowleadge of onsite solutions, basic installation and ticket troubleshooting",installation and advanced troubleshooting of onsite products. Able to create site survey and site solutions documents,,,,,,,,,,,,
+Cloud,"Public Cloud
+ (AWS - Amazon Web Services & Azure - MS Azure)",Technical specialist - Public Cloud,Azure,"AaaS
+Multi Tenant Services (Domain Authentification) logic
+Object storage ",,,"Subscription Management 
+(IAM 
+Monitoring and logs 
+Consumption reports)
+Security and compliance management
+(CM, KMS, Inspector, Sheeld, etc) 
+Optimization and Config management (Cost optimization) 
+
+Knowledge of AWS and Azure 
+�Implement and manage continuous delivery systems and methodologies
+�Define and deploy monitoring, metrics, and logging systems�
+�Design, manage, and maintain tools to automate operational processes�
+�Implementing and controlling the flow of data to and from public cloud.�
+�Scalability and spending control ","TS3+
+Foundational Services Management 
+(Advanced compute management 
+Autoscaling 
+Loadbalancing 
+Database management 
+Storage mangement 
+Networking and CDN)
+
+Knowledge of AWS or Azure 
+�Implement and manage continuous delivery systems and methodologies
+�Define and deploy monitoring, metrics, and logging systems�
+�Design, manage, and maintain tools to automate operational processes�
+�Implementing and controlling the flow of data to and from public cloud.�
+�Scalability and spending control 
+Mentoring & Trainer ","TS4+
+Platform Services Management (Analytics Management, IoT manag, Application Services Manag, API gateway, queuing and notifications management) 
+ 
+Knowledge of both: AWS and Azure 
+�Implement and manage continuous delivery systems and methodologies
+�Define and deploy monitoring, metrics, and logging systems�
+�Design, manage, and maintain tools to automate operational processes�
+�Implementing and controlling the flow of data to and from public cloud.�
+�Scalability and spending control 
+Mentoring & Trainer ","TS5+
+Consultation services 
+Application Lifecycle management 
+
+�Designing and deploying dynamically scalable, highly available, fault tolerant, and reliable applications.�
+�Selecting the appropriate cloud services based on data, compute, database, security requirements
+�Migrating complex, multi-tier applications
+�Cloud Application Security
+�Implementing cost control strategies 
+�Virtual private networks
+�Cloud networking - Hybrid clouds
+�Cloud Security, IAM
+�Integration to Tieto tools�(e.g. monitoring)
+�Financial control service
+�Subscription management
+Technical lead of the team  ",,,,,,,,,,
+Cloud,"Public Cloud
+ (AWS - Amazon Web Services & Azure - MS Azure)",Azure Technical specialist ,AWS,"AaaS
+Multi Tenant Services (Domain Authentification) logic
+Object storage ",,,,,,,,,,,,,,,,
+Cloud,Cloud,O365 technical specialist ,O365,Microsoft,Office365,"Theorotical Knowledge of IT infra .
+
+Basic understanding Exchange and Hybrid Infrastructure","* Basic knowledge regarding e.g. network servers, workstations, deployments and user support.
+* Adequate practical background 
+*Technical knowledge of managing and administering MS Exchange 2010 / 2013 / 2016 infrastructure
+* Knowledge and Experience with supporting Outlook Clients (MSOutlook2010, 2013/2016 and WebAPP) 
+*Powershell Basics and Management
+
+","Has established knowledge of e.g. servers/networks, and server/network administration.  Understand and can do basic network device configurations. Has basic certificates or skills for networking and/or operating systems.Technical knowledge of managing and administering MS Exchange
+2010 / 2013 / 2016 infrastructureKnowledge and Experience with supporting Outlook Clients (MSOutlook
+2010, 2013/2016 and WebAPP)* Experience on Messaging and communication Industry - Office 365,Exchange 2010/2013,Lync 2010/2013 and Skype for Business (SfB).Strong understanding and experience with MS Exchange 2013/2016 in an enterprise environment including backup and restore procedures, OWA, RPC/HTTPS, message flow and security. -Implement, administer, maintain, and troubleshoot issues regarding on premise Exchange servers, Exchange Online, secure email gateways, and ADFS.-Exchange-related Active Directory administration.
+Experience with Microsoft Cloud Services (O365 and Azure) and instant messaging platform (Lync / Skype for Business)- Provide user account setup and configuration to allow users access to the O365 services- Address client connectivity, client software, and mobility installation issues for O365- Address service availability issues within the customer�s organizational span of control for O365Experience on any Messaging Gateway Filter. Symantec Bright mail Filter will be an added advantage.Exchange server Installation and configuration
+Exchange Server and User Administration
+Understanding on Exchange 2013 DAG, Client access, Email flow, Email Hygiene
+Troubleshoot user issues related to mailbox
+Troubleshooting Client Connectivity Issues Internally and Externally.
+Active Directory and Directory Services knowledge
+Active Directory Troubleshooting and Configuration of Exchange.Mail flow Troubleshooting.
+Understanding of Single Tennant and Multitenant Environment.
+Understanding PAM and SAM. Basic Understanding of Load Balancer.
+Exchange PowerShell knowledge
+Exchange 2013 DR and Site resilience.Exchange server maintenance activity.Exchange Backup and disaster recovery.
+Good General Server/Network Administration Concepts/Understanding.
+Troubleshooting Exchange Server issues.Monitor Exchange server health and Respond.
+Mailbox migration.
+3rd party vendor coordination while troubleshooting an issue.
+Daily Operating System alert handling and response.
+Windows Server 2008 /2012.
+ITIL Foundation Certification is preferred not mandatory.-
+","Can solve complex problems and have a good knowledge about different areas of IT (e.g. server, server applications, networks and periferal devices).  
+Have advanced certificates or skills needed to perform assigned tasks. Shares knowledge within own area of expertise. Analyses and improves current ways of working. Is able to explain and present complex solutions.L2 +
+Strong hands on experience in complex Microsoft Exchange enterprise environment.
+Candidate should have experience in handling exchange servers of 2010/2013/2016 independently.
+Experience on Configuring and Administration of High Availability environment for Exchange Services.
+Provide administration and engineering support for all messaging related projects such implementing new system or process.
+Clear understanding of disaster recovery processes.
+Clear understanding of mail gateway configuration and concepts.
+Should have knowledge about front end/back end, OWA, RPC/HTTP and active sync configuration
+Configuration of exchange policies and Email routing.
+Strong knowledge on Designing and Planning of Exchange Services infrastructure including O365
+Experience on Migration Tools like Quest Migration or any other third party tool for Inter and Intra Exchange Organization for Exchange.
+Should have knowledge about capacity planning in distributed environment.
+Strong understanding and experience with MS exchange 2010/2013/2016 including backup and restore procedures.
+Experience in supporting exchange server health check and should be in position to recommend the best practice.
+Patch and configuration management of MS Exchange.
+Strong Active Directory knowledge to resolve exchange related issues.
+Configuration and Support for DAG and Windows Clusters.
+Proven excellent customer service skills
+Excellent oral and written (including technical writing) communication skills
+Excellent decision-making and problem solving
+Ability to work cross functionally in an organization
+Use scripting techniques to automate systems management.
+Participate in the On-Call rotation
+Follow appropriate change control processes.
+Other Skills / Experience:
+I. Basic understanding of Hyper V and VMWARE.
+II. Basic Understanding of ITIL Foundation.
+III. Well-Versed in the Documentation for solutions and  RunBooks","Has cross-technical competence basis to support analyses. 
+Deep knowledge of one or several areas of expertise.
+ Is able to proactively work and solve problems. 
+Can  suggest new solutions and improve existing systems.
+ Is able to plan systems  according to business requirements. 
+Has deeper knowledge of some specific areas of IT.
+ Is able to explain and present highly complex solutions. Considered to be competence lead within the unit and by customer(s). L3 + work experience and maturity + soft skills. 
+Technical partner to management and to architect � gives ideas on how to deal with complex solutions, advices and consults with other internal parties. 
+Backup of architect.
+Understanding and support experience on Messaging ProtocolsSMTP,
+POP3, IMAP4, RPC, MAPI & RPC over HTTPs.
+Monitor the day-to- day operations of Microsoft Exchange servers including handling user support tickets, server maintenance, data migrations, backups, and deployments of Microsoft Exchange. 
+Analyze current resources and trends to enable planning for long-term performance and server expansion. 
+Interaction with users who submit support tickets and upper management; interaction with software vendors may occur from time to time. 
+Lead upgrades, account management, and changes to the system, including communication with users. 
+Report on implementations, migrations, upgrades, and other activities that affect the software environment.
+Monitor server logs and overall performance, troubleshooting and resolving problems. 
+Enforce change management and compliance processes 
+Migrations including Mailboxes, Public Folders, User Profiles 
+Ensure that the Exchange Organization is meeting the defined SLAs. 
+Follow defined engineering processes to ensure that all messaging projects meet all requirements and are delivered in a timely manner 
+Work with the IT Security team to implement changes to limit risks and vulnerabilities. 
+Provide Tier 3 level support to the operational staff Provide mentorship to the Tier 2 team 
+Provide guidance as a subject matter expert for Messaging and Collaborations Services. 
+Maintain and recommend the product Road Maps and the related Project Plans for the program and future projects
+Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment. 
+Excellent analytical skills and the ability to troubleshoot and resolve hardware and software problems 
+Ability to make decisions and manage your time effectively to a delivery plan/schedule 
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL.PowerShell scripting & Monitoring Tools such as SCOM
+",,,,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,HP,Server Infra - Eclosure ,,,,,,,,"Planning
+*creating installation checklist according to Datacenter (networks - SAN+ Ethernet, Enclosure internal switch selecting/defining parameters, cabling, Rack location planning, Resources allocation plan)
+*Capacity planning 
+*Financial Planning - Investment proposal 
+*CI preparation ",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,HP ,,,,,,"Installation 
+*Ordering Ports (SAN + Ethernet) + specifying parameters
+*Ordering cabling + rack installation + human resources allocation
+*VCEM + OA + VCM configuration
+*CI update
+*Monitoring order","Installation 
+*Ordering Ports (SAN + Ethernet) + specifying parameters
+*Ordering cabling + rack installation + human resources allocation
+*VCEM + OA + VCM configuration
+*CI update
+*Monitoring order","Installation 
+*Ordering Ports (SAN + Ethernet) + specifying parameters
+*Ordering cabling + rack installation + human resources allocation
+*VCEM + OA + VCM configuration
+*CI update
+*Monitoring order","Installation 
+*Ordering Ports (SAN + Ethernet) + specifying parameters
+*Ordering cabling + rack installation + human resources allocation
+*VCEM + OA + VCM configuration
+*CI update
+*Monitoring order",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,HP ,,,,"Maintenance 
+*Patching Firmware OA + VC","Maintenance 
+*Patching Firmware OA + VC","Maintenance 
+*Maintain configuration according to actual standard
+*Monitoring health, solving incidents
+*Patching Firmware OA + VC","Maintenance 
+*Maintain configuration according to actual standard
+*Monitoring health, solving incidents
+*Patching Firmware OA + VC","Maintenance 
+*Maintain configuration according to actual standard
+*Monitoring health, solving incidents
+*Patching Firmware OA + VC","Maintenance 
+*Maintain configuration according to actual standard
+*Monitoring health, solving incidents
+*Patching Firmware OA + VC",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,HP,Server Infra - Rack Server ,,,"Maintenance 
+*Monitoring health, solving incidents
+*Patching Firmware ","Maintenance 
+*Maintain configuration according to actual standard 
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents
+*Patching Firmware ","Installation 
+*Ordering Ports (SAN + Ethernet) + specifying parameters
+*Ordering cabling + rack installation + human resources allocation
+*iLO/iDRAC configuration 
+*CI update
+*Monitoring order
+
+Maintenance 
+*Maintain configuration according to actual standard 
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents
+*Patching Firmware ",,,"Planning
+*creating installation checklist according to Datacenter (networks - SAN+ Ethernet, Enclosure internal switch selecting/defining parameters, cabling, Rack location planning, Resources allocation plan)
+*Capacity planning 
+*Financial Planning - Investment proposal 
+*CI preparation ",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,HP ,Server Infra - Blades ,,,"Maintenance 
+*Monitoring health, solving incidents
+*Patching Firmware ","Maintenance 
+*Maintain configuration according to actual standard 
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents
+*Patching Firmware ","Installation 
+*Ordering ports (SAN + Ethernet) + specifying parameters
+*VCEM + OA + VCM configuration
+*CI update
+*Monitoring order
+
+Maintenance 
+*Maintain configuration according to actual standard 
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents
+*Patching Firmware ",,,"Planning
+*creating installation checklist according to Datacenter (networks - SAN+ Ethernet, Enclosure internal switch selecting/defining parameters, cabling, Rack location planning, Resources allocation plan)
+*Capacity planning 
+*Financial Planning - Investment proposal
+*CI preparation ",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,HP ,Network Infra (Network switch) ,,,,"Maintenance
+*Maintain configuration according to actual standard 
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents
+*Patching Firmware","Installation
+*As part of Enclosure installation 
+
+Maintenance
+*Maintain configuration according to actual standard 
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents
+*Patching Firmware",,,"Planning
+*As part of Enclosure planing (TPC is responsible only for Enclosure internal switches) ",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Dell ,Server - Rack Server ,,,"Maintenance 
+*Monitoring health, solving incidents
+*Patching Firmware ","Maintenance 
+*Maintain configuration according to actual standard 
+*Monitoring health, solving incidents
+*Patching Firmware ","Installation 
+*Ordering Ports (SAN + Ethernet) + specifying parameters
+*Ordering cabling + rack installation + human resources allocation
+*iLO/iDRAC configuration 
+*CI update
+*Monitoring order
+
+Maintenance 
+*Maintain configuration according to actual standard 
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents
+*Patching Firmware ",,,"Planning
+*creating installation checklist according to Datacenter (networks - SAN+ Ethernet, cabling, Rack location planning, Resources allocation plan)
+*Capacity planing
+*Financial planning - investment proposal
+*CI preparation ",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,MS Operating System ,Operating System - Windows Server: Life Cycle ,,"Maintenance 
+*Monitoring health, solving incidents
+*Patching OS, Firmware, drivers  ","Installation 
+*OS installation according to checklist 
+*OS configuration according to ordered parameters 
+
+Maintenance 
+*Maintain configuration according to actual standard 
+*Monitoring health, solving incidents
+*Patching OS, Firmware, drivers  ","Installation 
+*OS installation according to checklist 
+*OS configuration according to ordered parameters 
+
+Maintenance 
+*Maintain configuration according to actual standard 
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents
+*Patching OS, Firmware, drivers  ","Installation 
+*OS installation according to checklist 
+*OS configuration according to ordered parameters 
+
+Maintenance 
+*Maintain configuration according to actual standard 
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents
+*Patching OS, Firmware, drivers  ","Planning
+*creating installation checklist according to server role 
+*defining HW&SW configuration parameters criteria ","Planning
+*creating installation checklist according to server role 
+*defining HW&SW configuration parameters criteria ","Planning
+*creating installation checklist according to server role 
+*defining HW&SW configuration parameters criteria ",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,MS Operating System ,Operating System - Windows Server: Hypervisor: Hyper V,,"Maintenance 
+ *Monitoring health, solving incidents","Installation 
+Hyper-V configuration according to checklist (including network, storage ordering�)
+
+Maintenance 
+*maintain configuration according to actual standard
+ *Monitoring health, solving incidents","Installation 
+Hyper-V configuration according to checklist (including network, storage ordering�)
+
+Maintenance 
+*maintain configuration according to actual standard
+*Solving errors, nonexpected behaviour
+ *Monitoring health, solving incidents","Installation 
+Hyper-V configuration according to checklist (including network, storage ordering�)
+
+Maintenance 
+*maintain configuration according to actual standard
+*Solving errors, nonexpected behaviour
+ *Monitoring health, solving incidents","Planning
+*defining Hyper-V configuration parameters according to Host Role in TPC Fabric including Network, storage, Firmware (Power options, Hyper threading�)
+*Specifying hardware configuration ","Planning
+*defining Hyper-V configuration parameters according to Host Role in TPC Fabric including Network, storage, Firmware (Power options, Hyper threading�)
+*Specifying hardware configuration ","Planning
+*defining Hyper-V configuration parameters according to Host Role in TPC Fabric including Network, storage, Firmware (Power options, Hyper threading�)
+*Specifying hardware configuration ",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,MS Operating System ,Operating System - Windows Server: Clustering: Failover Clustering ,,,"Installation 
+*Failover cluster configuration according to checklist (incl. CNO domain object, cluster disks if needed, heartbeat, live migration �)
+
+Maintenance 
+*Maintain configuration according to actual standard
+*Monitoring health, solving incidents","Installation 
+*Failover cluster configuration according to checklist (incl. CNO domain object, cluster disks if needed, heartbeat, live migration �)
+
+Maintenance 
+*Maintain configuration according to actual standard
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents","Installation 
+*Failover cluster configuration according to checklist (incl. CNO domain object, cluster disks if needed, heartbeat, live migration �)
+
+Maintenance 
+*Maintain configuration according to actual standard
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents","Planning
+*defining cluster parameters - (incl. count of nodes for capacity variants, witness, storage�)","Planning
+*defining cluster parameters - (incl. count of nodes for capacity variants, witness, storage�)","Planning
+*defining cluster parameters - (incl. count of nodes for capacity variants, witness, storage�)",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,MS Operating System ,Operating System - Windows Server: Active Directory Domain Services,,,,"Maitenance 
+*Maintain configuration according to actual standard
+*Monitoring health, solving incidents","Installation 
+*AD DS, DNS configuration according to planned design
+*GPO configuration according to plan
+
+Maitenance 
+*Maintain configuration according to actual standard
+*Solving errors, nonexpected behaviour
+*Monitoring health, solving incidents",,"Planning 
+*designing AD domain(s)/forests (incl. capcaity variants redundancy, naming convention, DNS, trusts �, backup, security, GPO)
+*defining HW&SW configuration parameters criteria","Planning 
+*designing AD domain(s)/forests (incl. capcaity variants redundancy, naming convention, DNS, trusts �, backup, security, GPO)
+*defining HW&SW configuration parameters criteria",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,MS Operating System ,Operating System - Windows Server: Group Policies ,,,,,"Installation 
+*creating designed GPO objects
+
+Maintenance 
+*Monitoring health, solving incidents",,"Planning
+*designing new/change/deleting GPOs, incl. inheritance, targeting, permissions & WMI filtering
+
+Ordering
+*defining requirements for GPO changes","Planning
+*designing new/change/deleting GPOs, incl. inheritance, targeting, permissions & WMI filtering
+
+Ordering
+*defining requirements for GPO changes",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,MS Operating System ,Operating System - Windows Server: Remote Desktop Services ,,"Maintenance 
+* limited RDP users support","
+
+Maintenance 
+*Monitoring health, solving incidents
+* limited RDP users support","
+Maintenance 
+*Monitoring health, solving incidents
+* limited RDP users support","Installation
+*Configuring Remote desktp role incl. Remote Apps, RD Broker,RD gateway, licensing 
+
+Maintenance 
+*Monitoring health, solving incidents
+* limited RDP users support",,,"Planning
+*designing RDP configuration parameters specific for TPC jumps (incl. capacity, architecture - Remote Apps, RD Broker,RD gateway. Security design, Licensing design) 
+*designing HW requirements, network requirements
+",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Microsoft ,Automation: OS Patching ,,,"Maintenance 
+**management of membership in patching collections (tools available nowdays - SCVMM patching, SCCM patching, WSUS)","Maintenance 
+*creating patching reports, management of patch removal when necessary (tools available nowdays - SCVMM patching, SCCM patching, WSUS, MS update online) 
+*management of membership in patching collections (tools available nowdays - SCVMM patching, SCCM patching, WSUS)","Installation
+*Manual/semiauto/auto patching of OS (tools available nowdays - SCVMM patching, SCCM patching, WSUS, MS update online)
+
+Maintenance 
+*creating patching reports, management of patch removal when necessary (tools available nowdays - SCVMM patching, SCCM patching, WSUS, MS update online) 
+*management of membership in patching collections (tools available nowdays - SCVMM patching, SCCM patching, WSUS)",,"Planning 
+*Designing time plans, baseline criteria, implementation method, reporting method (tools available nowdays - SCVMM patching, SCCM patching, WSUS, MS update online)","Planning 
+*Designing time plans, baseline criteria, implementation method, reporting method (tools available nowdays - SCVMM patching, SCCM patching, WSUS, MS update online)",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Microsoft ,HW specific drivers&firmware&utils patching,,,"Installation
+*Implementing drivers&firmaware&utilities acording to plan (currently HP/Dell)
+
+Maintenance 
+*manuall HW specific drivers&firmware&utils installation when needed (after HW components replacing or when specific computers should differ from standard) ","Installation
+*Implementing drivers&firmaware&utilities acording to plan (currently HP/Dell)
+
+Maintenance 
+*manuall HW specific drivers&firmware&utils installation when needed (after HW components replacing or when specific computers should differ from standard) ","Installation
+*Implementing drivers&firmaware&utilities acording to plan (currently HP/Dell)
+
+Maintenance 
+*manuall HW specific drivers&firmware&utils installation when needed (after HW components replacing or when specific computers should differ from standard) ",,"Planning 
+*Designing baseline according to HW vendor requirements and support matrixes (currently HP/Dell)","Planning 
+*Designing baseline according to HW vendor requirements and support matrixes (currently HP/Dell)",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Windows Server ,Windows Server: Licensing ,,"Installation
+*Licensing the customer server according to ordered method
+
+Maintenance
+*License reports according to ordered method
+
+Decomissioning
+*remove/reuse/decomission license ","Installation
+*Licensing the customer server according to ordered method
+
+Maintenance
+*License reports according to ordered method
+
+Decomissioning
+*remove/reuse/decomission license ","Installation
+*Licensing the customer server according to ordered method
+
+Maintenance
+*License reports according to ordered method
+
+Decomissioning
+*remove/reuse/decomission license ","Installation
+*Licensing the customer server according to ordered method
+
+Maintenance
+*License reports according to ordered method
+
+Decomissioning
+*remove/reuse/decomission license ","Planning 
+*designing license methods (KMS, Host based, manual)
+","Planning 
+*designing license methods (KMS, Host based, manual)
+*designing license report methods","Planning 
+*designing license methods (KMS, Host based, manual)
+*designing license report methods",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Windows Server ,Windows Server: Life Cycle  ,,"Maintenance 
+*Monitoring VM health
+*management of VM custom attributes
+*management of VM availability","Installation 
+*VM implementation according to Order
+
+Maintenance 
+*Monitoring VM health
+*management of VM custom attributes
+*management of VM availability
+","Installation 
+*VM implementation according to Order
+
+Maintenance 
+*Monitoring VM health
+*management of VM custom attributes
+*management of VM availability
+*Monitoring capacity and performance of Host resources for VM ","Installation 
+*VM implementation according to Order
+
+Maintenance 
+*Monitoring VM health
+*management of VM custom attributes
+*management of VM availability
+*Monitoring capacity and performance of Host resources for VM ","Planning 
+*designing standard VM configuration, supported versions, parameters for deployed VMs
+*designing monitoring, patching, backup, antivirus, reporting, accounting ","Planning 
+*designing standard VM configuration, supported versions, parameters for deployed VMs
+*designing monitoring, patching, backup, antivirus, reporting, accounting ","Planning 
+*designing standard VM configuration, supported versions, parameters for deployed VMs
+*designing monitoring, patching, backup, antivirus, reporting, accounting ",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Windows Client ,Windows Client: Licensing ,,"Installation 
+*Licensing the customer client OS according to ordered method
+
+Maintenance 
+*License reports according to ordered method 
+
+Decomissioning 
+*remove/reuse/ decomission license","Installation 
+*Licensing the customer client OS according to ordered method
+
+Maintenance 
+*License reports according to ordered method 
+
+Decomissioning 
+*remove/reuse/ decomission license","Installation 
+*Licensing the customer client OS according to ordered method
+
+Maintenance 
+*License reports according to ordered method 
+
+Decomissioning 
+*remove/reuse/ decomission license","Installation 
+*Licensing the customer client OS according to ordered method
+
+Maintenance 
+*License reports according to ordered method 
+
+Decomissioning 
+*remove/reuse/ decomission license",,,"Planning 
+*designing license methods (KMS, manual)
+*designing license report methods ",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Windows Client ,Windows Client: Life Cycle ,,"Installation 
+* VM implementation according to Order
+
+Maintenance 
+*Monitoring VM health 
+*management of VM custom attributes 
+*management of VM availability ","Installation 
+* VM implementation according to Order
+
+Maintenance 
+*Monitoring VM health 
+*management of VM custom attributes 
+*management of VM availability ","Installation 
+* VM implementation according to Order
+
+Maintenance 
+*Monitoring VM health 
+*management of VM custom attributes 
+*management of VM availability 
+*Monitoring capacity and performance of Host resources for VM","Installation 
+* VM implementation according to Order
+
+Maintenance 
+*Monitoring VM health 
+*management of VM custom attributes 
+*management of VM availability 
+*Monitoring capacity and performance of Host resources for VM",,,"Planning 
+*designing standard VM configuration, supported versions, parameters for deployed VMs 
+*designing monitoring, patching, backup, antivirus, reporting, accounting ",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,RedHat ,RedHat Enterprise: Life Cycle  ,,"Maintenance
+*management of VM custom attributes
+*management of VM availability ","Maintenance
+*Monitoring VM health
+*management of VM custom attributes
+*management of VM availability ","Maintenance
+*Monitoring VM health
+*management of VM custom attributes
+*management of VM availability 
+*Monitoring capacity and performance of Host resources for VM","Installation 
+*VM implementation according to Order 
+
+Maintenance
+*Monitoring VM health
+*management of VM custom attributes
+*management of VM availability 
+*Monitoring capacity and performance of Host resources for VM",,,,,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Linux,"CentOs (6,7)",,"Maintenance 
+* management of VM custom attributes
+*management of VM availability","Maintenance 
+* management of VM custom attributes
+*management of VM availability","Maintenance 
+* management of VM custom attributes
+*management of VM availability
+* monitoring capacity and performance of Host resources for VM","Maintenance 
+* management of VM custom attributes
+*management of VM availability
+* monitoring capacity and performance of Host resources for VM",,,,,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Novell ,Suse Linux Enterprise ,,"Maintenance  
+*management of VM custom attributes 
+*management of VM availability ","Maintenance  
+*management of VM custom attributes 
+*management of VM availability ","Maintenance  
+*management of VM custom attributes 
+*management of VM availability 
+*Monitoring capacity and performance of Host resources for VM ","Maintenance  
+*management of VM custom attributes 
+*management of VM availability 
+*Monitoring capacity and performance of Host resources for VM ",,,,,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Canonical ,Ubuntu Linux - Customers,,"Maintenance 
+* management of VM custom attributes 
+*management of VM availability","Maintenance 
+* management of VM custom attributes 
+*management of VM availability","Maintenance 
+* management of VM custom attributes 
+*management of VM availability
+*Monitoring capacity and performance of Host resources for VM","Maintenance 
+* management of VM custom attributes 
+*management of VM availability
+*Monitoring capacity and performance of Host resources for VM",,,,,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Applications ,System Center: Virtual machine Manager - SCVMM,,,,"Maintenance 
+* Monitoring VMM components health 
+* maintaining VMM health
+*maintaining VMM availability ","Installation
+* Instalation of SC VMM according to design document 
+
+Maintenance 
+* Monitoring VMM components health 
+* maintaining VMM health
+*maintaining VMM availability 
+* Implement new Networks according to guide from design
+*Implement new Clouds + roles according to guide from design ",,"Planning 
+*Design VMM implementation - architecture, SQL DB requirements, MAC Pool, WWPN pool, Naming conventions, Networks, storage classifications, host folders structure, custom attributes, permissions, roles, clouds, library, templates ...) ","Licensing 
+*License management for System center
+
+Planning 
+*Design VMM implementation - architecture, SQL DB requirements, MAC Pool, WWPN pool, Naming conventions, Networks, storage classifications, host folders structure, custom attributes, permissions, roles, clouds, library, templates ...) ",,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Applications ,Operations Manager SCOM,,,,"Maintenance 
+*Monitoring baseline customization - creating overrides according to guide from design   ","Installation 
+*Instalation of SCOM according to design document 
+
+Maintenance 
+*Monitoring SCOM components health 
+*Updates of Management packs
+*Monitoring baseline customization - creating overrides according to guide from design  ",,,,,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Applications ,Configuration Manager SCCM,,,,"Maintenance
+*Monitoring baseline customization - creating overrides according to guide from design ","Installation
+* Instalation of SCCM according to design document
+
+Maintenance
+*Monitoring SCCM components health 
+* Updates of Management packs 
+*Monitoring baseline customization - creating overrides according to guide from design ",,,,,,,,,,,
+Cloud,MS Stack,Microsoft Cloud Technical Specialist,Applications ,Orchestrator SCOR,,,"Maintenance
+*Powershell knowledge ","Maintenance
+*Powershell knowledge ","Maintenance
+*Monitoring SCOR components health 
+*Powershell knowledge ",,,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,Linux,"RedHat6,7,8 Suse 11,12,13",,"Basic shell commands:
+(Create, delete, copy, and move files and directories and edit text files)
+- Account Management ( useradd / usermod )
+- List, set, and change standard ugo/rwx permissions
+- Firewall - basic understanding and ability to identify showstopper (RH)
+- Basic differences between RHEL 6 and RHEL 7
+- LVM basic operations (list, create filesystem,extend Filesystem)  (RH)
+- Access remote systems using SSH, OA, iLO
+- Use system documentation (man pages...)","Troubleshooting (locate and read log files, filesystems usage, system utilization, HW failures...)
+- Network configuration (IP, routes, ...)
+- Firewall (iptables, firewalld)
+- List and identify running processes and start-up services
+- Disk operations (LVM)
+- Basic knowledge about cluster systems
+- Basic overview about server virtualization VMware, Hyper-V and physical servers
+- Knowledge about additional permissions ACL
+- Basic knowledge about repository handling","System updates with troubleshooting
+- Package installation/reinstallation/uninstallation from repository and unexpected dependencies
+- Advanced disk operations
+- Advanced network configuration, firewall
+- Knowledge about network shares
+- Knowledge about scripting and automation
+- Basic SELinux operations",,,,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,RedHat ,Satellite,,able to install package from configured repo,register server to Satellite/RHN,"server repository based troubleshooting, RHN registration, creation of installation ISO files",,,,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,Windows Server,"Administration Fundamentals 
+(Exam 98-365)",,"Device Drivers
+Services
+Server Installation Options
+Server Roles
+Remote Access
+File and Print Services
+Server Virtualization
+AD accounts and groups
+OUs, Delagation
+AD infrastructure
+Group Policy
+Storage technologies, scenarios
+RAID redundancy
+Disk types
+HW components
+Performance monitoring
+Logs, Alerts, Event Viewer
+Startup process
+Business Continuity
+Troubleshooting methods
+Scheduled jobs
+VBS scripts","MTA Certification
+(Exam 98-365)","MTA Certification
+(Exam 98-365)","MTA Certification
+(Exam 98-365)","MTA Certification
+(Exam 98-365)",,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,TOOLS,Automation tool - BSA  (BMC),,"Static/Smart group creation
+Agent installation, troubleshooting
+Job creation/customization
+Patching","Static/Smart group creation
+Agent installation, troubleshooting
+Job creation/customization
+Patching","Scripting (PowerShell, or NSH scripting) = DevOps 
+Introduction to BSA provisioning","Scripting (PowerShell, or NSH scripting) = DevOps 
+Introduction to BSA provisioning","Scripting (PowerShell, or NSH scripting) = DevOps 
+Owner of BSA provisiong JOBs, tuning of provisioning",,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,TOOLS,"CMDB (TONE,NUBO,DOMO)",,"Able to create/process all type of tickets (Incident/Request/Problem/Change/Task/KB/CMDB) 
+SLA/OLA
+Critical queue
+Knows how to process 150/425 tasks",Change desing,Change desing,Change desing,Change desing,,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,TOOLS,Automation tool - TEA (SLM),,,,,,,,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,PowerShell,Scripting ,,Basic queries,"Loops, set parameters",,,,,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,Bash,Scripting ,,Basic queries,"Loops, set parameters ",,,,,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,TOOLS ,"Internal orders (gOrder, Catalog Item orders)",,Know how to process internal orders,Know how to process internal orders,Know how to process internal orders,Know how to process internal orders,Know how to process internal orders,,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,TOOLS ,"Internal Tieto Tools (MyData, MyTime, ShiftMaster, VPN, AARM, Google Apps, O365, Workday)",,Understand internal Tieto tools and knows how to use them,Understand internal Tieto tools and knows how to use them,Understand internal Tieto tools and knows how to use them,Understand internal Tieto tools and knows how to use them,Understand internal Tieto tools and knows how to use them,,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,TOOLS ,"Tieto platforms and remote management (TPC, TCS, Azure, x86 virtual and physical capacity, onPremise, TCSO, emergency access)",,Undestand all Tieto plaforms/environments and knows how to access them,Undestand all Tieto plaforms/environments and knows how to access them,Undestand all Tieto plaforms/environments and knows how to access them,Undestand all Tieto plaforms/environments and knows how to access them,Undestand all Tieto plaforms/environments and knows how to access them,,,,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,HP,Server Infra - Rack Server ,,"How to access iLO, basic cofiguration, iLO registration",,,,,,"Planning
+*creating installation checklist according to Datacenter (networks - SAN+ Ethernet, Enclosure internal switch selecting/defining parameters, cabling, Rack location planning, Resources allocation plan)
+*Capacity planning 
+*Financial Planning - Investment proposal 
+*CI preparation ",,,,,,,,
+Cloud,Implementation,Server Implementation Specialist,HP ,Server Infra - Blades ,,"Access to VCM
+blade profile management
+accessing blade - basic problem soleving skill",,,,,,"Planning
+*creating installation checklist according to Datacenter (networks - SAN+ Ethernet, Enclosure internal switch selecting/defining parameters, cabling, Rack location planning, Resources allocation plan)
+*Capacity planning 
+*Financial Planning - Investment proposal
+*CI preparation ",,,,,,,,
+Computing,Windows ,Windows Technical Specialist,PowerShell,Scripting ,,"Basic ""Get-/Select-"" queries
+WMI queries","PSRemoteSession
+Variables
+Basic functions
+Exports","Foreach loops
+Functions
+""Set-"" queries
+Import/Export",,"DevOps
+Modules
+Advanced Functions
+Automation",,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,Windows Server,"Administration Fundamentals 
+(Exam 98-365)",,"Device Drivers
+Services
+Server Installation Options
+Server Roles
+Remote Access
+File and Print Services
+Server Virtualization
+AD accounts and groups
+OUs, Delagation
+AD infrastructure
+Group Policy
+Storage technologies, scenarios
+RAID redundancy
+Disk types
+HW components
+Performance monitoring
+Logs, Alerts, Event Viewer
+Startup process
+Business Continuity
+Troubleshooting methods
+Scheduled jobs
+VBS scripts","MTA Certification
+(Exam 98-365)","MTA Certification
+(Exam 98-365)","MTA Certification
+(Exam 98-365)","MTA Certification
+(Exam 98-365)",,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,Windows Server,"? Installation, Storage, and Compute with Windows Server�
+(Exam 70-740)",,,"Installation requirements
+OS + roles configuration
+Server management
+KMS, AD based activation
+Disk and volumes configuration
+Shares, quotes
+MPIO
+Data deduplication
+Hyper-V, VM basic configuration
+High Availibility - Failover Clusters
+High Availibility - Hyper-V Replica
+Network Load Balancing
+WSUS
+Resource monitoring - EventLog, Collector Sets","MCSA Certfication
+(70-740
+70-741
+70-742)","MCSA Certfication
+(70-740
+70-741
+70-742)","MCSA Certfication
+(70-740
+70-741
+70-742)",,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,Windows Server,"Networking with Windows Server 2016�
+(Exam 70-741)",,,"DNS server installation, configuration
+DNS Zones and records, configuration, debug
+DHCP, IPAM implementation
+NAT, VPN, NPS
+IPv4, IPv6 addressing
+DFS, Branch office solutions
+QoS, high performance networks ",,,,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,Windows Server,"Active Directory DS, CS, FS
+(Exam 70-742)",,,"Install and configure AD DS
+Manage and maintain AD DS
+Create and Manage Group Policy
+AD Certificate Services","Install and configure AD DS
+Manage and maintain AD DS
+Create and Manage Group Policy
+AD Certificate Services","Install and configure AD DS
+Manage and maintain AD DS
+Create and Manage Group Policy
+AD Certificate Services","Install and configure AD DS
+Manage and maintain AD DS
+Create and Manage Group Policy
+AD Certificate Services",,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,Windows Server,"Securing Windows Server 2016�(Exam 70-744)
+Designing and Implementing a Server Infrastructure�(Exam 70-413)
+Implementing an Advanced Server Infrastructure�(Exam 70-414)",,,,,,"MCSE Certification
+70-744 or
+70-413 or
+70-414
+",,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,Automation tool - BSA  (BMC),,Basic usage,Basic usage,"Static/Smart group creation
+Agent installation, troubleshooting
+Job creation/customization
+Patching","Static/Smart group creation
+Agent installation, troubleshooting
+Job creation/customization
+Patching","Scripting (PowerShell, or NSH scripting) = DevOps ",,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,Automation tool - TEA (SLM),,Basic usage,Basic usage,TBD - implementation in progress,TBD - implementation in progress,Scripting (PowerShell) = DevOps ,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,Monitoring (SCOM),,"Monitoring - valid/not-valid alerts
+Knows our baselines (Server management , AD, Cluster, HW)  ","Monitoring supress, blackout
+Knows how to filter not valid monitoring ","Monitoring supress, blackout
+Knows how to filter not valid monitoring ","Monitoring supress, blackout
+Knows how to filter not valid monitoring ","Monitoring supress, blackout
+Knows how to filter not valid monitoring ",,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,"Monitoring (TrueSight, Patrol)",,"Monitoring - valid/not-valid alerts
+Knows our baselines (Server management , AD, Cluster, HW)  ","Monitoring supress, blackout
+Knows how to filter not valid monitoring ","Monitoring supress, blackout
+Knows how to filter not valid monitoring ","Monitoring supress, blackout
+Knows how to filter not valid monitoring ","Monitoring supress, blackout
+Knows how to filter not valid monitoring ",,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,Backup/Restore,"Difference among incremental,  Differencial backup and full backup ","Backup - knowlegde of backup tools (Hiback, TSM, Legato, NetBackup, DFSR)
+Restore processes
+","Backup - knowlegde of backup tools (Hiback, TSM, Legato, NetBackup, DFSR)
+Restore processes
+","Backup - knowlegde of backup tools (Hiback, TSM, Legato, NetBackup, DFSR)
+Restore processes
+","Backup - knowlegde of backup tools (Hiback, TSM, Legato, NetBackup, DFSR)
+Restore processes
+","Backup - knowlegde of backup tools (Hiback, TSM, Legato, NetBackup, DFSR)
+Restore processes
+",,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,Storages in Tieto,"Storage knowledge 
+RAID typology ","To have overview of all storages in Tieto to be able to extend disk on all types of storages 
+Storage boxes, vendors, technology, SAN, NAS, disks, tiers
+FIN / SWE differences
+HA, DR","To have overview of all storages in Tieto to be able to extend disk on all types of storages 
+Storage boxes, vendors, technology, SAN, NAS, disks, tiers
+FIN / SWE differences
+HA, DR","To have overview of all storages in Tieto to be able to extend disk on all types of storages 
+Storage boxes, vendors, technology, SAN, NAS, disks, tiers
+FIN / SWE differences
+HA, DR","To have overview of all storages in Tieto to be able to extend disk on all types of storages 
+Storage boxes, vendors, technology, SAN, NAS, disks, tiers
+FIN / SWE differences
+HA, DR","To have overview of all storages in Tieto to be able to extend disk on all types of storages 
+Storage boxes, vendors, technology, SAN, NAS, disks, tiers
+FIN / SWE differences
+HA, DR",,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,HP Blade system essentials,,Brief training about HP blade enclosures and their parts. Touch it physically and inspect all parts.,Brief training about HP blade enclosures and their parts. Touch it physically and inspect all parts.,Brief training about HP blade enclosures and their parts. Touch it physically and inspect all parts.,Brief training about HP blade enclosures and their parts. Touch it physically and inspect all parts.,Brief training about HP blade enclosures and their parts. Touch it physically and inspect all parts.,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,"Internal orders (gOrder, Catalog Item orders)",,Know how to process internal orders,Know how to process internal orders,Know how to process internal orders,Know how to process internal orders,Know how to process internal orders,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,"Internal Tieto Tools (MyData, MyTime, ShiftMaster, VPN, AARM, Google Apps, O365, Workday)",,Understand internal Tieto tools and knows how to use them,Understand internal Tieto tools and knows how to use them,Understand internal Tieto tools and knows how to use them,Understand internal Tieto tools and knows how to use them,Understand internal Tieto tools and knows how to use them,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,"Tieto platforms and remote management (TPC, TCS, Azure, x86 virtual and physical capacity, onPremise, TCSO, emergency access)",,Undestand all Tieto plaforms/environments and knows how to access them,Undestand all Tieto plaforms/environments and knows how to access them,Undestand all Tieto plaforms/environments and knows how to access them,Undestand all Tieto plaforms/environments and knows how to access them,Undestand all Tieto plaforms/environments and knows how to access them,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,CMDB (TONE),Understand ticket flow and priority,"Able to create/process all type of tickets (Incident/Request/Problem/Change/Task/KB/CMDB) 
+SLA/OLA
+Critical queue
+Knows how to process 150/425 tasks",Change desing,Change desing,Change desing,Change desing,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,CMDB (ServiceNow),Understand ticket flow and priority,"Able to create/process all type of tickets (Incident/Request/Problem/Change/Task/KB/CMDB) 
+SLA/OLA
+Critical queue
+Knows how to process 150/425 tasks",Change desing,Change desing,Change desing,Change desing,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,"Hadware issues
+Vendor cases (HP, Dell) ",,fulfill requirement for hardware exchange ,fulfill requirement for hardware exchange ,,,,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,TOOLS ,"Sources of information (SIP, TietoShare, Wikia, Confluence, TED/TEP, Teamer, Jira, xWiki, Teamer, TED, TEP, Sydi)",,Understand document management system in Tieto,Understand document management system in Tieto,Understand document management system in Tieto,Understand document management system in Tieto,Understand document management system in Tieto,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,Other ,Tieto structure,,Managerial structure introduction,Managerial structure orientation ,Managerial structure orientation ,Managerial structure orientation ,Managerial structure orientation ,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,Other ,OS troubleshooting,,Advanced OS troubleshooting,Advanced OS troubleshooting,Advanced OS troubleshooting,Advanced OS troubleshooting,Advanced OS troubleshooting,,,,,,,,,,
+Computing,Windows ,Windows Technical Specialist,Other ,MIM case handling,,MIM process workflow for Win technicians,MIM process workflow for Win technicians,MIM process workflow for Win technicians,MIM process workflow for Win technicians,MIM process workflow for Win technicians,,,,,,,,,,
+Computing,Back Up ,Backup Technical Specialist ,Novastor HiBack,,"Main Competence Area: Backup technology/�logies knowledge, knowledge of terminology, types of BUs etc., Storages, Tapes, Libraries etc. Basic knowledge of WIN and Linux server OS administration, AD, basic knowledge of network.","Basic backup implementation tasks 
+Basic backup decomm tasks 
+Basic troubleshooting of failed backups 
+reporting ","TS2 +
+more complex backup implementation tasks (DB backups, cluster solutions, remote sites) 
+advanced troubleshooting 
+data restores ","TS3 +
+opening cases on vendor's site (mainly evaluation of the need of opening it) 
+participation on projects 
+","TS4+
+connection to development team (participation on infrastructure related and product development related tasks) ","SA3 
+cooperation with product team and overlaping with product development ","SA4
+consultancy, leader of project  
+the most important projects - suggestions/solutions how to build the environment, etc. Respected middle man between product team and ops  ",SA5,,,,,,,,
+Computing,Back Up ,Backup Technical Specialist ,Legato NetWorker ,,,,,,,,,,,,,,,,,
+Computing,Back Up ,Backup Technical Specialist ,IBM TSM Backups ,,,,,,,,,,,,,,,,,
+Computing,Back Up ,Backup Technical Specialist ,Veritas NetBackup ,,"Sub Competence Area: Windows / Unix advanced administration, AIX , Solaris, Virtualization, Citrix XenApp, Hyper-V, vmware, cluster solutions, DB backups deep knowledge","Basic backup decomm tasks 
+Basic troubleshooting of failed backups 
+reporting ","Basic backup implementation tasks 
+advanced troubleshooting 
+data restores ","More complex backup implementation tasks (DB backups, cluster solutions, remote sites) 
+opening cases on vendor's site (mainly evaluation of the need of opening it) 
+participation on projects 
+","TS4+
+connection to development team (participation on infrastructure related and product development related tasks) ",,"SA4
+consultancy, leader of project  
+the most important projects - suggestions/solutions how to build the environment, etc. Respected middle man between product team and ops  ",,,,,,,,,
+Computing,Storage ,Storage Technical Specialist,NetApp,Skills,,"Basic understanding of ONTAP (7-mode & C-mode)and functionality of NAS & SAN protocols
+Overview of hardware components for NetApp Storage Systems
+Understanding of raid , aggregates, volumes, disk types. 
+Basic administration : Create/delete/modify volume/LUN, identify failed drive
+Open case with vendor","Basic Administration  & troubleshooting of NFS, CIFS, FC, iSCI protocol
+Create/delete/modify  Vfiler/vserver 
+Snapshot technology - schedule, restore
+Understating  of Network terms - NIC, VLAN, trunk, port channel, LIF types
+Understanding functionality of HA pair, Metrocluster, Nearstore
+Using NetApp support site 
+Using OnCommand Unified manager, performance manager, Netapp management console, Graphana","Administration  & troubleshooting of NFS, CIFS, FC, iSCI protocol
+Basic performance troubleshooting 
+Execute all failover related techniques and verification
+Protection technologies : Snapvault, snapmirror, ndmp, snapshot
+Understanding of Storage efficiency : deduplicaion , compression",,"Planing/perform/participate on upgrade/maintenance  
+Understanding and implementation of name services: NIS, LDAP, DNS
+Setup and implement netapp monitoring
+Usage of netapp tools : Latx,  Interoperability Matrix Tool, Syslog translator, Active IQ
+able to perform basic troubleshooting  and collect logs from Netapp, brocade, atto bridge 
+Understanding and usage of perfstat & packet trace
+Administration of Snapcreator","Advanced performance troubleshooting 
+Plan and perform Ontap upgrade
+Installation and administration of tiebreaker server, Oncomand unified manager, Performance manager 
+Trobleshooting of netapp SAN switches & ATTO bridges 
+Create/participate on creating of ducomenation of projects 
+Knowledge transfer",,,,,,,,,
+Computing,Storage ,Storage Technical Specialist,NetApp,Trainings & Certification,,"DATA ONTAP 7-Mode Fundamentals 
+Clustered Data ONTAP Fundamentals 
+ONTAP NAS Fundamentals
+SAN Fundamentals on Data ONTAP 
+Introduction to Clustered Data ONTAP Architecture
+Introduction to snapshot and flexible volumes
+Introduction to Aggregates and FlexVols in Clustered Data ONTAP 
+Introduction to NetApp Storage System Basic Components ","Introduction to NFS in Clustered Data ONTAP 
+Introduction to CIFS in Clustered Data ONTAP 
+Introduction to SAN in Clustered Data ONTAP
+Introduction to WAFL and Snapshot in Clustered Data ONTAP 
+Introduction to High-Availability in Clustered Data ONTAP 
+MetroCluster in ONTAP Overview 
+Data Network Fundamentals
+Introduction to Netapp Products
+
+Certification: NetApp Certified Storage Associate
+ITIL Foundation","Introduction to Networking in Clustered Data ONTAP - Assessment 
+Introduction to Multi-Protocol Troubleshooting in Clustered Data ONTAP 
+Introduction to Clustered Data ONTAP Basic Troubleshooting 
+Performance Analysis Fundamentals on Data ONTAP
+Fibre Channel SAN Troubleshooting 
+Introduction to Multi-Protocol Troubleshooting in Clustered Data ONTAP 
+Introduction to Data Protection in Clustered Data ONTAP 
+NCDA boot camp (instructor led course)
+
+Certification: Netapp Certified Data Management Administrator ",,"Introduction to Name Services in Clustered Data ONTAP 
+Introduction to Multi-Protocol Troubleshooting in Clustered Data ONTAP 
+Technical Overview of Snap Creator Framework
+Interoperability Matrix Tool Fundamentals 
+Virtualization Technology Fundamentals ","Installing Clustered Data ONTAP 
+MetroCluster Ecosystem Troubleshooting (Tiebreaker)
+SnapMirror Disaster Recovery 
+SAN Design
+SAN Implementation
+
+Certification : NetApp Certified Implementation Engineer�SAN
+                             NetApp Certified Implementation Engineer�Data Protection Specialist Preparation
+                             ITIL SO (or IT4IT L1)",,,,,,,,,
+Computing,Storage ,Storage Technical Specialist,Hitachi HDS (SAN),Skills,"Differentiate the types of the disk/all-flash storage solutions
+Clarify the various Cloud storage considerations
+SAN Basic Concepts,  Fibre Channel, SAN design and topology, switch management - tools","Gain a vendor neutral view of storage technology; Get the lowdown on everything from theory and concepts of data storage, through data security and virtualization, to management, performance","HCS; HDM - monitoring, managing; discovery; configure ports; allocate LDEV/LUN; multipaths; GAD; VSM concept;  HCS maintenance tasks","point in time copies and management; countinuous/asynchronous replication; implementation; testing; HUR; SI; TC; GAD; best practices, practical usage",,"Strong knowledge and skills in installing and supporting storage systems deployed as part of Hitachi enterprise storage solutions implementations. Determination and incident-resolution procedures, tools and techniques","Advanced knowledge skills and abilities to implement integrate and support Hitachi storage virtualization solutions by earning this certification. The test will validate that the successful candidate has knowledge and skills in implementing and supporting virtualization solutions running on Hitachi Virtual Storage Platform F and G series. This includes a thorough understanding of deployment and integration procedures and best practices and of the tools and techniques related to supporting the solutions. This test covers Hitachi Universal Volume Manager, Hitachi Command Suite, Hitachi Tiered Storage Manager, Hitachi Dynamic Provisioning and Hitachi Dynamic Tiering software, Hitachi Storage Advisor, as well as global-active device and virtual storage machine features.",,,,,,,,,
+Computing,Storage ,Storage Technical Specialist,Hitachi HDS (SAN),Trainings & Certification,"SAN Prereq:
+Foundations of Storage (SS0DG),
+Storage Area networking Fundamentals (SN71DG)
+",Storage Concepts: Storing And Managing Digital Data,"Storage administration (HQT-6740)
+
+ITIL Foundation","Replication (HCE-3710)
+",,"Hitachi Enterprise (HCE-4130)
+","Storage
+Virtualization (HCE-5730)
+Replication (HCE-5710)
+
+ITIL SO (or IT4IT L1)
+ITIL CSI
+
+",,,,,,,,,
+Computing,Storage ,Storage Technical Specialist,IBM ,Skills,"Differentiate the types of the disk/all-flash storage solutions
+Clarify the various Cloud storage considerations
+SAN Basic Concepts,  Fibre Channel, SAN design and topology, switch management - tools","Gain a vendor neutral view of storage technology; Get the lowdown on everything from theory and concepts of data storage, through data security and virtualization, to management, performance","Understand customer requirements and position the correct solutions. Know what resources to engage to design the solution. Broad knowledge of the features, industry terminology, functions and benefits of IBM storage solutions and the broader IBM storage portfolio, including disk, tape, storage management software, and software defined storage.","Understands the workload characteristics that differentiate members of the IBM Storwize family, IBM FlashSystem V9000, IBM Spectrum Virtualize, and VersaStack solutions. This specialist can utilize all available IBM tools to design a solution based on the most appropriate IBM solutions and technologies that meet customer requirements.",,"Work independently to provide technical support, solution design including SAN, and implementation planning for the current IBM System Storage DS8000 Hybrid Storage and DS8880 All Flash family in an open systems and/or IBM z Systems mainframe ; Identify customer requirements and architect and design appropriate solutions to meet the requirements.","Design, plan and create an architecture with IBM Spectrum Storage solutions",,,,,,,,,
+Computing,Storage ,Storage Technical Specialist,IBM ,Trainings & Certification,"SAN Prereq:
+Foundations of Storage (SS0DG),
+Storage Area networking Fundamentals (SN71DG)
+",Storage Concepts: Storing And Managing Digital Data,"IBM Certified Specialist - Storage Technical V1
+
+ITIL Foundation",IBM Certified Specialist - Virtualized Storage V1 ,,IBM Certified Specialist - Business Critical V1,"IBM Certified Solution Architect - Spectrum Storage V1 
+
+ITIL SO (or IT4IT L1)
+ITIL CSI",,,,,,,,,
+Computing,Storage ,Storage Technical Specialist,"Dell (EMC, 
+Compellent) ",Skills,"Differentiate the types of the disk/all-flash storage solutions
+Clarify the various Cloud storage considerations
+SAN Basic Concepts,  Fibre Channel, SAN design and topology, switch management - tools","Gain a vendor neutral view of storage technology; Get the lowdown on everything from theory and concepts of data storage, through data security and virtualization, to management, performance",,"Strong understanding of Dell EMC midrange storage solutions for the SC Series and Dell EMC Unity; product configurations, features, functionality, best practices and design considerations.
+
+",,"Strong understanding of Dell EMC midrange storage solutions for the SC Series and Dell EMC Unity; product configurations, features, functionality, best practices and design considerations.
+
+","Intermediate to advanced skill level tasks in deploying, management and troubleshooting the Dell EMC SC Series storage products",,,,,,,,,
+Computing,Storage ,Storage Technical Specialist,"Dell (EMC, 
+Compellent) ",Trainings & Certification,"SAN Prereq:
+Foundations of Storage (SS0DG),
+Storage Area networking Fundamentals (SN71DG)
+",Storage Concepts: Storing And Managing Digital Data,ITIL Foundation,DECS-IE SC Series Manage,,DECS-IE SC Series Support,"DECE SC Series
+
+ITIL SO (or IT4IT L1)
+ITIL CSI",,,,,,,,,
+Computing,Storage ,Storage Technical Specialist,Cisco & Brocade,Skills,"SAN Basic Concepts,  Fibre Channel, SAN design and topology, switch management - tools","Interconnecting CISCO devices, network fundamentals, LAN and SAN switching technologies, routing technologies, infrastructure services, and infrastructure maintenance","Brief training about HP blade enclosures and their parts. Touch it physically and inspect all parts.
+
+Understand terms ... server bay, interconnect module, OA, VCM, FlexFabric, �","Brocade products; Firmware upgrades, zoning, fabric shortest path first, trunking, GEN5, GEN6 HW, Long Distance",,"install, configure, and maintain data center technology. Gain grounding in data center infrastructure, data center networking concepts and technologies, storage networking, unified computing, network virtualization, data center automation and orchestration;;  technical and process information needed to perform troubleshooting and data gathering tasks in Brocade Fibre Channel storage area networks based on Fabric OS and 16 & 32 Gbps Brocade products","Explain the techniques and information that will enable you to perform the initial software configuration of a Cisco MDS; upgrade the system software, and enable licensing; building a Cisco Fibre Channel SAN fabric including interfaces, VSANs, domains, port channels, device aliases, NPV, NPIV, and zones; intelligent SAN fabric services on specific Cisco MDS; security features on Cisco MDS",,,,,,,,,
+Computing,Storage ,Storage Technical Specialist,Cisco & Brocade,Trainings & Certification,"SAN Prereq:
+Foundations of Storage (SS0DG),
+Storage Area networking Fundamentals (SN71DG)
+",Cisco CCENT,HP Blade Systems essentials; ITIL Foundation,Brocade BASA-200,,"Cisco CCNA DC
+
+Brocade SAN TS-300","Cisco DCMDSv2
+
+
+ITIL SO (or IT4IT L1)
+ITIL CSI",,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Linux,RedHat6,Basic shell with Bash,"Basic shell commands:
+(Create, delete, copy, and move files and directories and edit text files)
+- Account Management ( useradd / usermod )
+- List, set, and change standard ugo/rwx permissions
+- Firewall - basic understanding and ability to identify showstopper (RH)
+- Basic differences between RHEL 6 and RHEL 7
+- LVM basic operations (list, create filesystem,extend Filesystem)  (RH)
+- Access remote systems using SSH, OA, iLO
+- Use system documentation (man pages...)","Troubleshooting (locate and read log files, filesystems usage, system utilization, HW failures...)
+- Network configuration (IP, routes, ...)
+- Firewall (iptables, firewalld)
+- List and identify running processes and start-up services
+- Disk operations (LVM)
+- Basic knowledge about cluster systems
+- Basic overview about server virtualization VMware, Hyper-V and physical servers
+- Knowledge about additional permissions ACL
+- Basic knowledge about repository handling","System updates with troubleshooting
+- Package installation/reinstallation/uninstallation from repository and unexpected dependencies
+- Advanced disk operations
+- Advanced network configuration, firewall
+- Knowledge about network shares
+- Cluster management
+- Knowledge about scripting and automation
+- Basic SELinux operations",,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,,RedHat7,Basic shell with Bash,,,,,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,,"SuSe (11, 12)",Basic shell with Bash,,,,,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,,"CentOs (6,7)",Basic shell with Bash,,,,,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Solaris ,,Basic shell with Bash,"Account Management ( useradd / usermod on Solaris ) 
+- Acl on Solaris using chmod
+- Diffrent between Solaris 10 and 11
+- ZFS filesystem basic operations
+- Access servers via remote iLom / Alom
+- Process check
+","Basic knowledge about Solaris LDM virtualization
+- Access virtual server from Logical Domain Controller
+- Knowledge about use Solaris Local zones
+- Knowledge about Solaris cluster resource migration / disable / enable
+- Process and services management","ZFS filesystem management
+- System update on Solaris 10/11
+- Cluster Management
+- Pkg installation from local/remote repository
+- Oracle support cases
+- UFS Filesystem basic management
+- Bash scripting on Solaris
+- Disk operations
+- Hardware issue troubleshooting",,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,HP,,,"User management
+- LVM basic commands
+- file and dir management �acl, chmod, etc....�
+- vxfs, hfs � managment �extend  fs�
+- MP, ILO � remote connection
+","Basic knowledge about virtualization �diffrences between vpar, hpvm�
+- Basic Cluster commands �serviceguard�
+- Access virtual server from host
+","Advanced knowledge about virtualization �vpar, hpvm�
+- Advanced Cluster commands �serviceguard�
+- Advanced work with bash, sh �scripts�
+",,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,SUSE ,SuSe Manager,not applicable ,able to install package from configured repo,,,,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,RedHat ,Satellite,not applicable ,able to install package from configured repo,register server to Satellite/RHN,"server repository based troubleshooting, RHN registration",,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Symantec,Veritas,not applicable ,not applicable ,,,,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Tieto TOOLS ,Automation tool,not applicable ,#NAME?,"RSCD agent (installation,configuration, troubleshooting - scope existing BSA documentation)
+- Import server into BSA console - full","BSA property (all  needed for our daily duty)
+- RSCD agent upgrade",development of BSA job/scripts,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Tieto TOOLS ,Monitoring ,not applicable ,"login to Patrol Cental Operator/BPPM console/TS 
+- search server
+- inspect actual alarms",analyse alarms in Patrol/BPPM Consoles,server monitoring updates (exclusions) - from ticket analysis - to technical proposal of tunning,,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Tieto TOOLS ,Backup ,not applicable ,"basic overview - which backup methods TE uses, how it logically works","install backup client using existing howto
+- ability to perform restore (business and technical process) ","troubleshoot backup client
+- implement backup exclusions
+","analyse, design, implementation verification of customized backup solutions ",,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Tieto TOOLS ,Storage ,not applicable ,basic overview - SAN disk,basic overview - SAN disk,"troubleshooting/fixes Multipath failures
+- Implement SAN disk to server
+- Implement SAN disk extensions (busines and technical process)","design clustered SAN based solutions
+- Implement clustered SAN based solutions
+- troubleshoot clustered SAN based solutions",,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Tieto TOOLS ,SN/TONE (ticketing tool),not applicable ,"login to Tone/Snow (RH)
+- Tone/Snow - basic usage:
+- - search and use Tone/Snow KBs (RH)
+- - search Tone/Snow Incidents, Server CI records, Network adapters, KBs (RH)",,complicated ticket analysis based on CI Name  or Ticket Description,design + implement customized reports,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Tieto TOOLS ,CMDB,not applicable ,search and understand servers Ci,perform CI updates,,,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Scripting ,Bash,not applicable ,"basic command usage (cp,rm, du,df,top,free)","bash fullscope command line usage, ",scripting to automate basic routines,"development of BASH scripts (analysis, pmelementation,testing)",,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Certification,Certification,not applicable ,RHSA (after two years - at worst),,RHCE (after two years),,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Virtualization,Vmware,not applicable ,"login to Vcenter, search server, start stop restart server","add memory, add CPU, add disk",edit server properties and features,,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Virtualization,Hyper-V,not applicable ,"login to Management console, search server, start stop restart server","add memory, add CPU, add disk",edit server properties and features,,,,,,,,,,,,
+Computing,UNIX,Unix Technical Specialist,Other ,Other,,"use our wikis
+- understand team goals
+- know+follow service rules (ticket priority)
+- use google
+- use Redhat/SuSE Documentation
+- use shiftmaster
+
+","overview  - how to find out documentation (technical, process, customer), 
+- queues we are daily cooperating with .....
+- service scope
+- incident X request X change request","creates new technical processes
+- reviews/updates existing processes
+- create, design, implement, resolve, evaluate Change request",,,,,,,,,,,,
+Connectivity ,Connectivity ,Network Technical Specialist ,BIG-IP F5,LTM,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,BIG-IP F5,iRules,not applicable,not applicable,basic,intermediate,advanced,intermediate,advanced,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,BIG-IP F5,Viprion,not applicable,not applicable,basic,intermediate,advanced,intermediate,advanced,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,BIG-IP F5,ASM,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,BIG-IP F5,APM,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,BIG-IP F5,AFM,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,BIG-IP F5,WAM,not applicable,not applicable,basic,intermediate,advanced,intermediate,advanced,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,CISCO,Routing,basic,intermediate,intermediate,advanced,expert,advanced,expert,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,CISCO,Routing.Nexus,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,CISCO,Routing.ASR,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,CISCO,Switching,basic,intermediate,intermediate,advanced,expert,advanced,expert,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,CISCO,Switching.Nexus,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,CISCO,Firewall.ASA,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,CISCO,Wireless,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,CISCO,Meraki,not applicable,basic,basic,intermediate,advanced,intermediate,advanced,advanced,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,CISCO,VPN,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Juniper,Routing,basic,intermediate,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Juniper,Switching,basic,intermediate,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Juniper,Firewall.SRX,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Juniper,VPN.IPsec,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Juniper,VPN.SSL,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,CheckPoint,Firewall.GAIA,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,CheckPoint,Firewall.IPSO,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Fortinet,Firewall,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Fortinet,VPN,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Aruba,Wireless,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Aruba,Switching,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,HP,Wireless,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,HP,Switching,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Dell,Switching,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Services,DNS.bind,basic,intermediate,intermediate,advanced,expert,advanced,expert,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Services,DHCP.Windows,basic,intermediate,intermediate,advanced,expert,advanced,expert,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Services,DHCP.Unix,basic,intermediate,intermediate,advanced,expert,advanced,expert,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Services,DHCP.Network,basic,intermediate,intermediate,advanced,expert,advanced,expert,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Services,NTP,basic,intermediate,intermediate,advanced,expert,advanced,expert,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,SDN/Cloud,CISCO,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,SDN/Cloud,Juniper,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,SDN/Cloud,VMWare.NSX,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,SDN/Cloud,OpenStack,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,SDN/Cloud,Microsoft,not applicable,basic,intermediate,advanced,expert,advanced,expert,expert,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Development,HTML,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,intermediate,advanced,expert,intermediate,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Development,CSS,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,intermediate,advanced,expert,intermediate,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Development,JavaScript,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,intermediate,advanced,expert,intermediate,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Development,XML,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,intermediate,advanced,expert,intermediate,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Development,Rest API,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,intermediate,advanced,expert,intermediate,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Development,Python,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,advanced,basic,intermediate,advanced,advanced,expert,advanced,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Development,PHP,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,intermediate,advanced,expert,intermediate,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Development,Nette,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,intermediate,advanced,expert,intermediate,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Development,Java,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,intermediate,advanced,expert,intermediate,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Database,MS SQL,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,advanced,expert,expert,advanced,expert,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Database,Elastic Search,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,intermediate,advanced,expert,intermediate,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Database,MySQL,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,advanced,basic,intermediate,advanced,expert,expert,advanced,expert,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Platform,TNM,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,advanced,advanced,expert,advanced,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Platform,Service Now,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,basic,intermediate,intermediate,advanced,expert,intermediate,advanced,expert
+Connectivity ,Connectivity ,Network Technical Specialist ,Tools,NNMi,not applicable,intermediate,intermediate,advanced,expert,advanced,expert,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Tools,HPNA,not applicable,not applicable,not applicable,not applicable,basic,basic,intermediate,advanced,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Tools,TNM,not applicable,basic,intermediate,intermediate,advanced,intermediate,advanced,advanced,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Tools,Algosec,not applicable,basic,intermediate,intermediate,advanced,intermediate,advanced,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Tools,IPAM,not applicable,basic,intermediate,intermediate,advanced,intermediate,advanced,advanced,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Tools,Clear Pass,not applicable,not applicable,basic,intermediate,intermediate,intermediate,intermediate,advanced,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Tools,CISCO Prime,not applicable,not applicable,basic,intermediate,intermediate,intermediate,intermediate,advanced,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable
+Connectivity ,Connectivity ,Network Technical Specialist ,Tools,UCSD,not applicable,basic,basic,intermediate,intermediate,intermediate,advanced,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Tools,NSO,not applicable,basic,basic,intermediate,intermediate,intermediate,advanced,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Tools,DNS,basic,intermediate,intermediate,advanced,expert,advanced,expert,expert,basic,basic,basic,basic,basic,basic,basic,basic
+Connectivity ,Connectivity ,Network Technical Specialist ,Tools,DHCP,basic,intermediate,intermediate,advanced,expert,advanced,expert,expert,basic,basic,basic,basic,basic,basic,basic,basic
+DC OOps On-Shore,DC Ops On-Shore,Data Centers Technical Specialist,Mainframe Storage and Tape ,Mainframe Storage and Tape ,not applicable,not applicable,senior level with  long hands on mainframe experience. To know the technology through out. Software knowledge & basic customer knowledge. ,not applicable,senior level with  long hands on mainframe experience. To know the technology through out. Software knowledge & strong customer knowledge. ,not applicable,not applicable,not applicable,,,,,,,,
+DC OOps On-Shore,DC Ops On-Shore,Data Centers Technical Specialist,Open Storage On-Site ,"Netapp, Hitachi, EMC, Cisco ",not applicable,not applicable,not applicable,not applicable,not applicable,"Planing/perform/participate on upgrade/maintenance  
+Understanding and implementation of name services: NIS, LDAP, DNS
+Setup and implement netapp monitoring
+Usage of netapp tools : Latx,  Interoperability Matrix Tool, Syslog translator, Active IQ
+able to perform basic troubleshooting  and collect logs from Netapp, brocade, atto bridge 
+Understanding and usage of perfstat & packet trace
+Administration of Snapcreator",not applicable,not applicable,,,,,,,,
+DC OOps On-Shore,DC Ops On-Shore,Data Centers Technical Specialist,Network ,DWDM,not applicable,not applicable,not applicable,advanced ,not applicable,not applicable,not applicable,not applicable,,,,,,,,
+DC OOps On-Shore,DC Ops On-Shore,Data Centers Technical Specialist,UMN,UMN,not applicable,not applicable,not applicable,"advanced + security restrictions, strict roles, backround checks, ST3 premises. ",,,not applicable,not applicable,,,,,,,,
+DC OOps On-Shore,DC Ops On-Shore,Data Centers Technical Specialist,Network ,JUNIPER ,not applicable,not applicable,not applicable,advanced ,not applicable,not applicable,not applicable,not applicable,,,,,,,,
+DC OOps On-Shore,DC Ops On-Shore,Data Centers Technical Specialist,DC Facility Specialists ,DC Facility Specialists ,not applicable,not applicable,electricians; advanced - can work independently etc. ,,not applicable,not applicable,not applicable,not applicable,,,,,,,,
+EDM ,Archiving,Specialist ERP archiving,Opentext ,SAP Data archiving,"Basic knowledge, ability to solve issue based on KB",TS1 + deeper understanding of the application technology and customers' environment.,"TS2 + advanced understanding of the application technology, integrations and customer's business","TS3 + advanced understanding of the application technology, integrations and customer's business. Ability to design and implement environments, perform upgrades and other possible changes. ",TS4 + Deep knowledge of one or several areas of expertise. Can suggest new solutions and improve existing systems. Backup of Architect. ,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Designs technical platform architecture in a specific service area. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific technical platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organize and leads the work of technical architecture team in international projects. Provides pre-sales support. ","SA4 +
+Responsible for evaluation and investigation of service area specific technical  platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,Archiving,Specialist ERP archiving,Opentext ,Doculink customization,"Basic knowledge, ability to solve issue based on KB",TS1 + deeper understanding of the application technology and customers' environment.,"TS2 + advanced understanding of the application technology, integrations and customer's business","TS3 + advanced understanding of the application technology, integrations and customer's business. Ability to design and implement environments, perform upgrades and other possible changes. ",TS4 + Deep knowledge of one or several areas of expertise. Can suggest new solutions and improve existing systems. Backup of Architect. ,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Designs technical platform architecture in a specific service area. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific technical platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organize and leads the work of technical architecture team in international projects. Provides pre-sales support. ","SA4 +
+Responsible for evaluation and investigation of service area specific technical  platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,Archiving,Specialist ERP archiving,Opentext ,Content management,"Basic knowledge, ability to solve issue based on KB",TS1 + deeper understanding of the application technology and customers' environment.,"TS2 + advanced understanding of the application technology, integrations and customer's business","TS3 + advanced understanding of the application technology, integrations and customer's business. Ability to design and implement environments, perform upgrades and other possible changes. ",TS4 + Deep knowledge of one or several areas of expertise. Can suggest new solutions and improve existing systems. Backup of Architect. ,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Designs technical platform architecture in a specific service area. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific technical platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organize and leads the work of technical architecture team in international projects. Provides pre-sales support. ","SA4 +
+Responsible for evaluation and investigation of service area specific technical  platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,Archiving,Specialist ERP archiving,Multiple,Platform and database,"Basic knowledge,  ability to solve issue based on KB",TS1 + deeper knowledge of admin and maintenance. Knowledge of all components of the solution. Is able to perform tasks according to instructions.,TS2 + advanced knowledge of admin and maintenance. Advanced knowledge of all components of the solution.  Is able to understand customer needs through customer requirements. Can recommend solutions within own discipline. ,"TS3 + advanced knowledge of admin and maintenance. Ability to design and implement environments, perform upgrades and other possible changes. ",TS4 + Deep knowledge of one or several areas of expertise. Can suggest new solutions and improve existing systems. Backup of Architect.�,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Designs technical platform architecture in a specific service area. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific technical platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organize and leads the work of technical architecture team in international projects. Provides pre-sales support. ","SA4 +
+Responsible for evaluation and investigation of service area specific technical  platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,Archiving,Specialist FLEX archiving,Multiple,Platform and database,"Basic knowledge,  ability to solve issue based on KB",TS1 + deeper knowledge of admin and maintenance. Knowledge of all components of the solution. Is able to perform tasks according to instructions.,TS2 + advanced knowledge of admin and maintenance. Advanced knowledge of all components of the solution.  Is able to understand customer needs through customer requirements. Can recommend solutions within own discipline. ,"TS3 + advanced knowledge of admin and maintenance. Ability to design and implement environments, perform upgrades and other possible changes. ",TS4 + Deep knowledge of one or several areas of expertise. Can suggest new solutions and improve existing systems. Backup of Architect. ,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Designs technical platform architecture in a specific service area. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific technical platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organize and leads the work of technical architecture team in international projects. Provides pre-sales support. ","SA4 +
+Responsible for evaluation and investigation of service area specific technical  platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,Archiving,Specialist FLEX archiving,Multiple,FLEX solution,"Basic knowledge, ability to solve issue based on KB",TS1 + deeper understanding of the application technology and customers' environment.,"TS2 + advanced understanding of the application technology, integrations and customer's business","TS3 + advanced understanding of the application technology, integrations and customer's business. Ability to design and implement environments, perform upgrades and other possible changes. ",TS4 + Deep knowledge of one or several areas of expertise. Can suggest new solutions and improve existing systems. Backup of Architect. ,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Designs technical platform architecture in a specific service area. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific technical platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organize and leads the work of technical architecture team in international projects. Provides pre-sales support. ","SA4 +
+Responsible for evaluation and investigation of service area specific technical  platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,Data mgmt,Specialist Data mgmt,Opentext ,Exstream,"Basic knowledge, ability to solve issue based on KB",TS1 + deeper understanding of the application technology and customers' environment.,"TS2 + advanced understanding of the application technology, integrations and customer's business","TS3 + advanced understanding of the application technology, integrations and customer's business. Ability to design and implement environments, perform upgrades and other possible changes. ",,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Designs technical platform architecture in a specific service area. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific technical platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organize and leads the work of technical architecture team in international projects. Provides pre-sales support. ","SA4 +
+Responsible for evaluation and investigation of service area specific technical  platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,Data mgmt,Specialist Data mgmt,Opentext ,Exstream application design,"Basic knowledge, ability to solve issue based on KB. Basic skills of programming.",TS1 + deeper understanding of the application technology and customers' environment.,"TS2 + advanced understanding of the application technology, integrations and customer's business","TS3 + advanced understanding of the application technology, integrations and customer's business. Ability to design and implement environments, perform upgrades and other possible changes.�",,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Designs technical platform architecture in a specific service area. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific technical platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organize and leads the work of technical architecture team in international projects. Provides pre-sales support. ","SA4 +
+Responsible for evaluation and investigation of service area specific technical  platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,Output mgmt,Specialist Output mgmt,Multiple,Output mgmt,"Basic knowledge, �ability to solve issue based on KB.�
+Basic understanding of Printing.","TS1 + deeper understanding in different customer cases. Transfer methods in use such as FTP, SFTP, MVS Download. �","TS2 + advanced understanding, knowledge of different file types ASCII, EBCDIC ,and how to use channel and TRC functions in printfiles. ","TS3 + deeper understanding, advanced troubleshooting, knowledge of REXX programming.",TS4 + deep knowledge of one or several areas of expertise. Can��suggest new solutions and improve existing systems. Backup of Architect,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + 
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Is able to designs solution in a specific service area including automation as part of the solution implementation and service delivery. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific solution and products including tools, hardware and  software related to the service including automation as part of the implementation and continuous service delivery. ","SA4 +
+Responsible for evaluation and investigation of service area specific solution and products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,Baan Operations,Specialist Baan Operations,Infor,Baan / LN tools,"Basic knowledge, ability to solve issue based on KB",TS1 + deeper understanding of the application technology and customers' environment.,"TS2 + advanced understanding of the application technology, integrations and customer's business","TS3 + advanced understanding of the application technology, integrations and customer's business. Ability to design and implement environments, perform upgrades and other possible changes. ",TS4 + Deep knowledge of one or several areas of expertise. Can suggest new solutions and improve existing systems. Backup of Architect. ,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Designs technical platform architecture in a specific service area. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific technical platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organize and leads the work of technical architecture team in international projects. Provides pre-sales support. ","SA4 +
+Responsible for evaluation and investigation of service area specific technical  platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,Baan Operations,Specialist Baan Operations,Multiple,Database,"Basic knowledge, ability to solve issue based on KB",TS1 + deeper knowledge of design and tools (e.g. monitoring and backups),TS2 + advanced knowledge of design and tools (e.g. monitoring and backups). Ability to indentify and perform improvement actions.,"TS3 + advanced understanding of the application technology, integrations and customer's business. Ability to design and implement environments, perform upgrades and other possible changes. ",TS4 + Deep knowledge of one or several areas of expertise. Can suggest new solutions and improve existing systems. Backup of Architect. ,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Designs technical platform architecture in a specific service area. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific technical platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organize and leads the work of technical architecture team in international projects. Provides pre-sales support. ","SA4 +
+Responsible for evaluation and investigation of service area specific technical  platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,Baan Operations,Specialist Baan Operations,Multiple,OS,"Basic knowledge, ability to solve issue based on KB",TS1 + deeper knowledge of scripting and tools (e.g. monitoring),TS2 + advanced knowledge of scripting and tools (e.g. monitoring). Ability to indentify and perform improvement actions.,"TS3 + advanced understanding of the application technology, integrations and customer's business. Ability to design and implement environments, perform upgrades and other possible changes. ",TS4 + Deep knowledge of one or several areas of expertise. Can suggest new solutions and improve existing systems. Backup of Architect. ,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL","SA1 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Designs technical platform architecture in a specific service area. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific technical platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organize and leads the work of technical architecture team in international projects. Provides pre-sales support. ","SA4 +
+Responsible for evaluation and investigation of service area specific technical  platform products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EDM ,All,All,Multiple,Automation and tools,Basic knowledge of scripting and tools,"TS1 + deeper knowledge of scripting, automation and tools (e.g. monitoring and backups)","TS2 + advanced knowledge of scripting, automation and tools (e.g. monitoring and backups). Ability to indentify and perform improvement actions.","TS3 + advanced knowledge of scripting, automation and tools (e.g. monitoring and backups). Ability to evaluate and optimize methods and tools. ",TS4 + deep knowledge of scripting and automation. Can suggest new solutions and improve existing systems. Backup of Architect. ,"TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment.�
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL
+","SA1 + 
+Participates in modeling and documenting  technical platform architecture in a specific service area. Participates in planning of implementation details. ","SA2 + 
+Is able to designs solution in a specific service area including automation as part of the solution implementation and service delivery. Verifies the co-operation of technical architecture components and processes. 
+Provides pre-sales support. ","SA3 + 
+Participates in evaluation and investigation of service area specific solution and products including tools, hardware and  software related to the service including automation as part of the implementation and continuous service delivery. ","SA4 +
+Responsible for evaluation and investigation of service area specific solution and products including tools, hardware and  software related to the service. Audits service area specific architecture. May organizes and leads the work of one or more technical architecture team(s) in international projects. 
+May be responsible for guidelines and strategies within a specified area. Provides pre-sales support. ",,,,,,
+EUS,Exchange,Specialist Exchange Operations,Private Cloud Exchange,"MS Exchange 2013, 2016, 2019","understand the basics, ability to solve issue based on KB","TS1 + deeper understanding , basic knowledge of AD, troubleshooting skills, basic knowledge of Windows Server, ability to use ECP for administration","TS2 + advanced understanding,  ability to use Exchange Powershell cmdlets, basic knowledge of VM platform, basic understanding of monitoring, ability to read log files (IIS, SMTP, OWA, EWS, ..), ability to read Event Log, ability to use Backup software","TS3 + deeper understanding,  ability to create Powershell scripts, ability to use AD Powershell cmdlets, advanced troubleshooting, advanced knowledge of VM platform, �Is able to proactively work and solve problems
+","TS4 + analytics management, Deep knowledge of one or several areas of expertise. Can suggest new solutions and improve existing systems. Backup of Architect. Ability to use EWS.","TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment. 
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL",,,,,,,,,,
+EUS,Exchange,Specialist Exchange Operations,Exchange Online,O365 Exchange Online,"understand the basics, ability to solve issue based on KB ","TS1 + deeper understanding, basic knowledge of AD / Azure AD, troubleshooting skills, basic knowledge of Windows Server, ability to use ECP for administration","TS2 + advanced understanding, basic knowledge of VM platform, basic understanding of monitoring, ability to use Exchange Online Powershell cmdlets, basic knowledge of ADFS, Directory Synchronization, basic knowledge of Exchange Online Protection","TS3 + deeper understanding,  ability to create Powershell scripts, �ability to use MS Online + AzureAD Powershell cmdlets, advanced troubleshooting, advanced knowledge of VM platform,� Is able to proactively work and solve problems
+","TS4 + analytics management, Deep knowledge of one or several areas of expertise. Can  suggest new solutions and improve existing systems. Backup of Architect. Ability to use EWS and Graph API","TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment. 
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL",,,,,,,,,,
+EUS,Exchange,Specialist Exchange Operations,E-mail Antispam,"Symantec, FuseMail, TrendMicro","understand the basics, ability to solve issue based on KB ","TS1 + deeper understanding, message tracking ","TS2 + advanced understanding, knowledge of email routing, understanding of DNS records - SPF, DKIM, DMARC, PTR and their role in messaging, message header analysis, ability to create content filtering rules based on message header information","TS3 + deeper understanding, advanced troubleshooting, advanced knowledge of VM platform, administration via SSH and command line","TS4 + analytics management, Deep knowledge of one or several areas of expertise. Can  suggest new solutions and improve existing systems. Backup of Architect","TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment. 
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL",,,,,,,,,,
+EUS,Exchange,Specialist Exchange Operations,Secure Email,Deltagon,"understand the basics, ability to solve issue based on KB ",deeper understanding ,TS2 + advanced understanding,"TS3 + expert understanding,  advanced troubleshooting,","TS4 + analytics management, Deep knowledge of one or several areas of expertise. Can  suggest new solutions and improve existing systems. Backup of Architect","TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment. 
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL",,,,,,,,,,
+EUS,Exchange,Specialist Exchange Operations,Google Apps,Google,"understand the basics, ability to solve issue based on KB ",deeper understanding ,,,,,,,,,,,,,,
+E2E Operations,EUS,IBM Notes Operations,IBM,IBM Notes / Domino Application Server management,NA,"Fundamental knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Ticket (requests and monitoring tickets) handling according operational instructions.","Advanced of IBM collaboration tools, Windows Server/Linux/IBM iseries. Fundamental knowledge of Lotus script (Java). Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Participation in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,IBM Notes Operations,IBM,"IBM Instand Messaging, SameTime",NA,"Fundamental knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Ticket (requests and monitoring tickets) handling according operational instructions.","Advanced of IBM collaboration tools, Windows Server/Linux/IBM iseries. Fundamental knowledge of Lotus script (Java). Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Participation in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,IBM Notes Operations,IBM,IBM Social Business / IBM Connections,NA,"Fundamental knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Ticket (requests and monitoring tickets) handling according operational instructions.","Advanced of IBM collaboration tools, Windows Server/Linux/IBM iseries. Fundamental knowledge of Lotus script (Java). Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Participation in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,Access Services Operations,Microsoft ,Azure AD/EM+S/O365 identities,NA,Fundamental Azure AD/O365 knowledge. Ticket (requests and monitoring tickets) handling according operational instructions.,"Intermediate Azure AD/O365 knowledge. Independend ticket handling (L2, L3 level).","Advanced Azure AD knowledge. Intermediate knowledge of O365. Basic knowledge of PoweShell. Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of Azure AD. Advanced knowledge of PoweShell. Intermediate knowledge of O365. Problem management, Change designs. Technical lead in standard onboarding projects.",Expert knowledge of Azure AD/O365. Advanced knowledge of PoweShell. Intermediate knowledge of O365. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of  Azure AD. Advanced knowledge of PoweShell. Intermediate knowledge of O365. Technical lead in both standard onboarding and custom projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of  Azure AD. Advanced knowledge of PoweShell. Intermediate knowledge of O365. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,Access Services Operations,Microsoft ,PKI,NA,Fundamental knowledge of Windows Server and digital certificates. Ticket (requests and monitoring tickets) handling according operational instructions.,"Intermediate knowledge of Windows Server and digital certificates. Independend ticket handling (L2, L3 level).","Advanced knowledge of Windows Server and digital certificates. Basic knowledge of PoweShell. Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of Windows Server and digital certificates. Advanced knowledge of PoweShell. Problem management, Change designs. Technical lead in standard onboarding projects.",Expert knowledge of Windows Server and digital certificates. Advanced knowledge of PoweShell. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of Windows Server and digital certificates. Advanced knowledge of PoweShell. Technical lead in both standard onboarding and custom projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Windows Server and digital certificates. Advanced knowledge of PoweShell. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,Access Services Operations,Microsoft ,Direct Access/AlwaysOn VPN,NA,"Fundamental knowledge of Windows Server, MS networking and digital certificates. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge of Windows Server, MS networking and digital certificates. Independend ticket handling (L2, L3 level).","Advanced knowledge of Windows Server, MS networking and digital certificates. Basic knowledge of PoweShell. Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of Windows Server, MS networking and digital certificates. Advanced knowledge of PoweShell. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of Windows Server, MS networking and digital certificates. Advanced knowledge of PoweShell. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.","Expert knowledge of Windows Server, MS networking and digital certificates. Advanced knowledge of PoweShell. Technical lead in both standard onboarding and custom projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Windows Server, MS networking and digital certificates. Advanced knowledge of PoweShell. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,Access Services Operations,Microsoft ,ADFS/ AAD Connect,NA,Fundamental Windows server/Azure AD/O365 knowledge. Ticket (requests and monitoring tickets) handling according operational instructions.,"Intermediate Windows server/Azure AD/O365 knowledge. Independend ticket handling (L2, L3 level).","Advanced Windows server/Azure AD/O365 knowledge. Basic knowledge of PoweShell. Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of Windows server/Azure AD/O365. Advanced knowledge of PoweShell. Problem management, Change designs. Technical lead in standard onboarding projects.",Expert knowledge of Windows server/Azure AD/O365. Advanced knowledge of PoweShell. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of Windows server/Azure AD/O365. Advanced knowledge of PoweShell. Technical lead in both standard onboarding and custom projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Windows server/Azure AD/O365. Advanced knowledge of PoweShell. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,Access Services Operations,Microsoft ,Network Policy Service,NA,"Fundamental knowledge of Windows Server, MS networking and digital certificates. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge of Windows Server, MS networking and digital certificates. Independend ticket handling (L2, L3 level).","Advanced knowledge of Windows Server, MS networking and digital certificates. Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of Windows Server, MS networking and digital certificates. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of Windows Server, MS networking and digital certificates. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.","Expert knowledge of Windows Server, MS networking and digital certificates. Technical lead in both standard onboarding and custom projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Windows Server, MS networking and digital certificates. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,UCC Operations,Microsoft ,Skype for Business,NA,"Basic knowledge of Windows server, Skype for Business. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge of Windows server, network and Skype for Business. Basic knowledge of PowerSchell. Independend ticket handling (L2, L3 level). Change implementation.","Advanced knowledge of Windows server, Skype for Business and VoIP. Intermediate knowledge of Powershell and network.. Incident management (L3 level), Problem management, Change design and implementation. Standard onboarding project participation.","Expert knowledge of Skype for Business and VoIP. Advanced knowledge of PowerShell, network and Windows server. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of Skype for Business and VoIP. Advanced knowledge od PowerShell, network and Windows server. Technical lead in standard onboarding projects. Participation in Product design phase.","Expert knowledge of Skype for Business and VoIP. Advanced knowledge od PowerShell, network and Windows server. Technical lead in standard onboarding projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Skype for Business and VoIP. Advanced knowledge od PowerShell, network and Windows server. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,UCC Operations,Cisco,Cisco UCM,NA,"Basic knowledge of Cisco UCM, VoIP, Call routing and network. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge of Cisco UCM, VoIP, Call routing and network. Basic knowledge of PowerSchell. Independend ticket handling (L2, L3 level). Change implementation.","Advanced knowledge of Cisco UCM, VoIP, Call routing and network. Incident management (L3 level), Problem management, Change design and implementation. Standard onboarding project participation.","Expert knowledge of Cisco UCM, VoIP, Call routing and network. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of Cisco UCM, VoIP, Call routing and network. Technical lead in standard onboarding projects. Participation in Product design phase.","Expert knowledge of Cisco UCM, VoIP, Call routing and network. Technical lead in standard onboarding projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Cisco UCM, VoIP, Call routing and network. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,UCC Operations,Cisco,Cisco VGW,NA,"Basic knowledge of Cisco GW, VoIP, Call routing and network. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge  of Cisco GW, VoIP, Call routing and network. Basic knowledge of PowerSchell. Independend ticket handling (L2, L3 level). Change implementation.","Advanced knowledge of Cisco GW, VoIP, Call routing and network. Incident management (L3 level), Problem management, Change design and implementation. Standard onboarding project participation.","Expert knowledge  of Cisco GW, VoIP, Call routing and network. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge  of Cisco GW, VoIP, Call routing and network. Technical lead in standard onboarding projects. Participation in Product design phase.","Expert knowledge of Cisco GW, VoIP, Call routing and network. Technical lead in standard onboarding projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Cisco GW, VoIP, Call routing and network. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,UCC Operations,Audiocodes,Session Border Controler,NA,"Basic knowledge of Audiocodes Mediant SBC, VoIP, Call routing and network. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge  of Audiocodes Mediant SBC, VoIP, Call routing and network. Basic knowledge of PowerSchell. Independend ticket handling (L2, L3 level). Change implementation.","Advanced knowledge of Audiocodes Mediant SBC, VoIP, Call routing and network. Incident management (L3 level), Problem management, Change design and implementation. Standard onboarding project participation.","Expert knowledge  of Audiocodes Mediant SBC, VoIP, Call routing and network. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge  of Audiocodes Mediant SBC, VoIP, Call routing and network. Technical lead in standard onboarding projects. Participation in Product design phase.","Expert knowledge of Audiocodes Mediant SBC, VoIP, Call routing and network. Technical lead in standard onboarding projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Audiocodes Mediant SBC, VoIP, Call routing and network. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,UCC Operations,Voxbone,Global Access number,NA,"Basic knowledge of the product, VoIP, Call routing and network. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge  of the product, VoIP, Call routing and network. Basic knowledge of PowerSchell. Independend ticket handling (L2, L3 level). Change implementation.","Advanced knowledge of the product, VoIP, Call routing and network. Incident management (L3 level), Problem management, Change design and implementation. Standard onboarding project participation.","Expert knowledge  of the product, VoIP, Call routing and network. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of the product, VoIP, Call routing and network. Technical lead in standard onboarding projects. Participation in Product design phase.","Expert knowledge of the product, VoIP, Call routing and network. Technical lead in standard onboarding projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.",NA,,,,,,,,
+E2E Operations,EUS,UCC Operations,Praessler,PRTG Network  monitoring,NA,User knowledge of PRTG and monitored products. Understand what PRTG shows to be able handle tickets accordingly.,Intermediate knowledge of PRTG and monitored products. Active ussage of the tool (admin access). Root cause analyses. Historic data.,Advanced knowledge of PRTG and monitored products. Active ussage of the tool (admin access). Root cause analyses. Historic data. Adding new sensors and design dashboards.,Expert knowledge of PRTG and monitored products. Active ussage of the tool (admin access). Root cause analyses. Historic data. Adding new sensors and design dashboards. Installing/implementing new probes. PRTG backups and disaster recovery.,NA,NA,NA,,,,,,,,
+Database & Midleware,Java Midleware ,Java Midleware technical specialist ,IBM ,,NA,User knowledge of IBM midleware technologies and monitored products. Understand what IBM midleware technologies shows to be able handle tickets accordingly.,Intermediate knowledge (working on his own) of IBM midleware technologies and monitored products. Active ussage of the technologies. Newhire specific technical training - link. ,"Expert knowledge of IBM midleware technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of IBM Midleware product. Problem management, Change designs. Participation in standard onboarding projects.","Technical Lead in particular technology with project leading backround. Scripting knowledge for automation.  Expert knowledge of IBM midleware technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of IBM Midleware product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ",Expert knowledge of IBM midleware technologies and Linux platform. Advanced knowledge of scripting. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of IBM midleware technologies. Advanced knowledge of scripting. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. ","Expert knowledge of IBM midleware technologies. Advanced knowledge of scripting. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. At least 7 years of experience. ",,,,,,,,
+Database & Midleware,Java Midleware ,Java Midleware technical specialist ,Opensource,,NA,User knowledge of Opensource midleware technologies and monitored products. Understand what IBM midleware technologies shows to be able handle tickets accordingly.,Intermediate knowledge (working on his own) of Opensource midleware technologies and monitored products. Active ussage of the technologies. Newhire specific technical training - link. ,"Expert knowledge of Opensource midleware technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of IBM Midleware product. Problem management, Change designs. Participation in standard onboarding projects.","Technical Lead in particular technology with project leading backround. Scripting knowledge for automation.  Expert knowledge of IBM midleware technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of IBM Midleware product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ",Expert knowledge of Opensource midleware technologies and Linux platform. Advanced knowledge of scripting. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of Opensource midleware technologies. Advanced knowledge of scripting. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. ","Expert knowledge of Opensource midleware technologies. Advanced knowledge of scripting. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. At least 7 years of experience. ",,,,,,,,
+Database & Midleware,Java Midleware ,Java Midleware technical specialist ,Oracle ,,NA,User knowledge of Oracle midleware technologies and monitored products. Understand what IBM midleware technologies shows to be able handle tickets accordingly.,Intermediate knowledge (working on his own) of Oracle midleware technologies and monitored products. Active ussage of the technologies. Newhire specific technical training - link. ,"Expert knowledge of Oracle midleware technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of IBM Midleware product. Problem management, Change designs. Participation in standard onboarding projects.","Technical Lead in particular technology with project leading backround. Scripting knowledge for automation.  Expert knowledge of IBM midleware technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of IBM Midleware product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ",Expert knowledge of Oracle midleware technologies and Linux platform. Advanced knowledge of scripting. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of Oracle midleware technologies. Advanced knowledge of scripting. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. ","Expert knowledge of Oracle midleware technologies. Advanced knowledge of scripting. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. At least 7 years of experience. ",,,,,,,,
+Database & Midleware,Integrations ,Integration Technical Specialist ,IBM,,NA,User knowledge of IBM integrations technologies and monitored products. Understand what IBM integrations technologies shows to be able handle tickets accordingly.,Intermediate knowledge (working on his own) of IBM integrations technologies and monitored products. Active ussage of the technologies. Change implemation.�,"Expert knowledge of IBM integrations technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of IBM integrationproduct. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ","Technical Lead in particular technology with project leading backround. Programming knowledge (Python). Automation tools knowledge. Expert knowledge of IBM integrations technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of IBM integration product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ",Expert knowledge of IBM integration technologies and Linux platform. Advanced knowledge of scripting. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of IBM integration technologies. Advanced knowledge of scripting. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. ","Expert knowledge of IBM integration technologies. Advanced knowledge of scripting and programming. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. 10 years of experience. ",,,,,,,,
+Database & Midleware,Integrations ,Integration Technical Specialist ,Opensource,,NA,User knowledge of Opensource integrations technologies and monitored products. Understand what Opensource integrations technologies shows to be able handle tickets accordingly.,"Intermediate knowledge (working on his own) of IBM integrations technologies and monitored products. Active ussage of the technologies. Certifications (IIB, MQ) ","Expert knowledge of Opensource integrations technologies and strong understanding of customers specifics environment. Advanced knowledge of Opensource integration product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ","Technical Lead in particular technology with project leading backround. Programming knowledge (Python). Automation tools knowledge. Expert knowledge of Opensource integrations technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of Opensource integration product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ",Expert knowledge of Opensource integration technologies and Linux platform. Advanced knowledge of scripting. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of Opensource integration technologies. Advanced knowledge of scripting. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. ","Expert knowledge of IBM integration technologies. Advanced knowledge of scripting and programming. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. 10 years of experience. ",,,,,,,,
+Database & Midleware,Integrations ,Integration Technical Specialist ,Microsoft,,NA,User knowledge of MS integrations technologies and monitored products. Understand what MSintegrations technologies shows to be able handle tickets accordingly.,"Intermediate knowledge (working on his own) of IBM integrations technologies and monitored products. Active ussage of the technologies. Certifications (IIB, MQ) ","Expert knowledge of Microsoft integrations technologies and strong understanding of customers specifics environment. Advanced knowledge of Microsoft integration product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ","Technical Lead in particular technology with project leading backround. Programming knowledge (Python). Automation tools knowledge. Expert knowledge of Microsoft integrations technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of Microsoft integration product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ",Expert knowledge of Microsoft integration technologies and Linux platform. Advanced knowledge of scripting. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of Microsoft integration technologies. Advanced knowledge of scripting. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. ","Expert knowledge of IBM integration technologies. Advanced knowledge of scripting and programming. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. 10 years of experience. ",,,,,,,,
+Database & Midleware,Integrations ,Integration Technical Specialist ,WSO2,,NA,User knowledge of WSO2 integrations technologies and monitored products. Understand what WSO2 integrations technologies shows to be able handle tickets accordingly.,"Intermediate knowledge (working on his own) of IBM integrations technologies and monitored products. Active ussage of the technologies. Certifications (IIB, MQ) ","Expert knowledge of WSO2 integrations technologies and strong understanding of customers specifics environment. Advanced knowledge of WSO2 integration product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ","Technical Lead in particular technology with project leading backround. Programming knowledge (Python). Automation tools knowledge. Expert knowledge of WSO2 integrations technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of WSO2 integration product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ",Expert knowledge of WSO2 integration technologies and Linux platform. Advanced knowledge of scripting. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of WSO2 integration technologies. Advanced knowledge of scripting. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. ","Expert knowledge of IBM integration technologies. Advanced knowledge of scripting and programming. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. 10 years of experience. ",,,,,,,,
+Database & Midleware,Integrations ,Integration Technical Specialist ,RedHat ,,NA,User knowledge of RedHat integrations technologies and monitored products. Understand what RedHat integrations technologies shows to be able handle tickets accordingly.,Intermediate knowledge (working on his own) of RedHat integrations technologies and monitored products. Active ussage of the technologies.�,"Expert knowledge of RedHat integrations technologies and strong understanding of customers specifics environment. Advanced knowledge of RedHat integration product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ","Technical Lead in particular technology with project leading backround. Programming knowledge (Python). Automation tools knowledge. Expert knowledge of RedHat integrations technologies and strong understanding of customers specific environment. Advanced knowledge of monitoring tools and its configuration. Advanced knowledge of RedHat integration product. Problem management, Change designs. Participation in standard onboarding projects and CAB meetings with customers. ",Expert knowledge of RedHat integration technologies and Linux platform. Advanced knowledge of scripting. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of RedHat integration technologies. Advanced knowledge of scripting. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. ","Expert knowledge of RedHat integration technologies. Advanced knowledge of scripting and programming. Technical lead for non standard requests and customer projects. Product design. Presales consultancy. Help with RFI, RFP. 10 years of experience. ",,,,,,,,
+EUS,Exchange,Specialist Exchange Operations,Private Cloud Exchange,"MS Exchange 2013, 2016, 2019","understand the basics, ability to solve issue based on KB","TS1 + deeper understanding , basic knowledge of AD, troubleshooting skills, basic knowledge of Windows Server, ability to use ECP for administration","TS2 + advanced understanding,  ability to use Exchange Powershell cmdlets, basic knowledge of VM platform, basic understanding of monitoring, ability to read log files (IIS, SMTP, OWA, EWS, ..), ability to read Event Log, ability to use Backup software","TS3 + deeper understanding,  ability to create Powershell scripts, ability to use AD Powershell cmdlets, advanced troubleshooting, advanced knowledge of VM platform, �Is able to proactively work and solve problems
+","TS4 + analytics management, Deep knowledge of one or several areas of expertise. Can suggest new solutions and improve existing systems. Backup of Architect. Ability to use EWS.","TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment. 
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL",,,,,,,,,,
+EUS,Exchange,Specialist Exchange Operations,Exchange Online,O365 Exchange Online,"understand the basics, ability to solve issue based on KB ","TS1 + deeper understanding, basic knowledge of AD / Azure AD, troubleshooting skills, basic knowledge of Windows Server, ability to use ECP for administration","TS2 + advanced understanding, basic knowledge of VM platform, basic understanding of monitoring, ability to use Exchange Online Powershell cmdlets, basic knowledge of ADFS, Directory Synchronization, basic knowledge of Exchange Online Protection","TS3 + deeper understanding,  ability to create Powershell scripts, �ability to use MS Online + AzureAD Powershell cmdlets, advanced troubleshooting, advanced knowledge of VM platform,� Is able to proactively work and solve problems
+","TS4 + analytics management, Deep knowledge of one or several areas of expertise. Can  suggest new solutions and improve existing systems. Backup of Architect. Ability to use EWS and Graph API","TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment. 
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL",,,,,,,,,,
+EUS,Exchange,Specialist Exchange Operations,E-mail Antispam,"Symantec, FuseMail, TrendMicro","understand the basics, ability to solve issue based on KB ","TS1 + deeper understanding, message tracking ","TS2 + advanced understanding, knowledge of email routing, understanding of DNS records - SPF, DKIM, DMARC, PTR and their role in messaging, message header analysis, ability to create content filtering rules based on message header information","TS3 + deeper understanding, advanced troubleshooting, advanced knowledge of VM platform, administration via SSH and command line","TS4 + analytics management, Deep knowledge of one or several areas of expertise. Can  suggest new solutions and improve existing systems. Backup of Architect","TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment. 
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL",,,,,,,,,,
+EUS,Exchange,Specialist Exchange Operations,Secure Email,Deltagon,"understand the basics, ability to solve issue based on KB ",deeper understanding ,TS2 + advanced understanding,"TS3 + expert understanding,  advanced troubleshooting,","TS4 + analytics management, Deep knowledge of one or several areas of expertise. Can  suggest new solutions and improve existing systems. Backup of Architect","TS5 + Excellent verbal and written skills, including the ability to communicate effectively and work with others in a team environment. 
+Excellent analytical skills and the ability to troubleshoot and resolve software problems�
+Ability to make decisions and manage your time effectively to a delivery plan/schedule�
+Ability to work independently, but also be part of a team
+Intermediate level of ITIL",,,,,,,,,,
+EUS,Exchange,Specialist Exchange Operations,Google Apps,Google,"understand the basics, ability to solve issue based on KB ",deeper understanding ,,,,,,,,,,,,,,
+E2E Operations,EUS,IBM Notes Operations,IBM,IBM Notes / Domino Application Server management,NA,"Fundamental knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Ticket (requests and monitoring tickets) handling according operational instructions.","Advanced of IBM collaboration tools, Windows Server/Linux/IBM iseries. Fundamental knowledge of Lotus script (Java). Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Participation in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,IBM Notes Operations,IBM,"IBM Instand Messaging, SameTime",NA,"Fundamental knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Ticket (requests and monitoring tickets) handling according operational instructions.","Advanced of IBM collaboration tools, Windows Server/Linux/IBM iseries. Fundamental knowledge of Lotus script (Java). Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Participation in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,IBM Notes Operations,IBM,IBM Social Business / IBM Connections,NA,"Fundamental knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Ticket (requests and monitoring tickets) handling according operational instructions.","Advanced of IBM collaboration tools, Windows Server/Linux/IBM iseries. Fundamental knowledge of Lotus script (Java). Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Participation in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.","Expert knowledge of IBM collaboration tools, Windows Server/Linux/IBM iseries. Advanced knowledge of Lotus script (Java). Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,Access Services Operations,Microsoft ,Azure AD/EM+S/O365 identities,NA,Fundamental Azure AD/O365 knowledge. Ticket (requests and monitoring tickets) handling according operational instructions.,"Intermediate Azure AD/O365 knowledge. Independend ticket handling (L2, L3 level).","Advanced Azure AD knowledge. Intermediate knowledge of O365. Basic knowledge of PoweShell. Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of Azure AD. Advanced knowledge of PoweShell. Intermediate knowledge of O365. Problem management, Change designs. Technical lead in standard onboarding projects.",Expert knowledge of Azure AD/O365. Advanced knowledge of PoweShell. Intermediate knowledge of O365. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of  Azure AD. Advanced knowledge of PoweShell. Intermediate knowledge of O365. Technical lead in both standard onboarding and custom projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of  Azure AD. Advanced knowledge of PoweShell. Intermediate knowledge of O365. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,Access Services Operations,Microsoft ,PKI,NA,Fundamental knowledge of Windows Server and digital certificates. Ticket (requests and monitoring tickets) handling according operational instructions.,"Intermediate knowledge of Windows Server and digital certificates. Independend ticket handling (L2, L3 level).","Advanced knowledge of Windows Server and digital certificates. Basic knowledge of PoweShell. Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of Windows Server and digital certificates. Advanced knowledge of PoweShell. Problem management, Change designs. Technical lead in standard onboarding projects.",Expert knowledge of Windows Server and digital certificates. Advanced knowledge of PoweShell. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of Windows Server and digital certificates. Advanced knowledge of PoweShell. Technical lead in both standard onboarding and custom projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Windows Server and digital certificates. Advanced knowledge of PoweShell. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,Access Services Operations,Microsoft ,Direct Access/AlwaysOn VPN,NA,"Fundamental knowledge of Windows Server, MS networking and digital certificates. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge of Windows Server, MS networking and digital certificates. Independend ticket handling (L2, L3 level).","Advanced knowledge of Windows Server, MS networking and digital certificates. Basic knowledge of PoweShell. Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of Windows Server, MS networking and digital certificates. Advanced knowledge of PoweShell. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of Windows Server, MS networking and digital certificates. Advanced knowledge of PoweShell. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.","Expert knowledge of Windows Server, MS networking and digital certificates. Advanced knowledge of PoweShell. Technical lead in both standard onboarding and custom projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Windows Server, MS networking and digital certificates. Advanced knowledge of PoweShell. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,Access Services Operations,Microsoft ,ADFS/ AAD Connect,NA,Fundamental Windows server/Azure AD/O365 knowledge. Ticket (requests and monitoring tickets) handling according operational instructions.,"Intermediate Windows server/Azure AD/O365 knowledge. Independend ticket handling (L2, L3 level).","Advanced Windows server/Azure AD/O365 knowledge. Basic knowledge of PoweShell. Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of Windows server/Azure AD/O365. Advanced knowledge of PoweShell. Problem management, Change designs. Technical lead in standard onboarding projects.",Expert knowledge of Windows server/Azure AD/O365. Advanced knowledge of PoweShell. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.,"Expert knowledge of Windows server/Azure AD/O365. Advanced knowledge of PoweShell. Technical lead in both standard onboarding and custom projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Windows server/Azure AD/O365. Advanced knowledge of PoweShell. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,Access Services Operations,Microsoft ,Network Policy Service,NA,"Fundamental knowledge of Windows Server, MS networking and digital certificates. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge of Windows Server, MS networking and digital certificates. Independend ticket handling (L2, L3 level).","Advanced knowledge of Windows Server, MS networking and digital certificates. Incident management (L3 level), Problem management, Change management. Standard onboarding project participation.","Expert knowledge of Windows Server, MS networking and digital certificates. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of Windows Server, MS networking and digital certificates. Technical lead in standard onboarding projects and participation in custom projects. Close cooperation with Product management.","Expert knowledge of Windows Server, MS networking and digital certificates. Technical lead in both standard onboarding and custom projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Windows Server, MS networking and digital certificates. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,UCC Operations,Microsoft ,Skype for Business,NA,"Basic knowledge of Windows server, Skype for Business. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge of Windows server, network and Skype for Business. Basic knowledge of PowerSchell. Independend ticket handling (L2, L3 level). Change implementation.","Advanced knowledge of Windows server, Skype for Business and VoIP. Intermediate knowledge of Powershell and network.. Incident management (L3 level), Problem management, Change design and implementation. Standard onboarding project participation.","Expert knowledge of Skype for Business and VoIP. Advanced knowledge of PowerShell, network and Windows server. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of Skype for Business and VoIP. Advanced knowledge od PowerShell, network and Windows server. Technical lead in standard onboarding projects. Participation in Product design phase.","Expert knowledge of Skype for Business and VoIP. Advanced knowledge od PowerShell, network and Windows server. Technical lead in standard onboarding projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Skype for Business and VoIP. Advanced knowledge od PowerShell, network and Windows server. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,UCC Operations,Cisco,Cisco UCM,NA,"Basic knowledge of Cisco UCM, VoIP, Call routing and network. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge of Cisco UCM, VoIP, Call routing and network. Basic knowledge of PowerSchell. Independend ticket handling (L2, L3 level). Change implementation.","Advanced knowledge of Cisco UCM, VoIP, Call routing and network. Incident management (L3 level), Problem management, Change design and implementation. Standard onboarding project participation.","Expert knowledge of Cisco UCM, VoIP, Call routing and network. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of Cisco UCM, VoIP, Call routing and network. Technical lead in standard onboarding projects. Participation in Product design phase.","Expert knowledge of Cisco UCM, VoIP, Call routing and network. Technical lead in standard onboarding projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Cisco UCM, VoIP, Call routing and network. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,UCC Operations,Cisco,Cisco VGW,NA,"Basic knowledge of Cisco GW, VoIP, Call routing and network. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge  of Cisco GW, VoIP, Call routing and network. Basic knowledge of PowerSchell. Independend ticket handling (L2, L3 level). Change implementation.","Advanced knowledge of Cisco GW, VoIP, Call routing and network. Incident management (L3 level), Problem management, Change design and implementation. Standard onboarding project participation.","Expert knowledge  of Cisco GW, VoIP, Call routing and network. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge  of Cisco GW, VoIP, Call routing and network. Technical lead in standard onboarding projects. Participation in Product design phase.","Expert knowledge of Cisco GW, VoIP, Call routing and network. Technical lead in standard onboarding projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Cisco GW, VoIP, Call routing and network. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,UCC Operations,Audiocodes,Session Border Controler,NA,"Basic knowledge of Audiocodes Mediant SBC, VoIP, Call routing and network. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge  of Audiocodes Mediant SBC, VoIP, Call routing and network. Basic knowledge of PowerSchell. Independend ticket handling (L2, L3 level). Change implementation.","Advanced knowledge of Audiocodes Mediant SBC, VoIP, Call routing and network. Incident management (L3 level), Problem management, Change design and implementation. Standard onboarding project participation.","Expert knowledge  of Audiocodes Mediant SBC, VoIP, Call routing and network. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge  of Audiocodes Mediant SBC, VoIP, Call routing and network. Technical lead in standard onboarding projects. Participation in Product design phase.","Expert knowledge of Audiocodes Mediant SBC, VoIP, Call routing and network. Technical lead in standard onboarding projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.","Expert knowledge of Audiocodes Mediant SBC, VoIP, Call routing and network. Technical lead for non standard requests and customer projects. Product design. Presales consultancy.  Help with RFI, RFP and DD.",,,,,,,,
+E2E Operations,EUS,UCC Operations,Voxbone,Global Access number,NA,"Basic knowledge of the product, VoIP, Call routing and network. Ticket (requests and monitoring tickets) handling according operational instructions.","Intermediate knowledge  of the product, VoIP, Call routing and network. Basic knowledge of PowerSchell. Independend ticket handling (L2, L3 level). Change implementation.","Advanced knowledge of the product, VoIP, Call routing and network. Incident management (L3 level), Problem management, Change design and implementation. Standard onboarding project participation.","Expert knowledge  of the product, VoIP, Call routing and network. Problem management, Change designs. Technical lead in standard onboarding projects.","Expert knowledge of the product, VoIP, Call routing and network. Technical lead in standard onboarding projects. Participation in Product design phase.","Expert knowledge of the product, VoIP, Call routing and network. Technical lead in standard onboarding projects. Active Product design participation. Customer consultancy. Help with RFI, RFP and DD.",NA,,,,,,,,
+E2E Operations,EUS,UCC Operations,Praessler,PRTG Network  monitoring,NA,User knowledge of PRTG and monitored products. Understand what PRTG shows to be able handle tickets accordingly.,Intermediate knowledge of PRTG and monitored products. Active ussage of the tool (admin access). Root cause analyses. Historic data.,Advanced knowledge of PRTG and monitored products. Active ussage of the tool (admin access). Root cause analyses. Historic data. Adding new sensors and design dashboards.,Expert knowledge of PRTG and monitored products. Active ussage of the tool (admin access). Root cause analyses. Historic data. Adding new sensors and design dashboards. Installing/implementing new probes. PRTG backups and disaster recovery.,NA,NA,NA,,,,,,,,
+SAP ,SAP ,ERP Specialist ,SAP ,SAP ,NA,basic,intermediate,advanced,expert,NA,advanced,expert,,,,,,,,
+SAP ,SAP ,ERP Specialist ,DB,HANA,NA,basic,intermediate,advanced,expert,NA,advanced,expert,,,,,,,,
+SAP ,SAP ,ERP Specialist ,DB ,DB2 ,NA,basic,intermediate,advanced,expert,NA,advanced,expert,,,,,,,,
+SAP ,SAP ,ERP Specialist ,DB ,Oracle ,NA,basic,intermediate,advanced,expert,NA,advanced,expert,,,,,,,,
+SAP ,SAP ,ERP Specialist ,DB ,MaxDB ,NA,basic,intermediate,advanced,expert,NA,advanced,expert,,,,,,,,
+SAP ,SAP ,ERP Specialist ,OS,"Linux (SLES, RedHat)",NA,basic,intermediate,advanced,expert,NA,advanced,expert,,,,,,,,
+SAP ,SAP ,ERP Specialist ,Hypervisor ,VmWare ,NA,basic,basic,basic,intermediate,NA,basic,intermediate,,,,,,,,
+SAP ,SAP ,ERP Specialist ,Storage ,NetApp ,NA,basic,basic,basic,intermediate,NA,basic,intermediate,,,,,,,,
+SAP ,SAP ,ERP Specialist ,Tools ,SNOW ,NA,intermediate,intermediate,intermediate,intermediate,NA,intermediate,intermediate,,,,,,,,
+SAP ,SAP ,ERP Specialist ,Tools ,JIRA ,NA,intermediate,intermediate,intermediate,intermediate,NA,intermediate,intermediate,,,,,,,,
+SAP ,SAP ,ERP Specialist ,Tools,SAP Focused Run - SAP monitoring,NA,basic,intermediate,intermediate,advanced,NA,intermediate,advanced,,,,,,,,
+SAP ,SAP ,ERP Specialist ,TDL ,Tieto Dynamic Landscape for ERP knowledge ,NA,basic,intermediate,advanced,expert,NA,advanced,expert,,,,,,,,
+SAP ,SAP ,ERP Specialist ,TDL ,TDL portal management,NA,basic,intermediate,advanced,expert,NA,advanced,expert,,,,,,,,
+SAP ,SAP ,ERP Specialist ,Microsoft,MS Azure knowledge,NA,basic,basic,intermediate,intermediate,NA,intermediate,intermediate,,,,,,,,
+SAP ,SAP ,ERP Specialist ,Google,GCP knowledge,NA,basic,basic,intermediate,intermediate,NA,intermediate,intermediate,,,,,,,,
+SAP ,SAP ,ERP Specialist ,Amazon,AWS knowledge,NA,basic,basic,intermediate,intermediate,NA,intermediate,intermediate,,,,,,,,

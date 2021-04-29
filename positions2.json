@@ -1,0 +1,6294 @@
+[
+    {
+        "toId": "34f1dd19-db92-4e04-8564-f0e0ea1ed9e4",
+        "Tier": -1000,
+        "HorizontalPosition": 1250,
+        "Name": "Vmware stack TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "cadb3b9c-c400-499f-9ebf-badc9f37a902",
+                "Level": 1
+            },
+            {
+                "SkillToId": "7d706aa3-dd7a-4bd2-874b-29f7f102157a",
+                "Level": 1
+            },
+            {
+                "SkillToId": "1aefc655-03e5-4955-be4b-71498210d333",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "a2dfafdf-279c-4cd8-b949-296fd8eea3f0",
+        "Tier": -1200,
+        "HorizontalPosition": 1630,
+        "Name": "Vmware stack TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "cadb3b9c-c400-499f-9ebf-badc9f37a902",
+                "Level": 2
+            },
+            {
+                "SkillToId": "7d706aa3-dd7a-4bd2-874b-29f7f102157a",
+                "Level": 2
+            },
+            {
+                "SkillToId": "f853eb82-5f12-4a2f-908c-f60b6b7313e3",
+                "Level": 1
+            },
+            {
+                "SkillToId": "649f0af3-f871-48de-b88a-5b91e88f327d",
+                "Level": 1
+            },
+            {
+                "SkillToId": "fce23777-f4cd-4a72-95be-dd96315ce444",
+                "Level": 1
+            },
+            {
+                "SkillToId": "1aefc655-03e5-4955-be4b-71498210d333",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "58ce36f5-b23c-41e7-bc78-96c4c96c3b96",
+        "Tier": -1400,
+        "HorizontalPosition": 1223,
+        "Name": "Vmware stack TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "cadb3b9c-c400-499f-9ebf-badc9f37a902",
+                "Level": 3
+            },
+            {
+                "SkillToId": "7d706aa3-dd7a-4bd2-874b-29f7f102157a",
+                "Level": 3
+            },
+            {
+                "SkillToId": "f853eb82-5f12-4a2f-908c-f60b6b7313e3",
+                "Level": 2
+            },
+            {
+                "SkillToId": "649f0af3-f871-48de-b88a-5b91e88f327d",
+                "Level": 2
+            },
+            {
+                "SkillToId": "fce23777-f4cd-4a72-95be-dd96315ce444",
+                "Level": 2
+            },
+            {
+                "SkillToId": "1aefc655-03e5-4955-be4b-71498210d333",
+                "Level": 3
+            },
+            {
+                "SkillToId": "71bdf40c-6472-47ce-8b58-cfa4ce305fdc",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "521fca1f-bce6-42c9-b4a7-55636305d1ad",
+        "Tier": -1600,
+        "HorizontalPosition": 827,
+        "Name": "Vmware stack TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "cadb3b9c-c400-499f-9ebf-badc9f37a902",
+                "Level": 4
+            },
+            {
+                "SkillToId": "7d706aa3-dd7a-4bd2-874b-29f7f102157a",
+                "Level": 4
+            },
+            {
+                "SkillToId": "f853eb82-5f12-4a2f-908c-f60b6b7313e3",
+                "Level": 3
+            },
+            {
+                "SkillToId": "649f0af3-f871-48de-b88a-5b91e88f327d",
+                "Level": 3
+            },
+            {
+                "SkillToId": "fce23777-f4cd-4a72-95be-dd96315ce444",
+                "Level": 3
+            },
+            {
+                "SkillToId": "1aefc655-03e5-4955-be4b-71498210d333",
+                "Level": 4
+            },
+            {
+                "SkillToId": "71bdf40c-6472-47ce-8b58-cfa4ce305fdc",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "31e19180-e020-48a3-832d-80febac7f730",
+        "Tier": -1200,
+        "HorizontalPosition": 198,
+        "Name": "Vmware on-site \n& Customized solutions TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a03b2d34-2225-490e-b5b7-681eb7182d79",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "ad625d13-0f00-43b7-b2d4-3ac18f64dff2",
+        "Tier": -1400,
+        "HorizontalPosition": 651,
+        "Name": "Vmware on-site \n& Customized solutions TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a03b2d34-2225-490e-b5b7-681eb7182d79",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "7b968b48-8874-4c8e-b82a-45eb58e62554",
+        "Tier": -1600,
+        "HorizontalPosition": 1966,
+        "Name": "Vmware on-site \n& Customized solutions TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a03b2d34-2225-490e-b5b7-681eb7182d79",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "7c510c4d-d7d0-492a-b8e5-0648fd099531",
+        "Tier": -1400,
+        "HorizontalPosition": 579,
+        "Name": "Public Cloud\n (AWS - Amazon Web Services & Azure - MS Azure) TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "1802919b-97e3-4616-b520-a44ff0e3eddc",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "d18d0e6b-c866-4053-9ac8-a83f81565bd0",
+        "Tier": -1600,
+        "HorizontalPosition": 2464,
+        "Name": "Public Cloud\n (AWS - Amazon Web Services & Azure - MS Azure) TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "1802919b-97e3-4616-b520-a44ff0e3eddc",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "e8026bc4-ff47-4b11-9880-3813f14c4891",
+        "Tier": -1800,
+        "HorizontalPosition": 1000,
+        "Name": "Public Cloud\n (AWS - Amazon Web Services & Azure - MS Azure) TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "1802919b-97e3-4616-b520-a44ff0e3eddc",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "45de5bf3-b119-4a0b-9cab-dec36e4a3e06",
+        "Name": "Public Cloud\n (AWS - Amazon Web Services & Azure - MS Azure) IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 2537,
+        "RequiredSkills": [
+            {
+                "SkillToId": "1802919b-97e3-4616-b520-a44ff0e3eddc",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "e58f8e19-01b5-4f59-bc01-9c4cc9c8d02a",
+        "Tier": -1000,
+        "HorizontalPosition": 2427,
+        "Name": "Cloud TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "e33fc240-2e6d-470e-b725-b59caa59b3d3",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "64042adf-b969-4e3c-82af-526af6bef20d",
+        "Tier": -1200,
+        "HorizontalPosition": 1913,
+        "Name": "Cloud TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "e33fc240-2e6d-470e-b725-b59caa59b3d3",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "2c4cd24f-7021-49b9-9b9a-ffdf3028b20d",
+        "Tier": -1400,
+        "HorizontalPosition": 2704,
+        "Name": "Cloud TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "e33fc240-2e6d-470e-b725-b59caa59b3d3",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "a5186581-2691-4933-b6f7-8c8857e3d512",
+        "Tier": -1600,
+        "HorizontalPosition": 2313,
+        "Name": "Cloud TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "e33fc240-2e6d-470e-b725-b59caa59b3d3",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "052e2430-5c23-43fa-bcd1-f5670522d55f",
+        "Tier": -1800,
+        "HorizontalPosition": 1065,
+        "Name": "Cloud TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "e33fc240-2e6d-470e-b725-b59caa59b3d3",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "36af66e6-8429-4b6a-9808-5dfa0796e8f1",
+        "Name": "Cloud IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 108,
+        "RequiredSkills": [
+            {
+                "SkillToId": "e33fc240-2e6d-470e-b725-b59caa59b3d3",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "393d6fcb-19ef-4335-9dc8-711e811fe76b",
+        "Name": "MS Stack IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 1960,
+        "RequiredSkills": [
+            {
+                "SkillToId": "65231570-6421-491b-875b-4c401ce65efc",
+                "Level": 1
+            },
+            {
+                "SkillToId": "515bc17f-4241-47e5-ad23-1acdb4ee8d85",
+                "Level": 4
+            },
+            {
+                "SkillToId": "219ed447-287d-4247-85d4-097e766f5c06",
+                "Level": 6
+            },
+            {
+                "SkillToId": "b1485bd0-5554-492c-972a-b58d566eac6e",
+                "Level": 6
+            },
+            {
+                "SkillToId": "1cabc96a-9a5f-4418-b461-dd27cc8be471",
+                "Level": 6
+            },
+            {
+                "SkillToId": "b3106168-39b8-4675-b0b3-072994464fb5",
+                "Level": 5
+            },
+            {
+                "SkillToId": "8d7ffd68-4fb5-46a1-99cf-cc44e9090895",
+                "Level": 6
+            },
+            {
+                "SkillToId": "472d55dd-6a3a-4bf2-922d-c08fba9fe135",
+                "Level": 7
+            },
+            {
+                "SkillToId": "d65fa646-ea4e-4bf7-b4ad-b43515c48895",
+                "Level": 7
+            },
+            {
+                "SkillToId": "7162aa48-d34e-486a-aa41-ff33cc3208ea",
+                "Level": 6
+            },
+            {
+                "SkillToId": "24245dc5-e4a0-4189-9330-e884a4ed90cd",
+                "Level": 5
+            },
+            {
+                "SkillToId": "9309e58c-2529-408b-a8b8-049ee11233d1",
+                "Level": 4
+            },
+            {
+                "SkillToId": "b86c0ae2-ea7d-4a80-89ab-6bc264145d0e",
+                "Level": 7
+            },
+            {
+                "SkillToId": "8de9f2ba-031a-4f45-8004-e6f244b4332e",
+                "Level": 6
+            },
+            {
+                "SkillToId": "bd3f903d-76a6-456a-a6e0-9b1155ce53a0",
+                "Level": 6
+            },
+            {
+                "SkillToId": "ee15801e-c7ff-46d0-9f28-bef92acf540c",
+                "Level": 7
+            },
+            {
+                "SkillToId": "536490b7-c0db-4768-a89a-4af753632cb4",
+                "Level": 7
+            },
+            {
+                "SkillToId": "9cce0a6b-4307-4222-9ed4-bfbd0e0e8e1c",
+                "Level": 7
+            },
+            {
+                "SkillToId": "da341eef-52cc-43e8-849c-119dfb8c3f6f",
+                "Level": 7
+            },
+            {
+                "SkillToId": "140efdd7-14ce-4453-8804-325efbf06b43",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "ed974f42-22e7-455d-8776-4949a29c4fd2",
+        "Tier": -1800,
+        "HorizontalPosition": 2877,
+        "Name": "MS Stack TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "515bc17f-4241-47e5-ad23-1acdb4ee8d85",
+                "Level": 1
+            },
+            {
+                "SkillToId": "219ed447-287d-4247-85d4-097e766f5c06",
+                "Level": 3
+            },
+            {
+                "SkillToId": "b1485bd0-5554-492c-972a-b58d566eac6e",
+                "Level": 3
+            },
+            {
+                "SkillToId": "1cabc96a-9a5f-4418-b461-dd27cc8be471",
+                "Level": 3
+            },
+            {
+                "SkillToId": "b3106168-39b8-4675-b0b3-072994464fb5",
+                "Level": 2
+            },
+            {
+                "SkillToId": "8d7ffd68-4fb5-46a1-99cf-cc44e9090895",
+                "Level": 3
+            },
+            {
+                "SkillToId": "472d55dd-6a3a-4bf2-922d-c08fba9fe135",
+                "Level": 4
+            },
+            {
+                "SkillToId": "d65fa646-ea4e-4bf7-b4ad-b43515c48895",
+                "Level": 4
+            },
+            {
+                "SkillToId": "7162aa48-d34e-486a-aa41-ff33cc3208ea",
+                "Level": 3
+            },
+            {
+                "SkillToId": "24245dc5-e4a0-4189-9330-e884a4ed90cd",
+                "Level": 2
+            },
+            {
+                "SkillToId": "9309e58c-2529-408b-a8b8-049ee11233d1",
+                "Level": 1
+            },
+            {
+                "SkillToId": "b86c0ae2-ea7d-4a80-89ab-6bc264145d0e",
+                "Level": 4
+            },
+            {
+                "SkillToId": "8de9f2ba-031a-4f45-8004-e6f244b4332e",
+                "Level": 3
+            },
+            {
+                "SkillToId": "bd3f903d-76a6-456a-a6e0-9b1155ce53a0",
+                "Level": 3
+            },
+            {
+                "SkillToId": "ee15801e-c7ff-46d0-9f28-bef92acf540c",
+                "Level": 4
+            },
+            {
+                "SkillToId": "536490b7-c0db-4768-a89a-4af753632cb4",
+                "Level": 4
+            },
+            {
+                "SkillToId": "9cce0a6b-4307-4222-9ed4-bfbd0e0e8e1c",
+                "Level": 4
+            },
+            {
+                "SkillToId": "da341eef-52cc-43e8-849c-119dfb8c3f6f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "5fa6cd88-822b-4806-812c-394a58adc6a5",
+                "Level": 4
+            },
+            {
+                "SkillToId": "8f824424-a550-4d14-8aa4-bf74185d19b8",
+                "Level": 4
+            },
+            {
+                "SkillToId": "f29feeb4-ee95-4b48-885a-795769c55789",
+                "Level": 4
+            },
+            {
+                "SkillToId": "63fb4ec9-60bf-4fe2-bf00-2aff2cadddb3",
+                "Level": 4
+            },
+            {
+                "SkillToId": "140efdd7-14ce-4453-8804-325efbf06b43",
+                "Level": 2
+            },
+            {
+                "SkillToId": "7229af7d-5f0d-44b6-8acb-86a87bf48669",
+                "Level": 2
+            },
+            {
+                "SkillToId": "29cba86f-ae77-401b-abb8-410f77ced0f5",
+                "Level": 2
+            },
+            {
+                "SkillToId": "b42e8b50-9459-46c3-8147-71e6d06cc499",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "4e74ac74-4614-44c6-8098-a9fee2ef67d5",
+        "Name": "MS Stack IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 723,
+        "RequiredSkills": [
+            {
+                "SkillToId": "515bc17f-4241-47e5-ad23-1acdb4ee8d85",
+                "Level": 2
+            },
+            {
+                "SkillToId": "219ed447-287d-4247-85d4-097e766f5c06",
+                "Level": 4
+            },
+            {
+                "SkillToId": "472d55dd-6a3a-4bf2-922d-c08fba9fe135",
+                "Level": 5
+            },
+            {
+                "SkillToId": "d65fa646-ea4e-4bf7-b4ad-b43515c48895",
+                "Level": 5
+            },
+            {
+                "SkillToId": "7162aa48-d34e-486a-aa41-ff33cc3208ea",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ee15801e-c7ff-46d0-9f28-bef92acf540c",
+                "Level": 5
+            },
+            {
+                "SkillToId": "536490b7-c0db-4768-a89a-4af753632cb4",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "ceec0892-f93b-4d8b-8757-194d6bd26936",
+        "Name": "MS Stack IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 26,
+        "RequiredSkills": [
+            {
+                "SkillToId": "515bc17f-4241-47e5-ad23-1acdb4ee8d85",
+                "Level": 3
+            },
+            {
+                "SkillToId": "219ed447-287d-4247-85d4-097e766f5c06",
+                "Level": 5
+            },
+            {
+                "SkillToId": "472d55dd-6a3a-4bf2-922d-c08fba9fe135",
+                "Level": 6
+            },
+            {
+                "SkillToId": "d65fa646-ea4e-4bf7-b4ad-b43515c48895",
+                "Level": 6
+            },
+            {
+                "SkillToId": "7162aa48-d34e-486a-aa41-ff33cc3208ea",
+                "Level": 5
+            },
+            {
+                "SkillToId": "24245dc5-e4a0-4189-9330-e884a4ed90cd",
+                "Level": 4
+            },
+            {
+                "SkillToId": "9309e58c-2529-408b-a8b8-049ee11233d1",
+                "Level": 3
+            },
+            {
+                "SkillToId": "8de9f2ba-031a-4f45-8004-e6f244b4332e",
+                "Level": 5
+            },
+            {
+                "SkillToId": "bd3f903d-76a6-456a-a6e0-9b1155ce53a0",
+                "Level": 5
+            },
+            {
+                "SkillToId": "ee15801e-c7ff-46d0-9f28-bef92acf540c",
+                "Level": 6
+            },
+            {
+                "SkillToId": "536490b7-c0db-4768-a89a-4af753632cb4",
+                "Level": 6
+            },
+            {
+                "SkillToId": "140efdd7-14ce-4453-8804-325efbf06b43",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "29a01c23-74f0-490f-8663-6eea97d753d7",
+        "Tier": -1400,
+        "HorizontalPosition": 1451,
+        "Name": "MS Stack TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "219ed447-287d-4247-85d4-097e766f5c06",
+                "Level": 1
+            },
+            {
+                "SkillToId": "b1485bd0-5554-492c-972a-b58d566eac6e",
+                "Level": 1
+            },
+            {
+                "SkillToId": "1cabc96a-9a5f-4418-b461-dd27cc8be471",
+                "Level": 1
+            },
+            {
+                "SkillToId": "8d7ffd68-4fb5-46a1-99cf-cc44e9090895",
+                "Level": 1
+            },
+            {
+                "SkillToId": "472d55dd-6a3a-4bf2-922d-c08fba9fe135",
+                "Level": 2
+            },
+            {
+                "SkillToId": "d65fa646-ea4e-4bf7-b4ad-b43515c48895",
+                "Level": 2
+            },
+            {
+                "SkillToId": "7162aa48-d34e-486a-aa41-ff33cc3208ea",
+                "Level": 1
+            },
+            {
+                "SkillToId": "b86c0ae2-ea7d-4a80-89ab-6bc264145d0e",
+                "Level": 2
+            },
+            {
+                "SkillToId": "8de9f2ba-031a-4f45-8004-e6f244b4332e",
+                "Level": 1
+            },
+            {
+                "SkillToId": "bd3f903d-76a6-456a-a6e0-9b1155ce53a0",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ee15801e-c7ff-46d0-9f28-bef92acf540c",
+                "Level": 2
+            },
+            {
+                "SkillToId": "536490b7-c0db-4768-a89a-4af753632cb4",
+                "Level": 2
+            },
+            {
+                "SkillToId": "9cce0a6b-4307-4222-9ed4-bfbd0e0e8e1c",
+                "Level": 2
+            },
+            {
+                "SkillToId": "da341eef-52cc-43e8-849c-119dfb8c3f6f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "5fa6cd88-822b-4806-812c-394a58adc6a5",
+                "Level": 2
+            },
+            {
+                "SkillToId": "8f824424-a550-4d14-8aa4-bf74185d19b8",
+                "Level": 2
+            },
+            {
+                "SkillToId": "f29feeb4-ee95-4b48-885a-795769c55789",
+                "Level": 2
+            },
+            {
+                "SkillToId": "63fb4ec9-60bf-4fe2-bf00-2aff2cadddb3",
+                "Level": 2
+            },
+            {
+                "SkillToId": "b42e8b50-9459-46c3-8147-71e6d06cc499",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "ecc5213b-0d32-4001-9f56-621663d54c06",
+        "Tier": -1600,
+        "HorizontalPosition": 2102,
+        "Name": "MS Stack TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "219ed447-287d-4247-85d4-097e766f5c06",
+                "Level": 2
+            },
+            {
+                "SkillToId": "b1485bd0-5554-492c-972a-b58d566eac6e",
+                "Level": 2
+            },
+            {
+                "SkillToId": "1cabc96a-9a5f-4418-b461-dd27cc8be471",
+                "Level": 2
+            },
+            {
+                "SkillToId": "b3106168-39b8-4675-b0b3-072994464fb5",
+                "Level": 1
+            },
+            {
+                "SkillToId": "8d7ffd68-4fb5-46a1-99cf-cc44e9090895",
+                "Level": 2
+            },
+            {
+                "SkillToId": "472d55dd-6a3a-4bf2-922d-c08fba9fe135",
+                "Level": 3
+            },
+            {
+                "SkillToId": "d65fa646-ea4e-4bf7-b4ad-b43515c48895",
+                "Level": 3
+            },
+            {
+                "SkillToId": "7162aa48-d34e-486a-aa41-ff33cc3208ea",
+                "Level": 2
+            },
+            {
+                "SkillToId": "24245dc5-e4a0-4189-9330-e884a4ed90cd",
+                "Level": 1
+            },
+            {
+                "SkillToId": "b86c0ae2-ea7d-4a80-89ab-6bc264145d0e",
+                "Level": 3
+            },
+            {
+                "SkillToId": "8de9f2ba-031a-4f45-8004-e6f244b4332e",
+                "Level": 2
+            },
+            {
+                "SkillToId": "bd3f903d-76a6-456a-a6e0-9b1155ce53a0",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ee15801e-c7ff-46d0-9f28-bef92acf540c",
+                "Level": 3
+            },
+            {
+                "SkillToId": "536490b7-c0db-4768-a89a-4af753632cb4",
+                "Level": 3
+            },
+            {
+                "SkillToId": "9cce0a6b-4307-4222-9ed4-bfbd0e0e8e1c",
+                "Level": 3
+            },
+            {
+                "SkillToId": "da341eef-52cc-43e8-849c-119dfb8c3f6f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "5fa6cd88-822b-4806-812c-394a58adc6a5",
+                "Level": 3
+            },
+            {
+                "SkillToId": "8f824424-a550-4d14-8aa4-bf74185d19b8",
+                "Level": 3
+            },
+            {
+                "SkillToId": "f29feeb4-ee95-4b48-885a-795769c55789",
+                "Level": 3
+            },
+            {
+                "SkillToId": "63fb4ec9-60bf-4fe2-bf00-2aff2cadddb3",
+                "Level": 3
+            },
+            {
+                "SkillToId": "140efdd7-14ce-4453-8804-325efbf06b43",
+                "Level": 1
+            },
+            {
+                "SkillToId": "7229af7d-5f0d-44b6-8acb-86a87bf48669",
+                "Level": 1
+            },
+            {
+                "SkillToId": "29cba86f-ae77-401b-abb8-410f77ced0f5",
+                "Level": 1
+            },
+            {
+                "SkillToId": "b42e8b50-9459-46c3-8147-71e6d06cc499",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "5660a437-a899-40a2-b040-9b6c049528fa",
+        "Tier": -1200,
+        "HorizontalPosition": 1683,
+        "Name": "MS Stack TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "472d55dd-6a3a-4bf2-922d-c08fba9fe135",
+                "Level": 1
+            },
+            {
+                "SkillToId": "d65fa646-ea4e-4bf7-b4ad-b43515c48895",
+                "Level": 1
+            },
+            {
+                "SkillToId": "b86c0ae2-ea7d-4a80-89ab-6bc264145d0e",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ee15801e-c7ff-46d0-9f28-bef92acf540c",
+                "Level": 1
+            },
+            {
+                "SkillToId": "536490b7-c0db-4768-a89a-4af753632cb4",
+                "Level": 1
+            },
+            {
+                "SkillToId": "9cce0a6b-4307-4222-9ed4-bfbd0e0e8e1c",
+                "Level": 1
+            },
+            {
+                "SkillToId": "da341eef-52cc-43e8-849c-119dfb8c3f6f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "5fa6cd88-822b-4806-812c-394a58adc6a5",
+                "Level": 1
+            },
+            {
+                "SkillToId": "8f824424-a550-4d14-8aa4-bf74185d19b8",
+                "Level": 1
+            },
+            {
+                "SkillToId": "f29feeb4-ee95-4b48-885a-795769c55789",
+                "Level": 1
+            },
+            {
+                "SkillToId": "63fb4ec9-60bf-4fe2-bf00-2aff2cadddb3",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "0c96e0fb-ea7f-4bf3-968a-2bead40e9028",
+        "Tier": -1200,
+        "HorizontalPosition": 1171,
+        "Name": "Implementation TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "ccc49544-7461-4207-9cef-303250ce7e36",
+                "Level": 1
+            },
+            {
+                "SkillToId": "a917a428-f1ae-485c-bbe8-6c17bf26e52d",
+                "Level": 1
+            },
+            {
+                "SkillToId": "5b7a0c3d-b51a-4ae4-88d3-321812f74060",
+                "Level": 1
+            },
+            {
+                "SkillToId": "fbe35e65-12a0-4155-9fc3-fcc8b23070a9",
+                "Level": 1
+            },
+            {
+                "SkillToId": "68820817-30c0-430e-9f16-b702fe7da68d",
+                "Level": 1
+            },
+            {
+                "SkillToId": "abb233de-43fd-414b-9d63-0ee713be31c6",
+                "Level": 1
+            },
+            {
+                "SkillToId": "b8f72de7-a077-44cc-bf10-8896c059ec24",
+                "Level": 1
+            },
+            {
+                "SkillToId": "460e6a54-f301-4358-8d41-b374d354ef29",
+                "Level": 1
+            },
+            {
+                "SkillToId": "1db08ce2-61d0-49b6-bbe2-306f6e644096",
+                "Level": 1
+            },
+            {
+                "SkillToId": "120bdc0f-132e-4483-a6b0-a2510ca09089",
+                "Level": 1
+            },
+            {
+                "SkillToId": "524ec156-d3fa-4834-9c74-30d2ae720974",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ca5d7570-c1fb-4448-aaad-cafa03c04d25",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "b004aa0b-ee34-42ce-9cde-1c033d278b44",
+        "Tier": -1400,
+        "HorizontalPosition": 2640,
+        "Name": "Implementation TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "ccc49544-7461-4207-9cef-303250ce7e36",
+                "Level": 2
+            },
+            {
+                "SkillToId": "a917a428-f1ae-485c-bbe8-6c17bf26e52d",
+                "Level": 2
+            },
+            {
+                "SkillToId": "5b7a0c3d-b51a-4ae4-88d3-321812f74060",
+                "Level": 2
+            },
+            {
+                "SkillToId": "fbe35e65-12a0-4155-9fc3-fcc8b23070a9",
+                "Level": 2
+            },
+            {
+                "SkillToId": "68820817-30c0-430e-9f16-b702fe7da68d",
+                "Level": 2
+            },
+            {
+                "SkillToId": "abb233de-43fd-414b-9d63-0ee713be31c6",
+                "Level": 2
+            },
+            {
+                "SkillToId": "b8f72de7-a077-44cc-bf10-8896c059ec24",
+                "Level": 2
+            },
+            {
+                "SkillToId": "460e6a54-f301-4358-8d41-b374d354ef29",
+                "Level": 2
+            },
+            {
+                "SkillToId": "1db08ce2-61d0-49b6-bbe2-306f6e644096",
+                "Level": 2
+            },
+            {
+                "SkillToId": "120bdc0f-132e-4483-a6b0-a2510ca09089",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "6cd7e0bf-af73-406b-b45f-470c5203a237",
+        "Tier": -1600,
+        "HorizontalPosition": 2082,
+        "Name": "Implementation TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "ccc49544-7461-4207-9cef-303250ce7e36",
+                "Level": 3
+            },
+            {
+                "SkillToId": "a917a428-f1ae-485c-bbe8-6c17bf26e52d",
+                "Level": 3
+            },
+            {
+                "SkillToId": "5b7a0c3d-b51a-4ae4-88d3-321812f74060",
+                "Level": 3
+            },
+            {
+                "SkillToId": "fbe35e65-12a0-4155-9fc3-fcc8b23070a9",
+                "Level": 3
+            },
+            {
+                "SkillToId": "68820817-30c0-430e-9f16-b702fe7da68d",
+                "Level": 3
+            },
+            {
+                "SkillToId": "460e6a54-f301-4358-8d41-b374d354ef29",
+                "Level": 3
+            },
+            {
+                "SkillToId": "1db08ce2-61d0-49b6-bbe2-306f6e644096",
+                "Level": 3
+            },
+            {
+                "SkillToId": "120bdc0f-132e-4483-a6b0-a2510ca09089",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "f07eb549-fef5-4e93-b302-f7937ada9b68",
+        "Tier": -1800,
+        "HorizontalPosition": 1480,
+        "Name": "Implementation TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "5b7a0c3d-b51a-4ae4-88d3-321812f74060",
+                "Level": 4
+            },
+            {
+                "SkillToId": "fbe35e65-12a0-4155-9fc3-fcc8b23070a9",
+                "Level": 4
+            },
+            {
+                "SkillToId": "68820817-30c0-430e-9f16-b702fe7da68d",
+                "Level": 4
+            },
+            {
+                "SkillToId": "460e6a54-f301-4358-8d41-b374d354ef29",
+                "Level": 4
+            },
+            {
+                "SkillToId": "1db08ce2-61d0-49b6-bbe2-306f6e644096",
+                "Level": 4
+            },
+            {
+                "SkillToId": "120bdc0f-132e-4483-a6b0-a2510ca09089",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "60cf9821-7479-4606-8474-15e0e85c72a1",
+        "Name": "Implementation IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 2479,
+        "RequiredSkills": [
+            {
+                "SkillToId": "5b7a0c3d-b51a-4ae4-88d3-321812f74060",
+                "Level": 5
+            },
+            {
+                "SkillToId": "fbe35e65-12a0-4155-9fc3-fcc8b23070a9",
+                "Level": 5
+            },
+            {
+                "SkillToId": "68820817-30c0-430e-9f16-b702fe7da68d",
+                "Level": 5
+            },
+            {
+                "SkillToId": "460e6a54-f301-4358-8d41-b374d354ef29",
+                "Level": 5
+            },
+            {
+                "SkillToId": "1db08ce2-61d0-49b6-bbe2-306f6e644096",
+                "Level": 5
+            },
+            {
+                "SkillToId": "120bdc0f-132e-4483-a6b0-a2510ca09089",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "05c5639b-43e5-48ad-86de-3fd6213d77ce",
+        "Name": "Implementation IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 2544,
+        "RequiredSkills": [
+            {
+                "SkillToId": "524ec156-d3fa-4834-9c74-30d2ae720974",
+                "Level": 7
+            },
+            {
+                "SkillToId": "ca5d7570-c1fb-4448-aaad-cafa03c04d25",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "c4f149a8-aee8-4d7c-9066-6f193957a572",
+        "Tier": -1200,
+        "HorizontalPosition": 1683,
+        "Name": "Windows TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "ab595731-cd72-4705-bcb2-4c0ff4b52f14",
+                "Level": 1
+            },
+            {
+                "SkillToId": "f2f1dba6-2cb8-4d2e-ac6e-842dc1e43ba2",
+                "Level": 1
+            },
+            {
+                "SkillToId": "341da3c7-fc26-4f41-af77-8a836ae6a702",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ab328d63-13ec-4015-a08a-a53b58b22eb6",
+                "Level": 1
+            },
+            {
+                "SkillToId": "71891f8e-16ec-4381-b6e1-54178e5f87b9",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ae5fbf47-1fcc-4ee5-800f-12d3da4c0590",
+                "Level": 1
+            },
+            {
+                "SkillToId": "e2302f90-28d8-4926-91ab-f667240a639f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "7df66c9f-20be-465f-aa9b-fbe70488ea96",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ec40cb6f-39b3-49a9-98a5-d6e7b5c6d4d6",
+                "Level": 1
+            },
+            {
+                "SkillToId": "31308f95-0bcd-4c0b-ba9a-4828e893aefe",
+                "Level": 1
+            },
+            {
+                "SkillToId": "56bf6aad-61e9-42cc-90e0-46cb3b26fa86",
+                "Level": 1
+            },
+            {
+                "SkillToId": "86227042-8f3d-4015-ba6e-c61d6bceada4",
+                "Level": 1
+            },
+            {
+                "SkillToId": "04a5f151-39b6-4828-bc70-a35a132ec56a",
+                "Level": 2
+            },
+            {
+                "SkillToId": "0199737f-c488-46b0-8d04-b89d86a8cc6b",
+                "Level": 2
+            },
+            {
+                "SkillToId": "63f5082f-194b-42fd-a9aa-43c165be8463",
+                "Level": 1
+            },
+            {
+                "SkillToId": "fce279d3-d090-425b-98c0-9df0f3e1f33a",
+                "Level": 1
+            },
+            {
+                "SkillToId": "9e73c082-1b66-4cf1-9d65-3f0c8d6baadb",
+                "Level": 1
+            },
+            {
+                "SkillToId": "3e9fa928-a83f-4253-a348-032b22c555bf",
+                "Level": 1
+            },
+            {
+                "SkillToId": "dbfb9c8f-1346-4a5c-a7a4-edd0d8deff39",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "b7a57fe6-6e50-4576-8370-a28b8dba8abd",
+        "Tier": -1400,
+        "HorizontalPosition": 1567,
+        "Name": "Windows TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "ab595731-cd72-4705-bcb2-4c0ff4b52f14",
+                "Level": 2
+            },
+            {
+                "SkillToId": "f2f1dba6-2cb8-4d2e-ac6e-842dc1e43ba2",
+                "Level": 2
+            },
+            {
+                "SkillToId": "75dd5810-5a4e-48bd-ae18-a1924ea3dc13",
+                "Level": 1
+            },
+            {
+                "SkillToId": "b6cf0f02-fd0a-4941-993e-4ddf4982dafe",
+                "Level": 1
+            },
+            {
+                "SkillToId": "3fc99900-df80-4bea-9fa7-59e40eff404b",
+                "Level": 1
+            },
+            {
+                "SkillToId": "341da3c7-fc26-4f41-af77-8a836ae6a702",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ab328d63-13ec-4015-a08a-a53b58b22eb6",
+                "Level": 2
+            },
+            {
+                "SkillToId": "71891f8e-16ec-4381-b6e1-54178e5f87b9",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ae5fbf47-1fcc-4ee5-800f-12d3da4c0590",
+                "Level": 2
+            },
+            {
+                "SkillToId": "e2302f90-28d8-4926-91ab-f667240a639f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "7df66c9f-20be-465f-aa9b-fbe70488ea96",
+                "Level": 3
+            },
+            {
+                "SkillToId": "ec40cb6f-39b3-49a9-98a5-d6e7b5c6d4d6",
+                "Level": 2
+            },
+            {
+                "SkillToId": "31308f95-0bcd-4c0b-ba9a-4828e893aefe",
+                "Level": 2
+            },
+            {
+                "SkillToId": "56bf6aad-61e9-42cc-90e0-46cb3b26fa86",
+                "Level": 2
+            },
+            {
+                "SkillToId": "86227042-8f3d-4015-ba6e-c61d6bceada4",
+                "Level": 2
+            },
+            {
+                "SkillToId": "04a5f151-39b6-4828-bc70-a35a132ec56a",
+                "Level": 3
+            },
+            {
+                "SkillToId": "0199737f-c488-46b0-8d04-b89d86a8cc6b",
+                "Level": 3
+            },
+            {
+                "SkillToId": "63f5082f-194b-42fd-a9aa-43c165be8463",
+                "Level": 2
+            },
+            {
+                "SkillToId": "fce279d3-d090-425b-98c0-9df0f3e1f33a",
+                "Level": 2
+            },
+            {
+                "SkillToId": "9e73c082-1b66-4cf1-9d65-3f0c8d6baadb",
+                "Level": 2
+            },
+            {
+                "SkillToId": "3e9fa928-a83f-4253-a348-032b22c555bf",
+                "Level": 2
+            },
+            {
+                "SkillToId": "dbfb9c8f-1346-4a5c-a7a4-edd0d8deff39",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "87196619-dd81-4997-8c44-d3ac8be0ae4b",
+        "Tier": -1600,
+        "HorizontalPosition": 783,
+        "Name": "Windows TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "ab595731-cd72-4705-bcb2-4c0ff4b52f14",
+                "Level": 3
+            },
+            {
+                "SkillToId": "f2f1dba6-2cb8-4d2e-ac6e-842dc1e43ba2",
+                "Level": 3
+            },
+            {
+                "SkillToId": "75dd5810-5a4e-48bd-ae18-a1924ea3dc13",
+                "Level": 2
+            },
+            {
+                "SkillToId": "3fc99900-df80-4bea-9fa7-59e40eff404b",
+                "Level": 2
+            },
+            {
+                "SkillToId": "341da3c7-fc26-4f41-af77-8a836ae6a702",
+                "Level": 3
+            },
+            {
+                "SkillToId": "ab328d63-13ec-4015-a08a-a53b58b22eb6",
+                "Level": 3
+            },
+            {
+                "SkillToId": "71891f8e-16ec-4381-b6e1-54178e5f87b9",
+                "Level": 3
+            },
+            {
+                "SkillToId": "ae5fbf47-1fcc-4ee5-800f-12d3da4c0590",
+                "Level": 3
+            },
+            {
+                "SkillToId": "e2302f90-28d8-4926-91ab-f667240a639f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "7df66c9f-20be-465f-aa9b-fbe70488ea96",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ec40cb6f-39b3-49a9-98a5-d6e7b5c6d4d6",
+                "Level": 3
+            },
+            {
+                "SkillToId": "31308f95-0bcd-4c0b-ba9a-4828e893aefe",
+                "Level": 3
+            },
+            {
+                "SkillToId": "56bf6aad-61e9-42cc-90e0-46cb3b26fa86",
+                "Level": 3
+            },
+            {
+                "SkillToId": "86227042-8f3d-4015-ba6e-c61d6bceada4",
+                "Level": 3
+            },
+            {
+                "SkillToId": "04a5f151-39b6-4828-bc70-a35a132ec56a",
+                "Level": 4
+            },
+            {
+                "SkillToId": "0199737f-c488-46b0-8d04-b89d86a8cc6b",
+                "Level": 4
+            },
+            {
+                "SkillToId": "fce279d3-d090-425b-98c0-9df0f3e1f33a",
+                "Level": 3
+            },
+            {
+                "SkillToId": "9e73c082-1b66-4cf1-9d65-3f0c8d6baadb",
+                "Level": 3
+            },
+            {
+                "SkillToId": "3e9fa928-a83f-4253-a348-032b22c555bf",
+                "Level": 3
+            },
+            {
+                "SkillToId": "dbfb9c8f-1346-4a5c-a7a4-edd0d8deff39",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "7163b816-cc87-4868-96b0-59322ed05e53",
+        "Name": "Windows IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 2341,
+        "RequiredSkills": [
+            {
+                "SkillToId": "ab595731-cd72-4705-bcb2-4c0ff4b52f14",
+                "Level": 5
+            },
+            {
+                "SkillToId": "f2f1dba6-2cb8-4d2e-ac6e-842dc1e43ba2",
+                "Level": 5
+            },
+            {
+                "SkillToId": "75dd5810-5a4e-48bd-ae18-a1924ea3dc13",
+                "Level": 4
+            },
+            {
+                "SkillToId": "3fc99900-df80-4bea-9fa7-59e40eff404b",
+                "Level": 4
+            },
+            {
+                "SkillToId": "c3c658d5-e6e7-4aa9-9280-d40573da0427",
+                "Level": 1
+            },
+            {
+                "SkillToId": "341da3c7-fc26-4f41-af77-8a836ae6a702",
+                "Level": 5
+            },
+            {
+                "SkillToId": "ab328d63-13ec-4015-a08a-a53b58b22eb6",
+                "Level": 5
+            },
+            {
+                "SkillToId": "71891f8e-16ec-4381-b6e1-54178e5f87b9",
+                "Level": 5
+            },
+            {
+                "SkillToId": "ae5fbf47-1fcc-4ee5-800f-12d3da4c0590",
+                "Level": 5
+            },
+            {
+                "SkillToId": "e2302f90-28d8-4926-91ab-f667240a639f",
+                "Level": 6
+            },
+            {
+                "SkillToId": "7df66c9f-20be-465f-aa9b-fbe70488ea96",
+                "Level": 6
+            },
+            {
+                "SkillToId": "ec40cb6f-39b3-49a9-98a5-d6e7b5c6d4d6",
+                "Level": 5
+            },
+            {
+                "SkillToId": "31308f95-0bcd-4c0b-ba9a-4828e893aefe",
+                "Level": 5
+            },
+            {
+                "SkillToId": "56bf6aad-61e9-42cc-90e0-46cb3b26fa86",
+                "Level": 5
+            },
+            {
+                "SkillToId": "86227042-8f3d-4015-ba6e-c61d6bceada4",
+                "Level": 5
+            },
+            {
+                "SkillToId": "04a5f151-39b6-4828-bc70-a35a132ec56a",
+                "Level": 6
+            },
+            {
+                "SkillToId": "0199737f-c488-46b0-8d04-b89d86a8cc6b",
+                "Level": 6
+            },
+            {
+                "SkillToId": "fce279d3-d090-425b-98c0-9df0f3e1f33a",
+                "Level": 5
+            },
+            {
+                "SkillToId": "9e73c082-1b66-4cf1-9d65-3f0c8d6baadb",
+                "Level": 5
+            },
+            {
+                "SkillToId": "3e9fa928-a83f-4253-a348-032b22c555bf",
+                "Level": 5
+            },
+            {
+                "SkillToId": "dbfb9c8f-1346-4a5c-a7a4-edd0d8deff39",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "4bf4bca0-f223-4ebb-a912-21709232de30",
+        "Tier": -1800,
+        "HorizontalPosition": 1773,
+        "Name": "Windows TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "f2f1dba6-2cb8-4d2e-ac6e-842dc1e43ba2",
+                "Level": 4
+            },
+            {
+                "SkillToId": "75dd5810-5a4e-48bd-ae18-a1924ea3dc13",
+                "Level": 3
+            },
+            {
+                "SkillToId": "3fc99900-df80-4bea-9fa7-59e40eff404b",
+                "Level": 3
+            },
+            {
+                "SkillToId": "341da3c7-fc26-4f41-af77-8a836ae6a702",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ab328d63-13ec-4015-a08a-a53b58b22eb6",
+                "Level": 4
+            },
+            {
+                "SkillToId": "71891f8e-16ec-4381-b6e1-54178e5f87b9",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ae5fbf47-1fcc-4ee5-800f-12d3da4c0590",
+                "Level": 4
+            },
+            {
+                "SkillToId": "e2302f90-28d8-4926-91ab-f667240a639f",
+                "Level": 5
+            },
+            {
+                "SkillToId": "7df66c9f-20be-465f-aa9b-fbe70488ea96",
+                "Level": 5
+            },
+            {
+                "SkillToId": "ec40cb6f-39b3-49a9-98a5-d6e7b5c6d4d6",
+                "Level": 4
+            },
+            {
+                "SkillToId": "31308f95-0bcd-4c0b-ba9a-4828e893aefe",
+                "Level": 4
+            },
+            {
+                "SkillToId": "56bf6aad-61e9-42cc-90e0-46cb3b26fa86",
+                "Level": 4
+            },
+            {
+                "SkillToId": "86227042-8f3d-4015-ba6e-c61d6bceada4",
+                "Level": 4
+            },
+            {
+                "SkillToId": "04a5f151-39b6-4828-bc70-a35a132ec56a",
+                "Level": 5
+            },
+            {
+                "SkillToId": "0199737f-c488-46b0-8d04-b89d86a8cc6b",
+                "Level": 5
+            },
+            {
+                "SkillToId": "fce279d3-d090-425b-98c0-9df0f3e1f33a",
+                "Level": 4
+            },
+            {
+                "SkillToId": "9e73c082-1b66-4cf1-9d65-3f0c8d6baadb",
+                "Level": 4
+            },
+            {
+                "SkillToId": "3e9fa928-a83f-4253-a348-032b22c555bf",
+                "Level": 4
+            },
+            {
+                "SkillToId": "dbfb9c8f-1346-4a5c-a7a4-edd0d8deff39",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "55d17519-42bd-4115-bf3f-a36a7b06fabe",
+        "Tier": -1000,
+        "HorizontalPosition": 1350,
+        "Name": "Windows TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "e2302f90-28d8-4926-91ab-f667240a639f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "7df66c9f-20be-465f-aa9b-fbe70488ea96",
+                "Level": 1
+            },
+            {
+                "SkillToId": "04a5f151-39b6-4828-bc70-a35a132ec56a",
+                "Level": 1
+            },
+            {
+                "SkillToId": "0199737f-c488-46b0-8d04-b89d86a8cc6b",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "226dd866-bcd4-4737-adcc-0cfccb9eadf6",
+        "Tier": -1000,
+        "HorizontalPosition": 1552,
+        "Name": "Back Up TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "5f8b754c-8b01-4221-94fd-a50a56eafdf2",
+                "Level": 1
+            },
+            {
+                "SkillToId": "53021a12-063c-44a3-8317-3d6c0da048d0",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "9fe8871c-5428-4570-aa4a-fc0ca9c26caa",
+        "Tier": -1200,
+        "HorizontalPosition": 2700,
+        "Name": "Back Up TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "5f8b754c-8b01-4221-94fd-a50a56eafdf2",
+                "Level": 2
+            },
+            {
+                "SkillToId": "53021a12-063c-44a3-8317-3d6c0da048d0",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "fbe3f8cd-a454-4ef0-a398-ca740c230300",
+        "Tier": -1400,
+        "HorizontalPosition": 2055,
+        "Name": "Back Up TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "5f8b754c-8b01-4221-94fd-a50a56eafdf2",
+                "Level": 3
+            },
+            {
+                "SkillToId": "53021a12-063c-44a3-8317-3d6c0da048d0",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "ae663b69-da95-4abe-99a8-105a6c567253",
+        "Tier": -1600,
+        "HorizontalPosition": 2280,
+        "Name": "Back Up TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "5f8b754c-8b01-4221-94fd-a50a56eafdf2",
+                "Level": 4
+            },
+            {
+                "SkillToId": "53021a12-063c-44a3-8317-3d6c0da048d0",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "ef6781ed-9c23-458f-a313-27dd3428e343",
+        "Tier": -1800,
+        "HorizontalPosition": 186,
+        "Name": "Back Up TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "5f8b754c-8b01-4221-94fd-a50a56eafdf2",
+                "Level": 5
+            },
+            {
+                "SkillToId": "53021a12-063c-44a3-8317-3d6c0da048d0",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "8bc677c5-9bd7-4124-9e21-92fc16eb1ece",
+        "Name": "Back Up IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 2556,
+        "RequiredSkills": [
+            {
+                "SkillToId": "5f8b754c-8b01-4221-94fd-a50a56eafdf2",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "d44e747a-7b98-4590-8de8-490e62c20375",
+        "Name": "Back Up IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 2265,
+        "RequiredSkills": [
+            {
+                "SkillToId": "5f8b754c-8b01-4221-94fd-a50a56eafdf2",
+                "Level": 7
+            },
+            {
+                "SkillToId": "53021a12-063c-44a3-8317-3d6c0da048d0",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "362ac248-0826-42a6-a686-c4f0f1f096f0",
+        "Name": "Back Up IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 1112,
+        "RequiredSkills": [
+            {
+                "SkillToId": "5f8b754c-8b01-4221-94fd-a50a56eafdf2",
+                "Level": 8
+            }
+        ]
+    },
+    {
+        "toId": "defb91c3-8b2c-4c77-9aa5-2b42f9bb3f8c",
+        "Tier": -1200,
+        "HorizontalPosition": 2451,
+        "Name": "Storage TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a0444a2a-8ec5-4cdc-a728-679fa2677fca",
+                "Level": 1
+            },
+            {
+                "SkillToId": "96495249-d4e9-4aa5-8a5e-32b8be566e44",
+                "Level": 1
+            },
+            {
+                "SkillToId": "85c0e4f8-f092-406e-b0c3-9dcf56401e68",
+                "Level": 2
+            },
+            {
+                "SkillToId": "b586bbef-25bd-49d8-b752-712e59bb84f4",
+                "Level": 2
+            },
+            {
+                "SkillToId": "92a939bb-d259-4271-a54b-2befee84782b",
+                "Level": 2
+            },
+            {
+                "SkillToId": "3566554a-4e42-4ada-974f-59b136426fd7",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ab80d317-1ce8-4f38-b16a-823a7d6fcb82",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ffa6eb4d-3912-4311-abfa-6e0c482b21d8",
+                "Level": 2
+            },
+            {
+                "SkillToId": "6c7f3f0f-77ad-4b48-bbc0-1202fef7f94b",
+                "Level": 2
+            },
+            {
+                "SkillToId": "90507499-7df5-4b93-93fe-975c8699cbf5",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "24d89cd8-5746-40aa-aeb9-cb9c1163817c",
+        "Tier": -1400,
+        "HorizontalPosition": 2074,
+        "Name": "Storage TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a0444a2a-8ec5-4cdc-a728-679fa2677fca",
+                "Level": 2
+            },
+            {
+                "SkillToId": "96495249-d4e9-4aa5-8a5e-32b8be566e44",
+                "Level": 2
+            },
+            {
+                "SkillToId": "85c0e4f8-f092-406e-b0c3-9dcf56401e68",
+                "Level": 3
+            },
+            {
+                "SkillToId": "b586bbef-25bd-49d8-b752-712e59bb84f4",
+                "Level": 3
+            },
+            {
+                "SkillToId": "92a939bb-d259-4271-a54b-2befee84782b",
+                "Level": 3
+            },
+            {
+                "SkillToId": "3566554a-4e42-4ada-974f-59b136426fd7",
+                "Level": 3
+            },
+            {
+                "SkillToId": "ffa6eb4d-3912-4311-abfa-6e0c482b21d8",
+                "Level": 3
+            },
+            {
+                "SkillToId": "6c7f3f0f-77ad-4b48-bbc0-1202fef7f94b",
+                "Level": 3
+            },
+            {
+                "SkillToId": "90507499-7df5-4b93-93fe-975c8699cbf5",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "bbde2b6f-6b0b-4449-830e-3e324d554ba4",
+        "Tier": -1600,
+        "HorizontalPosition": 1648,
+        "Name": "Storage TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a0444a2a-8ec5-4cdc-a728-679fa2677fca",
+                "Level": 3
+            },
+            {
+                "SkillToId": "96495249-d4e9-4aa5-8a5e-32b8be566e44",
+                "Level": 3
+            },
+            {
+                "SkillToId": "85c0e4f8-f092-406e-b0c3-9dcf56401e68",
+                "Level": 4
+            },
+            {
+                "SkillToId": "b586bbef-25bd-49d8-b752-712e59bb84f4",
+                "Level": 4
+            },
+            {
+                "SkillToId": "92a939bb-d259-4271-a54b-2befee84782b",
+                "Level": 4
+            },
+            {
+                "SkillToId": "3566554a-4e42-4ada-974f-59b136426fd7",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ab80d317-1ce8-4f38-b16a-823a7d6fcb82",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ffa6eb4d-3912-4311-abfa-6e0c482b21d8",
+                "Level": 4
+            },
+            {
+                "SkillToId": "6c7f3f0f-77ad-4b48-bbc0-1202fef7f94b",
+                "Level": 4
+            },
+            {
+                "SkillToId": "90507499-7df5-4b93-93fe-975c8699cbf5",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "3cee9917-e58c-42d6-b6c4-c13bd4335df1",
+        "Name": "Storage IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 2115,
+        "RequiredSkills": [
+            {
+                "SkillToId": "a0444a2a-8ec5-4cdc-a728-679fa2677fca",
+                "Level": 5
+            },
+            {
+                "SkillToId": "96495249-d4e9-4aa5-8a5e-32b8be566e44",
+                "Level": 5
+            },
+            {
+                "SkillToId": "85c0e4f8-f092-406e-b0c3-9dcf56401e68",
+                "Level": 6
+            },
+            {
+                "SkillToId": "b586bbef-25bd-49d8-b752-712e59bb84f4",
+                "Level": 6
+            },
+            {
+                "SkillToId": "92a939bb-d259-4271-a54b-2befee84782b",
+                "Level": 6
+            },
+            {
+                "SkillToId": "3566554a-4e42-4ada-974f-59b136426fd7",
+                "Level": 6
+            },
+            {
+                "SkillToId": "ab80d317-1ce8-4f38-b16a-823a7d6fcb82",
+                "Level": 6
+            },
+            {
+                "SkillToId": "ffa6eb4d-3912-4311-abfa-6e0c482b21d8",
+                "Level": 6
+            },
+            {
+                "SkillToId": "6c7f3f0f-77ad-4b48-bbc0-1202fef7f94b",
+                "Level": 6
+            },
+            {
+                "SkillToId": "90507499-7df5-4b93-93fe-975c8699cbf5",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "d6ff977c-624c-45ec-92f5-5c82127ae78f",
+        "Name": "Storage IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 954,
+        "RequiredSkills": [
+            {
+                "SkillToId": "a0444a2a-8ec5-4cdc-a728-679fa2677fca",
+                "Level": 6
+            },
+            {
+                "SkillToId": "96495249-d4e9-4aa5-8a5e-32b8be566e44",
+                "Level": 6
+            },
+            {
+                "SkillToId": "85c0e4f8-f092-406e-b0c3-9dcf56401e68",
+                "Level": 7
+            },
+            {
+                "SkillToId": "b586bbef-25bd-49d8-b752-712e59bb84f4",
+                "Level": 7
+            },
+            {
+                "SkillToId": "92a939bb-d259-4271-a54b-2befee84782b",
+                "Level": 7
+            },
+            {
+                "SkillToId": "3566554a-4e42-4ada-974f-59b136426fd7",
+                "Level": 7
+            },
+            {
+                "SkillToId": "ab80d317-1ce8-4f38-b16a-823a7d6fcb82",
+                "Level": 7
+            },
+            {
+                "SkillToId": "ffa6eb4d-3912-4311-abfa-6e0c482b21d8",
+                "Level": 7
+            },
+            {
+                "SkillToId": "6c7f3f0f-77ad-4b48-bbc0-1202fef7f94b",
+                "Level": 7
+            },
+            {
+                "SkillToId": "90507499-7df5-4b93-93fe-975c8699cbf5",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "b26d53fa-664e-43dc-a55d-b7ced7d9bddb",
+        "Tier": -1000,
+        "HorizontalPosition": 1314,
+        "Name": "Storage TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "85c0e4f8-f092-406e-b0c3-9dcf56401e68",
+                "Level": 1
+            },
+            {
+                "SkillToId": "b586bbef-25bd-49d8-b752-712e59bb84f4",
+                "Level": 1
+            },
+            {
+                "SkillToId": "92a939bb-d259-4271-a54b-2befee84782b",
+                "Level": 1
+            },
+            {
+                "SkillToId": "3566554a-4e42-4ada-974f-59b136426fd7",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ab80d317-1ce8-4f38-b16a-823a7d6fcb82",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ffa6eb4d-3912-4311-abfa-6e0c482b21d8",
+                "Level": 1
+            },
+            {
+                "SkillToId": "6c7f3f0f-77ad-4b48-bbc0-1202fef7f94b",
+                "Level": 1
+            },
+            {
+                "SkillToId": "90507499-7df5-4b93-93fe-975c8699cbf5",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "3e5a0245-0001-4aaa-85dd-a4a36f6e786e",
+        "Tier": -1000,
+        "HorizontalPosition": 1848,
+        "Name": "UNIX TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "33c69ee5-d29b-4be3-a817-4f98dc08ecee",
+                "Level": 1
+            },
+            {
+                "SkillToId": "36b8c59e-f11a-4d3f-aaee-18cc4e8f9890",
+                "Level": 1
+            },
+            {
+                "SkillToId": "4398a094-e9f0-4835-bca3-1c873143705b",
+                "Level": 1
+            },
+            {
+                "SkillToId": "7bdc666f-cb6d-4f4a-8f7d-dac9c4390395",
+                "Level": 1
+            },
+            {
+                "SkillToId": "cda1ae23-bc11-4933-a835-6f26d3dbca09",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "78e47e53-3c5d-4ee2-b777-7c655b73c052",
+        "Tier": -1200,
+        "HorizontalPosition": 2925,
+        "Name": "UNIX TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "33c69ee5-d29b-4be3-a817-4f98dc08ecee",
+                "Level": 2
+            },
+            {
+                "SkillToId": "cda1ae23-bc11-4933-a835-6f26d3dbca09",
+                "Level": 2
+            },
+            {
+                "SkillToId": "8e1a76d2-fa71-4fa2-900d-79f3db646af6",
+                "Level": 1
+            },
+            {
+                "SkillToId": "2a7b0007-ea02-477d-8612-fcb5fb7212af",
+                "Level": 1
+            },
+            {
+                "SkillToId": "6010cd7f-a2f3-494a-97a4-2df9a6e6a334",
+                "Level": 1
+            },
+            {
+                "SkillToId": "176cba99-caf7-4239-92c7-b37641d49043",
+                "Level": 1
+            },
+            {
+                "SkillToId": "2b5db02a-19b1-4d09-9796-33badd0616f8",
+                "Level": 1
+            },
+            {
+                "SkillToId": "803597da-99e3-4f9a-80c5-d9ab8b58e347",
+                "Level": 1
+            },
+            {
+                "SkillToId": "e19bd4fe-1a25-4641-8ae2-b4a7e4353cee",
+                "Level": 1
+            },
+            {
+                "SkillToId": "f312b83f-2369-4359-9f1d-f55b6b55e2c8",
+                "Level": 1
+            },
+            {
+                "SkillToId": "0e5df0b2-18d5-4d63-bef9-e998ccc9bca3",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ed58d486-2e70-49e5-8922-2930d6764ddd",
+                "Level": 1
+            },
+            {
+                "SkillToId": "3296c74b-f996-40e1-a1ff-a17ef7cd1b46",
+                "Level": 1
+            },
+            {
+                "SkillToId": "4fba6db0-ea2f-4de4-a848-7185ed2381e6",
+                "Level": 1
+            },
+            {
+                "SkillToId": "8202d3d6-efc7-4137-b17c-7a2d305ced74",
+                "Level": 1
+            },
+            {
+                "SkillToId": "5f14eef8-06b7-4825-8e45-e086f18f5d55",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "a68859a3-b13b-4cb9-bd48-03c57731ec15",
+        "Tier": -1400,
+        "HorizontalPosition": 640,
+        "Name": "UNIX TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "33c69ee5-d29b-4be3-a817-4f98dc08ecee",
+                "Level": 3
+            },
+            {
+                "SkillToId": "cda1ae23-bc11-4933-a835-6f26d3dbca09",
+                "Level": 3
+            },
+            {
+                "SkillToId": "8e1a76d2-fa71-4fa2-900d-79f3db646af6",
+                "Level": 2
+            },
+            {
+                "SkillToId": "6010cd7f-a2f3-494a-97a4-2df9a6e6a334",
+                "Level": 2
+            },
+            {
+                "SkillToId": "176cba99-caf7-4239-92c7-b37641d49043",
+                "Level": 2
+            },
+            {
+                "SkillToId": "2b5db02a-19b1-4d09-9796-33badd0616f8",
+                "Level": 2
+            },
+            {
+                "SkillToId": "803597da-99e3-4f9a-80c5-d9ab8b58e347",
+                "Level": 2
+            },
+            {
+                "SkillToId": "e19bd4fe-1a25-4641-8ae2-b4a7e4353cee",
+                "Level": 2
+            },
+            {
+                "SkillToId": "0e5df0b2-18d5-4d63-bef9-e998ccc9bca3",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ed58d486-2e70-49e5-8922-2930d6764ddd",
+                "Level": 2
+            },
+            {
+                "SkillToId": "4fba6db0-ea2f-4de4-a848-7185ed2381e6",
+                "Level": 2
+            },
+            {
+                "SkillToId": "8202d3d6-efc7-4137-b17c-7a2d305ced74",
+                "Level": 2
+            },
+            {
+                "SkillToId": "5f14eef8-06b7-4825-8e45-e086f18f5d55",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "edb6c028-05a8-4ae0-a41d-1edd04fa3745",
+        "Tier": -1600,
+        "HorizontalPosition": 1113,
+        "Name": "UNIX TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "33c69ee5-d29b-4be3-a817-4f98dc08ecee",
+                "Level": 4
+            },
+            {
+                "SkillToId": "cda1ae23-bc11-4933-a835-6f26d3dbca09",
+                "Level": 4
+            },
+            {
+                "SkillToId": "8e1a76d2-fa71-4fa2-900d-79f3db646af6",
+                "Level": 3
+            },
+            {
+                "SkillToId": "6010cd7f-a2f3-494a-97a4-2df9a6e6a334",
+                "Level": 3
+            },
+            {
+                "SkillToId": "176cba99-caf7-4239-92c7-b37641d49043",
+                "Level": 3
+            },
+            {
+                "SkillToId": "2b5db02a-19b1-4d09-9796-33badd0616f8",
+                "Level": 3
+            },
+            {
+                "SkillToId": "803597da-99e3-4f9a-80c5-d9ab8b58e347",
+                "Level": 3
+            },
+            {
+                "SkillToId": "e19bd4fe-1a25-4641-8ae2-b4a7e4353cee",
+                "Level": 3
+            },
+            {
+                "SkillToId": "f312b83f-2369-4359-9f1d-f55b6b55e2c8",
+                "Level": 3
+            },
+            {
+                "SkillToId": "ed58d486-2e70-49e5-8922-2930d6764ddd",
+                "Level": 3
+            },
+            {
+                "SkillToId": "3296c74b-f996-40e1-a1ff-a17ef7cd1b46",
+                "Level": 3
+            },
+            {
+                "SkillToId": "4fba6db0-ea2f-4de4-a848-7185ed2381e6",
+                "Level": 3
+            },
+            {
+                "SkillToId": "8202d3d6-efc7-4137-b17c-7a2d305ced74",
+                "Level": 3
+            },
+            {
+                "SkillToId": "5f14eef8-06b7-4825-8e45-e086f18f5d55",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "55a98320-b994-41f6-a8da-8d70dfc30f11",
+        "Tier": -1800,
+        "HorizontalPosition": 1380,
+        "Name": "UNIX TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "176cba99-caf7-4239-92c7-b37641d49043",
+                "Level": 4
+            },
+            {
+                "SkillToId": "803597da-99e3-4f9a-80c5-d9ab8b58e347",
+                "Level": 4
+            },
+            {
+                "SkillToId": "e19bd4fe-1a25-4641-8ae2-b4a7e4353cee",
+                "Level": 4
+            },
+            {
+                "SkillToId": "f312b83f-2369-4359-9f1d-f55b6b55e2c8",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ed58d486-2e70-49e5-8922-2930d6764ddd",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "4c7c20a8-d499-45f6-b8e2-0a9350fd6e5a",
+        "Tier": -1200,
+        "HorizontalPosition": 1551,
+        "Name": "Connectivity TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "dcb6f1e0-4127-426b-9279-004475d86f05",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ad7f2f49-4489-428c-ad77-31763877b00f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "44fc99f6-d884-471b-bdec-87265f055492",
+                "Level": 1
+            },
+            {
+                "SkillToId": "aef2fb9e-05c7-4ad5-8f1b-f2d092e4c4bd",
+                "Level": 1
+            },
+            {
+                "SkillToId": "a3b01b53-004e-4ba4-b28e-85b75bd70dda",
+                "Level": 2
+            },
+            {
+                "SkillToId": "31bf737b-4588-47a7-96fa-f56775cd62be",
+                "Level": 1
+            },
+            {
+                "SkillToId": "c23f3056-fd35-4e84-ba62-e19dd1d6a50c",
+                "Level": 1
+            },
+            {
+                "SkillToId": "0fa13654-7450-49d0-897b-52d964b01584",
+                "Level": 2
+            },
+            {
+                "SkillToId": "500f397b-7086-43b1-a030-c7e6125969fc",
+                "Level": 1
+            },
+            {
+                "SkillToId": "1c28b475-bb44-44ad-b781-7b74b9e8ea3f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "db851095-6531-4868-bee8-c792725c6f5b",
+                "Level": 1
+            },
+            {
+                "SkillToId": "65b391ab-8d63-4222-a415-71693bd62459",
+                "Level": 1
+            },
+            {
+                "SkillToId": "edd5b8b5-4673-4f26-ab6b-4ef48420f64a",
+                "Level": 1
+            },
+            {
+                "SkillToId": "482babc1-48ce-4428-827c-f4f07be706b7",
+                "Level": 2
+            },
+            {
+                "SkillToId": "093aabc4-f73b-4540-8c01-ec1014af4002",
+                "Level": 2
+            },
+            {
+                "SkillToId": "7364ddd6-2b79-43d1-a0ed-32340ddeae7b",
+                "Level": 1
+            },
+            {
+                "SkillToId": "02467e98-61bd-47b5-bfab-dd74a85b789c",
+                "Level": 1
+            },
+            {
+                "SkillToId": "d9ff55c5-ecea-4f52-b257-f6a55bf1c7f6",
+                "Level": 1
+            },
+            {
+                "SkillToId": "56a330c2-e5fb-433c-99a4-6b962fb0a52f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "271287f2-b763-4cc5-94c7-29ec308e28e1",
+                "Level": 1
+            },
+            {
+                "SkillToId": "328b762a-94e6-4693-b2d3-71e493e4a52c",
+                "Level": 1
+            },
+            {
+                "SkillToId": "b09e5d22-ff8c-450e-969f-598c4a283faa",
+                "Level": 1
+            },
+            {
+                "SkillToId": "1f044347-db18-451e-bea1-0ccad6000c27",
+                "Level": 1
+            },
+            {
+                "SkillToId": "35a45a40-1846-48d2-aba7-bb87f9026299",
+                "Level": 1
+            },
+            {
+                "SkillToId": "5ca097a9-e05a-4c8a-89db-a7b6cfd31f51",
+                "Level": 1
+            },
+            {
+                "SkillToId": "2f51ecd8-0688-4b08-b6b8-f3d5faab7210",
+                "Level": 1
+            },
+            {
+                "SkillToId": "533d6e04-9e67-49af-a458-6c76851a97ff",
+                "Level": 1
+            },
+            {
+                "SkillToId": "17ce13c6-0b3e-43e2-a737-a94ec56b818f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "3ce529e7-a0d4-48ab-b391-40dadd12c151",
+                "Level": 2
+            },
+            {
+                "SkillToId": "46c86e86-9fba-4176-a737-0930736b3085",
+                "Level": 2
+            },
+            {
+                "SkillToId": "b28e2fee-ef05-4a58-99f8-b97b29ea6e9d",
+                "Level": 2
+            },
+            {
+                "SkillToId": "0a29ebea-63f8-40a7-ba75-50cb32b97678",
+                "Level": 2
+            },
+            {
+                "SkillToId": "922c2b5b-8f50-4c96-b51b-6e3692862c4a",
+                "Level": 1
+            },
+            {
+                "SkillToId": "502d3999-9115-4a0e-aedd-0c3945b8e905",
+                "Level": 1
+            },
+            {
+                "SkillToId": "f006d650-79a2-4fa8-8c97-407cac4ef9ac",
+                "Level": 1
+            },
+            {
+                "SkillToId": "9b3c75e8-46e9-4124-80d5-5a2a3fe4558c",
+                "Level": 1
+            },
+            {
+                "SkillToId": "d2e45ad5-dc69-41ad-8c35-23857edee463",
+                "Level": 1
+            },
+            {
+                "SkillToId": "e280f7a4-70c9-46e0-8b52-e13b53f40930",
+                "Level": 1
+            },
+            {
+                "SkillToId": "7bf4b83c-3adc-4a11-a89a-f2abf377cf5a",
+                "Level": 1
+            },
+            {
+                "SkillToId": "2356cf94-0138-40a0-903a-4c4e7b9355cc",
+                "Level": 1
+            },
+            {
+                "SkillToId": "6253862c-a393-49fb-a59f-6a6e8b08fbb6",
+                "Level": 1
+            },
+            {
+                "SkillToId": "c174a6d4-f7eb-4089-96e6-a0b14cdddf05",
+                "Level": 1
+            },
+            {
+                "SkillToId": "912043fc-e238-4de8-a212-d1c5e8a1ffbb",
+                "Level": 1
+            },
+            {
+                "SkillToId": "af897c89-a433-4a1b-8928-af5d57074fa3",
+                "Level": 2
+            },
+            {
+                "SkillToId": "0f4a5b30-f2e0-4888-88d1-fcd008029d94",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "7e89ff66-81f5-46e4-bcbd-0d5470831fd7",
+        "Tier": -1400,
+        "HorizontalPosition": 309,
+        "Name": "Connectivity TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "dcb6f1e0-4127-426b-9279-004475d86f05",
+                "Level": 2
+            },
+            {
+                "SkillToId": "c092bb5c-d35c-4208-94c4-44929a2b32a6",
+                "Level": 1
+            },
+            {
+                "SkillToId": "4e803962-f73e-4258-9d51-ba2dfe8af4da",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ad7f2f49-4489-428c-ad77-31763877b00f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "44fc99f6-d884-471b-bdec-87265f055492",
+                "Level": 2
+            },
+            {
+                "SkillToId": "aef2fb9e-05c7-4ad5-8f1b-f2d092e4c4bd",
+                "Level": 2
+            },
+            {
+                "SkillToId": "1ffba29b-4c00-41fa-8807-dddec0ad91b0",
+                "Level": 1
+            },
+            {
+                "SkillToId": "a3b01b53-004e-4ba4-b28e-85b75bd70dda",
+                "Level": 3
+            },
+            {
+                "SkillToId": "31bf737b-4588-47a7-96fa-f56775cd62be",
+                "Level": 2
+            },
+            {
+                "SkillToId": "c23f3056-fd35-4e84-ba62-e19dd1d6a50c",
+                "Level": 2
+            },
+            {
+                "SkillToId": "0fa13654-7450-49d0-897b-52d964b01584",
+                "Level": 3
+            },
+            {
+                "SkillToId": "500f397b-7086-43b1-a030-c7e6125969fc",
+                "Level": 2
+            },
+            {
+                "SkillToId": "1c28b475-bb44-44ad-b781-7b74b9e8ea3f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "db851095-6531-4868-bee8-c792725c6f5b",
+                "Level": 2
+            },
+            {
+                "SkillToId": "65b391ab-8d63-4222-a415-71693bd62459",
+                "Level": 2
+            },
+            {
+                "SkillToId": "edd5b8b5-4673-4f26-ab6b-4ef48420f64a",
+                "Level": 2
+            },
+            {
+                "SkillToId": "482babc1-48ce-4428-827c-f4f07be706b7",
+                "Level": 3
+            },
+            {
+                "SkillToId": "093aabc4-f73b-4540-8c01-ec1014af4002",
+                "Level": 3
+            },
+            {
+                "SkillToId": "7364ddd6-2b79-43d1-a0ed-32340ddeae7b",
+                "Level": 2
+            },
+            {
+                "SkillToId": "02467e98-61bd-47b5-bfab-dd74a85b789c",
+                "Level": 2
+            },
+            {
+                "SkillToId": "d9ff55c5-ecea-4f52-b257-f6a55bf1c7f6",
+                "Level": 2
+            },
+            {
+                "SkillToId": "56a330c2-e5fb-433c-99a4-6b962fb0a52f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "271287f2-b763-4cc5-94c7-29ec308e28e1",
+                "Level": 2
+            },
+            {
+                "SkillToId": "328b762a-94e6-4693-b2d3-71e493e4a52c",
+                "Level": 2
+            },
+            {
+                "SkillToId": "b09e5d22-ff8c-450e-969f-598c4a283faa",
+                "Level": 2
+            },
+            {
+                "SkillToId": "1f044347-db18-451e-bea1-0ccad6000c27",
+                "Level": 2
+            },
+            {
+                "SkillToId": "35a45a40-1846-48d2-aba7-bb87f9026299",
+                "Level": 2
+            },
+            {
+                "SkillToId": "5ca097a9-e05a-4c8a-89db-a7b6cfd31f51",
+                "Level": 2
+            },
+            {
+                "SkillToId": "2f51ecd8-0688-4b08-b6b8-f3d5faab7210",
+                "Level": 2
+            },
+            {
+                "SkillToId": "533d6e04-9e67-49af-a458-6c76851a97ff",
+                "Level": 2
+            },
+            {
+                "SkillToId": "17ce13c6-0b3e-43e2-a737-a94ec56b818f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "3ce529e7-a0d4-48ab-b391-40dadd12c151",
+                "Level": 3
+            },
+            {
+                "SkillToId": "46c86e86-9fba-4176-a737-0930736b3085",
+                "Level": 3
+            },
+            {
+                "SkillToId": "b28e2fee-ef05-4a58-99f8-b97b29ea6e9d",
+                "Level": 3
+            },
+            {
+                "SkillToId": "0a29ebea-63f8-40a7-ba75-50cb32b97678",
+                "Level": 3
+            },
+            {
+                "SkillToId": "922c2b5b-8f50-4c96-b51b-6e3692862c4a",
+                "Level": 2
+            },
+            {
+                "SkillToId": "502d3999-9115-4a0e-aedd-0c3945b8e905",
+                "Level": 2
+            },
+            {
+                "SkillToId": "f006d650-79a2-4fa8-8c97-407cac4ef9ac",
+                "Level": 2
+            },
+            {
+                "SkillToId": "9b3c75e8-46e9-4124-80d5-5a2a3fe4558c",
+                "Level": 2
+            },
+            {
+                "SkillToId": "d2e45ad5-dc69-41ad-8c35-23857edee463",
+                "Level": 2
+            },
+            {
+                "SkillToId": "e280f7a4-70c9-46e0-8b52-e13b53f40930",
+                "Level": 2
+            },
+            {
+                "SkillToId": "7bf4b83c-3adc-4a11-a89a-f2abf377cf5a",
+                "Level": 2
+            },
+            {
+                "SkillToId": "2356cf94-0138-40a0-903a-4c4e7b9355cc",
+                "Level": 2
+            },
+            {
+                "SkillToId": "6253862c-a393-49fb-a59f-6a6e8b08fbb6",
+                "Level": 2
+            },
+            {
+                "SkillToId": "f0d7956b-0699-4ca2-b03b-efbaef891f62",
+                "Level": 1
+            },
+            {
+                "SkillToId": "55ddfb00-025e-4edb-8297-4a792554684f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "c174a6d4-f7eb-4089-96e6-a0b14cdddf05",
+                "Level": 2
+            },
+            {
+                "SkillToId": "912043fc-e238-4de8-a212-d1c5e8a1ffbb",
+                "Level": 2
+            },
+            {
+                "SkillToId": "af897c89-a433-4a1b-8928-af5d57074fa3",
+                "Level": 3
+            },
+            {
+                "SkillToId": "0f4a5b30-f2e0-4888-88d1-fcd008029d94",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "2e50b350-a907-493e-83b7-824c873eae2b",
+        "Tier": -1600,
+        "HorizontalPosition": 2951,
+        "Name": "Connectivity TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "dcb6f1e0-4127-426b-9279-004475d86f05",
+                "Level": 3
+            },
+            {
+                "SkillToId": "c092bb5c-d35c-4208-94c4-44929a2b32a6",
+                "Level": 2
+            },
+            {
+                "SkillToId": "4e803962-f73e-4258-9d51-ba2dfe8af4da",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ad7f2f49-4489-428c-ad77-31763877b00f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "44fc99f6-d884-471b-bdec-87265f055492",
+                "Level": 3
+            },
+            {
+                "SkillToId": "aef2fb9e-05c7-4ad5-8f1b-f2d092e4c4bd",
+                "Level": 3
+            },
+            {
+                "SkillToId": "1ffba29b-4c00-41fa-8807-dddec0ad91b0",
+                "Level": 2
+            },
+            {
+                "SkillToId": "a3b01b53-004e-4ba4-b28e-85b75bd70dda",
+                "Level": 4
+            },
+            {
+                "SkillToId": "31bf737b-4588-47a7-96fa-f56775cd62be",
+                "Level": 3
+            },
+            {
+                "SkillToId": "c23f3056-fd35-4e84-ba62-e19dd1d6a50c",
+                "Level": 3
+            },
+            {
+                "SkillToId": "0fa13654-7450-49d0-897b-52d964b01584",
+                "Level": 4
+            },
+            {
+                "SkillToId": "500f397b-7086-43b1-a030-c7e6125969fc",
+                "Level": 3
+            },
+            {
+                "SkillToId": "1c28b475-bb44-44ad-b781-7b74b9e8ea3f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "db851095-6531-4868-bee8-c792725c6f5b",
+                "Level": 3
+            },
+            {
+                "SkillToId": "65b391ab-8d63-4222-a415-71693bd62459",
+                "Level": 3
+            },
+            {
+                "SkillToId": "edd5b8b5-4673-4f26-ab6b-4ef48420f64a",
+                "Level": 3
+            },
+            {
+                "SkillToId": "482babc1-48ce-4428-827c-f4f07be706b7",
+                "Level": 4
+            },
+            {
+                "SkillToId": "093aabc4-f73b-4540-8c01-ec1014af4002",
+                "Level": 4
+            },
+            {
+                "SkillToId": "7364ddd6-2b79-43d1-a0ed-32340ddeae7b",
+                "Level": 3
+            },
+            {
+                "SkillToId": "02467e98-61bd-47b5-bfab-dd74a85b789c",
+                "Level": 3
+            },
+            {
+                "SkillToId": "d9ff55c5-ecea-4f52-b257-f6a55bf1c7f6",
+                "Level": 3
+            },
+            {
+                "SkillToId": "56a330c2-e5fb-433c-99a4-6b962fb0a52f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "271287f2-b763-4cc5-94c7-29ec308e28e1",
+                "Level": 3
+            },
+            {
+                "SkillToId": "328b762a-94e6-4693-b2d3-71e493e4a52c",
+                "Level": 3
+            },
+            {
+                "SkillToId": "b09e5d22-ff8c-450e-969f-598c4a283faa",
+                "Level": 3
+            },
+            {
+                "SkillToId": "1f044347-db18-451e-bea1-0ccad6000c27",
+                "Level": 3
+            },
+            {
+                "SkillToId": "35a45a40-1846-48d2-aba7-bb87f9026299",
+                "Level": 3
+            },
+            {
+                "SkillToId": "5ca097a9-e05a-4c8a-89db-a7b6cfd31f51",
+                "Level": 3
+            },
+            {
+                "SkillToId": "2f51ecd8-0688-4b08-b6b8-f3d5faab7210",
+                "Level": 3
+            },
+            {
+                "SkillToId": "533d6e04-9e67-49af-a458-6c76851a97ff",
+                "Level": 3
+            },
+            {
+                "SkillToId": "17ce13c6-0b3e-43e2-a737-a94ec56b818f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "3ce529e7-a0d4-48ab-b391-40dadd12c151",
+                "Level": 4
+            },
+            {
+                "SkillToId": "46c86e86-9fba-4176-a737-0930736b3085",
+                "Level": 4
+            },
+            {
+                "SkillToId": "b28e2fee-ef05-4a58-99f8-b97b29ea6e9d",
+                "Level": 4
+            },
+            {
+                "SkillToId": "0a29ebea-63f8-40a7-ba75-50cb32b97678",
+                "Level": 4
+            },
+            {
+                "SkillToId": "922c2b5b-8f50-4c96-b51b-6e3692862c4a",
+                "Level": 3
+            },
+            {
+                "SkillToId": "502d3999-9115-4a0e-aedd-0c3945b8e905",
+                "Level": 3
+            },
+            {
+                "SkillToId": "f006d650-79a2-4fa8-8c97-407cac4ef9ac",
+                "Level": 3
+            },
+            {
+                "SkillToId": "9b3c75e8-46e9-4124-80d5-5a2a3fe4558c",
+                "Level": 3
+            },
+            {
+                "SkillToId": "d2e45ad5-dc69-41ad-8c35-23857edee463",
+                "Level": 3
+            },
+            {
+                "SkillToId": "e280f7a4-70c9-46e0-8b52-e13b53f40930",
+                "Level": 3
+            },
+            {
+                "SkillToId": "7bf4b83c-3adc-4a11-a89a-f2abf377cf5a",
+                "Level": 3
+            },
+            {
+                "SkillToId": "2356cf94-0138-40a0-903a-4c4e7b9355cc",
+                "Level": 3
+            },
+            {
+                "SkillToId": "6253862c-a393-49fb-a59f-6a6e8b08fbb6",
+                "Level": 3
+            },
+            {
+                "SkillToId": "f0d7956b-0699-4ca2-b03b-efbaef891f62",
+                "Level": 2
+            },
+            {
+                "SkillToId": "55ddfb00-025e-4edb-8297-4a792554684f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "c174a6d4-f7eb-4089-96e6-a0b14cdddf05",
+                "Level": 3
+            },
+            {
+                "SkillToId": "912043fc-e238-4de8-a212-d1c5e8a1ffbb",
+                "Level": 3
+            },
+            {
+                "SkillToId": "af897c89-a433-4a1b-8928-af5d57074fa3",
+                "Level": 4
+            },
+            {
+                "SkillToId": "0f4a5b30-f2e0-4888-88d1-fcd008029d94",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "128442fc-1456-4071-b2d9-0c8f490b339f",
+        "Tier": -1800,
+        "HorizontalPosition": 1201,
+        "Name": "Connectivity TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "dcb6f1e0-4127-426b-9279-004475d86f05",
+                "Level": 4
+            },
+            {
+                "SkillToId": "c092bb5c-d35c-4208-94c4-44929a2b32a6",
+                "Level": 3
+            },
+            {
+                "SkillToId": "4e803962-f73e-4258-9d51-ba2dfe8af4da",
+                "Level": 3
+            },
+            {
+                "SkillToId": "ad7f2f49-4489-428c-ad77-31763877b00f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "44fc99f6-d884-471b-bdec-87265f055492",
+                "Level": 4
+            },
+            {
+                "SkillToId": "aef2fb9e-05c7-4ad5-8f1b-f2d092e4c4bd",
+                "Level": 4
+            },
+            {
+                "SkillToId": "1ffba29b-4c00-41fa-8807-dddec0ad91b0",
+                "Level": 3
+            },
+            {
+                "SkillToId": "a3b01b53-004e-4ba4-b28e-85b75bd70dda",
+                "Level": 5
+            },
+            {
+                "SkillToId": "31bf737b-4588-47a7-96fa-f56775cd62be",
+                "Level": 4
+            },
+            {
+                "SkillToId": "c23f3056-fd35-4e84-ba62-e19dd1d6a50c",
+                "Level": 4
+            },
+            {
+                "SkillToId": "0fa13654-7450-49d0-897b-52d964b01584",
+                "Level": 5
+            },
+            {
+                "SkillToId": "500f397b-7086-43b1-a030-c7e6125969fc",
+                "Level": 4
+            },
+            {
+                "SkillToId": "1c28b475-bb44-44ad-b781-7b74b9e8ea3f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "db851095-6531-4868-bee8-c792725c6f5b",
+                "Level": 4
+            },
+            {
+                "SkillToId": "65b391ab-8d63-4222-a415-71693bd62459",
+                "Level": 4
+            },
+            {
+                "SkillToId": "edd5b8b5-4673-4f26-ab6b-4ef48420f64a",
+                "Level": 4
+            },
+            {
+                "SkillToId": "482babc1-48ce-4428-827c-f4f07be706b7",
+                "Level": 5
+            },
+            {
+                "SkillToId": "093aabc4-f73b-4540-8c01-ec1014af4002",
+                "Level": 5
+            },
+            {
+                "SkillToId": "7364ddd6-2b79-43d1-a0ed-32340ddeae7b",
+                "Level": 4
+            },
+            {
+                "SkillToId": "02467e98-61bd-47b5-bfab-dd74a85b789c",
+                "Level": 4
+            },
+            {
+                "SkillToId": "d9ff55c5-ecea-4f52-b257-f6a55bf1c7f6",
+                "Level": 4
+            },
+            {
+                "SkillToId": "56a330c2-e5fb-433c-99a4-6b962fb0a52f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "271287f2-b763-4cc5-94c7-29ec308e28e1",
+                "Level": 4
+            },
+            {
+                "SkillToId": "328b762a-94e6-4693-b2d3-71e493e4a52c",
+                "Level": 4
+            },
+            {
+                "SkillToId": "b09e5d22-ff8c-450e-969f-598c4a283faa",
+                "Level": 4
+            },
+            {
+                "SkillToId": "1f044347-db18-451e-bea1-0ccad6000c27",
+                "Level": 4
+            },
+            {
+                "SkillToId": "35a45a40-1846-48d2-aba7-bb87f9026299",
+                "Level": 4
+            },
+            {
+                "SkillToId": "5ca097a9-e05a-4c8a-89db-a7b6cfd31f51",
+                "Level": 4
+            },
+            {
+                "SkillToId": "2f51ecd8-0688-4b08-b6b8-f3d5faab7210",
+                "Level": 4
+            },
+            {
+                "SkillToId": "533d6e04-9e67-49af-a458-6c76851a97ff",
+                "Level": 4
+            },
+            {
+                "SkillToId": "17ce13c6-0b3e-43e2-a737-a94ec56b818f",
+                "Level": 5
+            },
+            {
+                "SkillToId": "3ce529e7-a0d4-48ab-b391-40dadd12c151",
+                "Level": 5
+            },
+            {
+                "SkillToId": "46c86e86-9fba-4176-a737-0930736b3085",
+                "Level": 5
+            },
+            {
+                "SkillToId": "b28e2fee-ef05-4a58-99f8-b97b29ea6e9d",
+                "Level": 5
+            },
+            {
+                "SkillToId": "0a29ebea-63f8-40a7-ba75-50cb32b97678",
+                "Level": 5
+            },
+            {
+                "SkillToId": "922c2b5b-8f50-4c96-b51b-6e3692862c4a",
+                "Level": 4
+            },
+            {
+                "SkillToId": "502d3999-9115-4a0e-aedd-0c3945b8e905",
+                "Level": 4
+            },
+            {
+                "SkillToId": "f006d650-79a2-4fa8-8c97-407cac4ef9ac",
+                "Level": 4
+            },
+            {
+                "SkillToId": "9b3c75e8-46e9-4124-80d5-5a2a3fe4558c",
+                "Level": 4
+            },
+            {
+                "SkillToId": "d2e45ad5-dc69-41ad-8c35-23857edee463",
+                "Level": 4
+            },
+            {
+                "SkillToId": "e280f7a4-70c9-46e0-8b52-e13b53f40930",
+                "Level": 4
+            },
+            {
+                "SkillToId": "baae87d4-01d4-4982-98b6-1b4a6dbbb391",
+                "Level": 1
+            },
+            {
+                "SkillToId": "7bf4b83c-3adc-4a11-a89a-f2abf377cf5a",
+                "Level": 4
+            },
+            {
+                "SkillToId": "2356cf94-0138-40a0-903a-4c4e7b9355cc",
+                "Level": 4
+            },
+            {
+                "SkillToId": "6253862c-a393-49fb-a59f-6a6e8b08fbb6",
+                "Level": 4
+            },
+            {
+                "SkillToId": "f0d7956b-0699-4ca2-b03b-efbaef891f62",
+                "Level": 3
+            },
+            {
+                "SkillToId": "55ddfb00-025e-4edb-8297-4a792554684f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "c174a6d4-f7eb-4089-96e6-a0b14cdddf05",
+                "Level": 4
+            },
+            {
+                "SkillToId": "912043fc-e238-4de8-a212-d1c5e8a1ffbb",
+                "Level": 4
+            },
+            {
+                "SkillToId": "af897c89-a433-4a1b-8928-af5d57074fa3",
+                "Level": 5
+            },
+            {
+                "SkillToId": "0f4a5b30-f2e0-4888-88d1-fcd008029d94",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "31eeed06-a60d-484d-b78e-c9f0ea6a4d7d",
+        "Name": "Connectivity IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 1099,
+        "RequiredSkills": [
+            {
+                "SkillToId": "dcb6f1e0-4127-426b-9279-004475d86f05",
+                "Level": 5
+            },
+            {
+                "SkillToId": "c092bb5c-d35c-4208-94c4-44929a2b32a6",
+                "Level": 4
+            },
+            {
+                "SkillToId": "4e803962-f73e-4258-9d51-ba2dfe8af4da",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ad7f2f49-4489-428c-ad77-31763877b00f",
+                "Level": 5
+            },
+            {
+                "SkillToId": "44fc99f6-d884-471b-bdec-87265f055492",
+                "Level": 5
+            },
+            {
+                "SkillToId": "aef2fb9e-05c7-4ad5-8f1b-f2d092e4c4bd",
+                "Level": 5
+            },
+            {
+                "SkillToId": "1ffba29b-4c00-41fa-8807-dddec0ad91b0",
+                "Level": 4
+            },
+            {
+                "SkillToId": "a3b01b53-004e-4ba4-b28e-85b75bd70dda",
+                "Level": 6
+            },
+            {
+                "SkillToId": "31bf737b-4588-47a7-96fa-f56775cd62be",
+                "Level": 5
+            },
+            {
+                "SkillToId": "c23f3056-fd35-4e84-ba62-e19dd1d6a50c",
+                "Level": 5
+            },
+            {
+                "SkillToId": "0fa13654-7450-49d0-897b-52d964b01584",
+                "Level": 6
+            },
+            {
+                "SkillToId": "500f397b-7086-43b1-a030-c7e6125969fc",
+                "Level": 5
+            },
+            {
+                "SkillToId": "1c28b475-bb44-44ad-b781-7b74b9e8ea3f",
+                "Level": 5
+            },
+            {
+                "SkillToId": "db851095-6531-4868-bee8-c792725c6f5b",
+                "Level": 5
+            },
+            {
+                "SkillToId": "65b391ab-8d63-4222-a415-71693bd62459",
+                "Level": 5
+            },
+            {
+                "SkillToId": "edd5b8b5-4673-4f26-ab6b-4ef48420f64a",
+                "Level": 5
+            },
+            {
+                "SkillToId": "482babc1-48ce-4428-827c-f4f07be706b7",
+                "Level": 6
+            },
+            {
+                "SkillToId": "093aabc4-f73b-4540-8c01-ec1014af4002",
+                "Level": 6
+            },
+            {
+                "SkillToId": "7364ddd6-2b79-43d1-a0ed-32340ddeae7b",
+                "Level": 5
+            },
+            {
+                "SkillToId": "02467e98-61bd-47b5-bfab-dd74a85b789c",
+                "Level": 5
+            },
+            {
+                "SkillToId": "d9ff55c5-ecea-4f52-b257-f6a55bf1c7f6",
+                "Level": 5
+            },
+            {
+                "SkillToId": "56a330c2-e5fb-433c-99a4-6b962fb0a52f",
+                "Level": 5
+            },
+            {
+                "SkillToId": "271287f2-b763-4cc5-94c7-29ec308e28e1",
+                "Level": 5
+            },
+            {
+                "SkillToId": "328b762a-94e6-4693-b2d3-71e493e4a52c",
+                "Level": 5
+            },
+            {
+                "SkillToId": "b09e5d22-ff8c-450e-969f-598c4a283faa",
+                "Level": 5
+            },
+            {
+                "SkillToId": "1f044347-db18-451e-bea1-0ccad6000c27",
+                "Level": 5
+            },
+            {
+                "SkillToId": "35a45a40-1846-48d2-aba7-bb87f9026299",
+                "Level": 5
+            },
+            {
+                "SkillToId": "5ca097a9-e05a-4c8a-89db-a7b6cfd31f51",
+                "Level": 5
+            },
+            {
+                "SkillToId": "2f51ecd8-0688-4b08-b6b8-f3d5faab7210",
+                "Level": 5
+            },
+            {
+                "SkillToId": "533d6e04-9e67-49af-a458-6c76851a97ff",
+                "Level": 5
+            },
+            {
+                "SkillToId": "17ce13c6-0b3e-43e2-a737-a94ec56b818f",
+                "Level": 6
+            },
+            {
+                "SkillToId": "3ce529e7-a0d4-48ab-b391-40dadd12c151",
+                "Level": 6
+            },
+            {
+                "SkillToId": "46c86e86-9fba-4176-a737-0930736b3085",
+                "Level": 6
+            },
+            {
+                "SkillToId": "b28e2fee-ef05-4a58-99f8-b97b29ea6e9d",
+                "Level": 6
+            },
+            {
+                "SkillToId": "0a29ebea-63f8-40a7-ba75-50cb32b97678",
+                "Level": 6
+            },
+            {
+                "SkillToId": "922c2b5b-8f50-4c96-b51b-6e3692862c4a",
+                "Level": 5
+            },
+            {
+                "SkillToId": "502d3999-9115-4a0e-aedd-0c3945b8e905",
+                "Level": 5
+            },
+            {
+                "SkillToId": "f006d650-79a2-4fa8-8c97-407cac4ef9ac",
+                "Level": 5
+            },
+            {
+                "SkillToId": "9b3c75e8-46e9-4124-80d5-5a2a3fe4558c",
+                "Level": 5
+            },
+            {
+                "SkillToId": "d2e45ad5-dc69-41ad-8c35-23857edee463",
+                "Level": 5
+            },
+            {
+                "SkillToId": "2fa2e786-c3e4-4ef9-bc89-249ed19fcbfd",
+                "Level": 1
+            },
+            {
+                "SkillToId": "db176dd8-499a-4a0f-8e33-89498fce615a",
+                "Level": 1
+            },
+            {
+                "SkillToId": "e280f7a4-70c9-46e0-8b52-e13b53f40930",
+                "Level": 5
+            },
+            {
+                "SkillToId": "baae87d4-01d4-4982-98b6-1b4a6dbbb391",
+                "Level": 2
+            },
+            {
+                "SkillToId": "7bf4b83c-3adc-4a11-a89a-f2abf377cf5a",
+                "Level": 5
+            },
+            {
+                "SkillToId": "2356cf94-0138-40a0-903a-4c4e7b9355cc",
+                "Level": 5
+            },
+            {
+                "SkillToId": "6253862c-a393-49fb-a59f-6a6e8b08fbb6",
+                "Level": 5
+            },
+            {
+                "SkillToId": "f0d7956b-0699-4ca2-b03b-efbaef891f62",
+                "Level": 4
+            },
+            {
+                "SkillToId": "55ddfb00-025e-4edb-8297-4a792554684f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "c174a6d4-f7eb-4089-96e6-a0b14cdddf05",
+                "Level": 5
+            },
+            {
+                "SkillToId": "912043fc-e238-4de8-a212-d1c5e8a1ffbb",
+                "Level": 5
+            },
+            {
+                "SkillToId": "af897c89-a433-4a1b-8928-af5d57074fa3",
+                "Level": 6
+            },
+            {
+                "SkillToId": "0f4a5b30-f2e0-4888-88d1-fcd008029d94",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "f303c172-dc16-4a15-aebf-c022bf66dc3f",
+        "Name": "Connectivity IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 1330,
+        "RequiredSkills": [
+            {
+                "SkillToId": "dcb6f1e0-4127-426b-9279-004475d86f05",
+                "Level": 6
+            },
+            {
+                "SkillToId": "c092bb5c-d35c-4208-94c4-44929a2b32a6",
+                "Level": 5
+            },
+            {
+                "SkillToId": "4e803962-f73e-4258-9d51-ba2dfe8af4da",
+                "Level": 5
+            },
+            {
+                "SkillToId": "ad7f2f49-4489-428c-ad77-31763877b00f",
+                "Level": 6
+            },
+            {
+                "SkillToId": "44fc99f6-d884-471b-bdec-87265f055492",
+                "Level": 6
+            },
+            {
+                "SkillToId": "aef2fb9e-05c7-4ad5-8f1b-f2d092e4c4bd",
+                "Level": 6
+            },
+            {
+                "SkillToId": "1ffba29b-4c00-41fa-8807-dddec0ad91b0",
+                "Level": 5
+            },
+            {
+                "SkillToId": "a3b01b53-004e-4ba4-b28e-85b75bd70dda",
+                "Level": 7
+            },
+            {
+                "SkillToId": "31bf737b-4588-47a7-96fa-f56775cd62be",
+                "Level": 6
+            },
+            {
+                "SkillToId": "c23f3056-fd35-4e84-ba62-e19dd1d6a50c",
+                "Level": 6
+            },
+            {
+                "SkillToId": "0fa13654-7450-49d0-897b-52d964b01584",
+                "Level": 7
+            },
+            {
+                "SkillToId": "500f397b-7086-43b1-a030-c7e6125969fc",
+                "Level": 6
+            },
+            {
+                "SkillToId": "1c28b475-bb44-44ad-b781-7b74b9e8ea3f",
+                "Level": 6
+            },
+            {
+                "SkillToId": "db851095-6531-4868-bee8-c792725c6f5b",
+                "Level": 6
+            },
+            {
+                "SkillToId": "65b391ab-8d63-4222-a415-71693bd62459",
+                "Level": 6
+            },
+            {
+                "SkillToId": "edd5b8b5-4673-4f26-ab6b-4ef48420f64a",
+                "Level": 6
+            },
+            {
+                "SkillToId": "482babc1-48ce-4428-827c-f4f07be706b7",
+                "Level": 7
+            },
+            {
+                "SkillToId": "093aabc4-f73b-4540-8c01-ec1014af4002",
+                "Level": 7
+            },
+            {
+                "SkillToId": "7364ddd6-2b79-43d1-a0ed-32340ddeae7b",
+                "Level": 6
+            },
+            {
+                "SkillToId": "02467e98-61bd-47b5-bfab-dd74a85b789c",
+                "Level": 6
+            },
+            {
+                "SkillToId": "d9ff55c5-ecea-4f52-b257-f6a55bf1c7f6",
+                "Level": 6
+            },
+            {
+                "SkillToId": "56a330c2-e5fb-433c-99a4-6b962fb0a52f",
+                "Level": 6
+            },
+            {
+                "SkillToId": "271287f2-b763-4cc5-94c7-29ec308e28e1",
+                "Level": 6
+            },
+            {
+                "SkillToId": "328b762a-94e6-4693-b2d3-71e493e4a52c",
+                "Level": 6
+            },
+            {
+                "SkillToId": "b09e5d22-ff8c-450e-969f-598c4a283faa",
+                "Level": 6
+            },
+            {
+                "SkillToId": "1f044347-db18-451e-bea1-0ccad6000c27",
+                "Level": 6
+            },
+            {
+                "SkillToId": "35a45a40-1846-48d2-aba7-bb87f9026299",
+                "Level": 6
+            },
+            {
+                "SkillToId": "5ca097a9-e05a-4c8a-89db-a7b6cfd31f51",
+                "Level": 6
+            },
+            {
+                "SkillToId": "2f51ecd8-0688-4b08-b6b8-f3d5faab7210",
+                "Level": 6
+            },
+            {
+                "SkillToId": "533d6e04-9e67-49af-a458-6c76851a97ff",
+                "Level": 6
+            },
+            {
+                "SkillToId": "17ce13c6-0b3e-43e2-a737-a94ec56b818f",
+                "Level": 7
+            },
+            {
+                "SkillToId": "3ce529e7-a0d4-48ab-b391-40dadd12c151",
+                "Level": 7
+            },
+            {
+                "SkillToId": "46c86e86-9fba-4176-a737-0930736b3085",
+                "Level": 7
+            },
+            {
+                "SkillToId": "b28e2fee-ef05-4a58-99f8-b97b29ea6e9d",
+                "Level": 7
+            },
+            {
+                "SkillToId": "0a29ebea-63f8-40a7-ba75-50cb32b97678",
+                "Level": 7
+            },
+            {
+                "SkillToId": "922c2b5b-8f50-4c96-b51b-6e3692862c4a",
+                "Level": 6
+            },
+            {
+                "SkillToId": "502d3999-9115-4a0e-aedd-0c3945b8e905",
+                "Level": 6
+            },
+            {
+                "SkillToId": "f006d650-79a2-4fa8-8c97-407cac4ef9ac",
+                "Level": 6
+            },
+            {
+                "SkillToId": "9b3c75e8-46e9-4124-80d5-5a2a3fe4558c",
+                "Level": 6
+            },
+            {
+                "SkillToId": "d2e45ad5-dc69-41ad-8c35-23857edee463",
+                "Level": 6
+            },
+            {
+                "SkillToId": "2fa2e786-c3e4-4ef9-bc89-249ed19fcbfd",
+                "Level": 2
+            },
+            {
+                "SkillToId": "db176dd8-499a-4a0f-8e33-89498fce615a",
+                "Level": 2
+            },
+            {
+                "SkillToId": "e280f7a4-70c9-46e0-8b52-e13b53f40930",
+                "Level": 6
+            },
+            {
+                "SkillToId": "baae87d4-01d4-4982-98b6-1b4a6dbbb391",
+                "Level": 3
+            },
+            {
+                "SkillToId": "7bf4b83c-3adc-4a11-a89a-f2abf377cf5a",
+                "Level": 6
+            },
+            {
+                "SkillToId": "2356cf94-0138-40a0-903a-4c4e7b9355cc",
+                "Level": 6
+            },
+            {
+                "SkillToId": "6253862c-a393-49fb-a59f-6a6e8b08fbb6",
+                "Level": 6
+            },
+            {
+                "SkillToId": "f0d7956b-0699-4ca2-b03b-efbaef891f62",
+                "Level": 5
+            },
+            {
+                "SkillToId": "55ddfb00-025e-4edb-8297-4a792554684f",
+                "Level": 5
+            },
+            {
+                "SkillToId": "c174a6d4-f7eb-4089-96e6-a0b14cdddf05",
+                "Level": 6
+            },
+            {
+                "SkillToId": "912043fc-e238-4de8-a212-d1c5e8a1ffbb",
+                "Level": 6
+            },
+            {
+                "SkillToId": "af897c89-a433-4a1b-8928-af5d57074fa3",
+                "Level": 7
+            },
+            {
+                "SkillToId": "0f4a5b30-f2e0-4888-88d1-fcd008029d94",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "9a8662c9-8274-4e46-8fe9-c82d80104a83",
+        "Name": "Connectivity IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 33,
+        "RequiredSkills": [
+            {
+                "SkillToId": "dcb6f1e0-4127-426b-9279-004475d86f05",
+                "Level": 7
+            },
+            {
+                "SkillToId": "c092bb5c-d35c-4208-94c4-44929a2b32a6",
+                "Level": 6
+            },
+            {
+                "SkillToId": "4e803962-f73e-4258-9d51-ba2dfe8af4da",
+                "Level": 6
+            },
+            {
+                "SkillToId": "ad7f2f49-4489-428c-ad77-31763877b00f",
+                "Level": 7
+            },
+            {
+                "SkillToId": "44fc99f6-d884-471b-bdec-87265f055492",
+                "Level": 7
+            },
+            {
+                "SkillToId": "aef2fb9e-05c7-4ad5-8f1b-f2d092e4c4bd",
+                "Level": 7
+            },
+            {
+                "SkillToId": "1ffba29b-4c00-41fa-8807-dddec0ad91b0",
+                "Level": 6
+            },
+            {
+                "SkillToId": "a3b01b53-004e-4ba4-b28e-85b75bd70dda",
+                "Level": 8
+            },
+            {
+                "SkillToId": "31bf737b-4588-47a7-96fa-f56775cd62be",
+                "Level": 7
+            },
+            {
+                "SkillToId": "c23f3056-fd35-4e84-ba62-e19dd1d6a50c",
+                "Level": 7
+            },
+            {
+                "SkillToId": "0fa13654-7450-49d0-897b-52d964b01584",
+                "Level": 8
+            },
+            {
+                "SkillToId": "500f397b-7086-43b1-a030-c7e6125969fc",
+                "Level": 7
+            },
+            {
+                "SkillToId": "1c28b475-bb44-44ad-b781-7b74b9e8ea3f",
+                "Level": 7
+            },
+            {
+                "SkillToId": "db851095-6531-4868-bee8-c792725c6f5b",
+                "Level": 7
+            },
+            {
+                "SkillToId": "65b391ab-8d63-4222-a415-71693bd62459",
+                "Level": 7
+            },
+            {
+                "SkillToId": "edd5b8b5-4673-4f26-ab6b-4ef48420f64a",
+                "Level": 7
+            },
+            {
+                "SkillToId": "482babc1-48ce-4428-827c-f4f07be706b7",
+                "Level": 8
+            },
+            {
+                "SkillToId": "093aabc4-f73b-4540-8c01-ec1014af4002",
+                "Level": 8
+            },
+            {
+                "SkillToId": "7364ddd6-2b79-43d1-a0ed-32340ddeae7b",
+                "Level": 7
+            },
+            {
+                "SkillToId": "02467e98-61bd-47b5-bfab-dd74a85b789c",
+                "Level": 7
+            },
+            {
+                "SkillToId": "d9ff55c5-ecea-4f52-b257-f6a55bf1c7f6",
+                "Level": 7
+            },
+            {
+                "SkillToId": "56a330c2-e5fb-433c-99a4-6b962fb0a52f",
+                "Level": 7
+            },
+            {
+                "SkillToId": "271287f2-b763-4cc5-94c7-29ec308e28e1",
+                "Level": 7
+            },
+            {
+                "SkillToId": "328b762a-94e6-4693-b2d3-71e493e4a52c",
+                "Level": 7
+            },
+            {
+                "SkillToId": "b09e5d22-ff8c-450e-969f-598c4a283faa",
+                "Level": 7
+            },
+            {
+                "SkillToId": "1f044347-db18-451e-bea1-0ccad6000c27",
+                "Level": 7
+            },
+            {
+                "SkillToId": "35a45a40-1846-48d2-aba7-bb87f9026299",
+                "Level": 7
+            },
+            {
+                "SkillToId": "5ca097a9-e05a-4c8a-89db-a7b6cfd31f51",
+                "Level": 7
+            },
+            {
+                "SkillToId": "2f51ecd8-0688-4b08-b6b8-f3d5faab7210",
+                "Level": 7
+            },
+            {
+                "SkillToId": "533d6e04-9e67-49af-a458-6c76851a97ff",
+                "Level": 7
+            },
+            {
+                "SkillToId": "17ce13c6-0b3e-43e2-a737-a94ec56b818f",
+                "Level": 8
+            },
+            {
+                "SkillToId": "3ce529e7-a0d4-48ab-b391-40dadd12c151",
+                "Level": 8
+            },
+            {
+                "SkillToId": "46c86e86-9fba-4176-a737-0930736b3085",
+                "Level": 8
+            },
+            {
+                "SkillToId": "b28e2fee-ef05-4a58-99f8-b97b29ea6e9d",
+                "Level": 8
+            },
+            {
+                "SkillToId": "0a29ebea-63f8-40a7-ba75-50cb32b97678",
+                "Level": 8
+            },
+            {
+                "SkillToId": "922c2b5b-8f50-4c96-b51b-6e3692862c4a",
+                "Level": 7
+            },
+            {
+                "SkillToId": "502d3999-9115-4a0e-aedd-0c3945b8e905",
+                "Level": 7
+            },
+            {
+                "SkillToId": "f006d650-79a2-4fa8-8c97-407cac4ef9ac",
+                "Level": 7
+            },
+            {
+                "SkillToId": "9b3c75e8-46e9-4124-80d5-5a2a3fe4558c",
+                "Level": 7
+            },
+            {
+                "SkillToId": "d2e45ad5-dc69-41ad-8c35-23857edee463",
+                "Level": 7
+            },
+            {
+                "SkillToId": "2fa2e786-c3e4-4ef9-bc89-249ed19fcbfd",
+                "Level": 3
+            },
+            {
+                "SkillToId": "db176dd8-499a-4a0f-8e33-89498fce615a",
+                "Level": 3
+            },
+            {
+                "SkillToId": "e280f7a4-70c9-46e0-8b52-e13b53f40930",
+                "Level": 7
+            },
+            {
+                "SkillToId": "baae87d4-01d4-4982-98b6-1b4a6dbbb391",
+                "Level": 4
+            },
+            {
+                "SkillToId": "7bf4b83c-3adc-4a11-a89a-f2abf377cf5a",
+                "Level": 7
+            },
+            {
+                "SkillToId": "2356cf94-0138-40a0-903a-4c4e7b9355cc",
+                "Level": 7
+            },
+            {
+                "SkillToId": "6253862c-a393-49fb-a59f-6a6e8b08fbb6",
+                "Level": 7
+            },
+            {
+                "SkillToId": "f0d7956b-0699-4ca2-b03b-efbaef891f62",
+                "Level": 6
+            },
+            {
+                "SkillToId": "55ddfb00-025e-4edb-8297-4a792554684f",
+                "Level": 6
+            },
+            {
+                "SkillToId": "c174a6d4-f7eb-4089-96e6-a0b14cdddf05",
+                "Level": 7
+            },
+            {
+                "SkillToId": "912043fc-e238-4de8-a212-d1c5e8a1ffbb",
+                "Level": 7
+            },
+            {
+                "SkillToId": "af897c89-a433-4a1b-8928-af5d57074fa3",
+                "Level": 8
+            },
+            {
+                "SkillToId": "0f4a5b30-f2e0-4888-88d1-fcd008029d94",
+                "Level": 8
+            }
+        ]
+    },
+    {
+        "toId": "ff5c6638-f941-40b9-af21-92da09ea5689",
+        "Tier": -1000,
+        "HorizontalPosition": 707,
+        "Name": "Connectivity TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a3b01b53-004e-4ba4-b28e-85b75bd70dda",
+                "Level": 1
+            },
+            {
+                "SkillToId": "0fa13654-7450-49d0-897b-52d964b01584",
+                "Level": 1
+            },
+            {
+                "SkillToId": "482babc1-48ce-4428-827c-f4f07be706b7",
+                "Level": 1
+            },
+            {
+                "SkillToId": "093aabc4-f73b-4540-8c01-ec1014af4002",
+                "Level": 1
+            },
+            {
+                "SkillToId": "17ce13c6-0b3e-43e2-a737-a94ec56b818f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "3ce529e7-a0d4-48ab-b391-40dadd12c151",
+                "Level": 1
+            },
+            {
+                "SkillToId": "46c86e86-9fba-4176-a737-0930736b3085",
+                "Level": 1
+            },
+            {
+                "SkillToId": "b28e2fee-ef05-4a58-99f8-b97b29ea6e9d",
+                "Level": 1
+            },
+            {
+                "SkillToId": "0a29ebea-63f8-40a7-ba75-50cb32b97678",
+                "Level": 1
+            },
+            {
+                "SkillToId": "af897c89-a433-4a1b-8928-af5d57074fa3",
+                "Level": 1
+            },
+            {
+                "SkillToId": "0f4a5b30-f2e0-4888-88d1-fcd008029d94",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "87c8d565-358e-47a7-aaee-63af64feb871",
+        "Tier": -1400,
+        "HorizontalPosition": 413,
+        "Name": "DC Ops On-Shore TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "bfa932c8-0a3d-44f2-b094-031870fd0b2d",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ec0be4fd-1955-4bc0-97df-3b3c8dc73957",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "9693791b-c35b-4160-9f1f-e014231ff095",
+        "Tier": -1800,
+        "HorizontalPosition": 1399,
+        "Name": "DC Ops On-Shore TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "bfa932c8-0a3d-44f2-b094-031870fd0b2d",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "f1647ddc-32f4-4d15-ac5a-55f540b12ac6",
+        "Name": "DC Ops On-Shore IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 2566,
+        "RequiredSkills": [
+            {
+                "SkillToId": "a9fe33dc-0ad8-4d34-8cc3-6c591af3c152",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "b76caaf9-f0a4-43bb-a761-9f3775323712",
+        "Tier": -1600,
+        "HorizontalPosition": 332,
+        "Name": "DC Ops On-Shore TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "1fdf71eb-784a-4793-83c0-35ffb3503b90",
+                "Level": 1
+            },
+            {
+                "SkillToId": "d4acd234-64f9-44b1-a38d-0e22d5611580",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ab99b9da-90dc-442d-92ce-8c4c8320339b",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "7d3c22b5-c16e-48c2-af91-8bc25cd776b4",
+        "Tier": -1000,
+        "HorizontalPosition": 292,
+        "Name": "Archiving TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "4f77007d-0727-45c5-a591-62cb9bbffd40",
+                "Level": 1
+            },
+            {
+                "SkillToId": "1f80c657-d958-4d98-a83f-052c9dc2f11b",
+                "Level": 1
+            },
+            {
+                "SkillToId": "234fdab0-1e90-41b1-8f9f-c9d0cef8d3fb",
+                "Level": 1
+            },
+            {
+                "SkillToId": "592d63f4-6a2f-4a3d-a76b-eed074279e1f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "0f5f071a-4d2b-4acc-8bf9-c84a94060a45",
+                "Level": 1
+            },
+            {
+                "SkillToId": "762f934f-748d-48d2-963e-db7f0cfaaaf0",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "125454bd-47c2-4d03-b154-76b048866e8b",
+        "Tier": -1200,
+        "HorizontalPosition": 1373,
+        "Name": "Archiving TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "4f77007d-0727-45c5-a591-62cb9bbffd40",
+                "Level": 2
+            },
+            {
+                "SkillToId": "1f80c657-d958-4d98-a83f-052c9dc2f11b",
+                "Level": 2
+            },
+            {
+                "SkillToId": "234fdab0-1e90-41b1-8f9f-c9d0cef8d3fb",
+                "Level": 2
+            },
+            {
+                "SkillToId": "592d63f4-6a2f-4a3d-a76b-eed074279e1f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "0f5f071a-4d2b-4acc-8bf9-c84a94060a45",
+                "Level": 2
+            },
+            {
+                "SkillToId": "762f934f-748d-48d2-963e-db7f0cfaaaf0",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "9105b223-584d-442b-a473-409fd14d1f5f",
+        "Tier": -1400,
+        "HorizontalPosition": 57,
+        "Name": "Archiving TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "4f77007d-0727-45c5-a591-62cb9bbffd40",
+                "Level": 3
+            },
+            {
+                "SkillToId": "1f80c657-d958-4d98-a83f-052c9dc2f11b",
+                "Level": 3
+            },
+            {
+                "SkillToId": "234fdab0-1e90-41b1-8f9f-c9d0cef8d3fb",
+                "Level": 3
+            },
+            {
+                "SkillToId": "592d63f4-6a2f-4a3d-a76b-eed074279e1f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "0f5f071a-4d2b-4acc-8bf9-c84a94060a45",
+                "Level": 3
+            },
+            {
+                "SkillToId": "762f934f-748d-48d2-963e-db7f0cfaaaf0",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "0744697b-0a80-4421-8c92-e68b2c13613a",
+        "Tier": -1600,
+        "HorizontalPosition": 444,
+        "Name": "Archiving TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "4f77007d-0727-45c5-a591-62cb9bbffd40",
+                "Level": 4
+            },
+            {
+                "SkillToId": "1f80c657-d958-4d98-a83f-052c9dc2f11b",
+                "Level": 4
+            },
+            {
+                "SkillToId": "234fdab0-1e90-41b1-8f9f-c9d0cef8d3fb",
+                "Level": 4
+            },
+            {
+                "SkillToId": "592d63f4-6a2f-4a3d-a76b-eed074279e1f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "0f5f071a-4d2b-4acc-8bf9-c84a94060a45",
+                "Level": 4
+            },
+            {
+                "SkillToId": "762f934f-748d-48d2-963e-db7f0cfaaaf0",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "977a2f47-9a85-4afa-b548-f8459bc7981d",
+        "Tier": -1800,
+        "HorizontalPosition": 908,
+        "Name": "Archiving TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "4f77007d-0727-45c5-a591-62cb9bbffd40",
+                "Level": 5
+            },
+            {
+                "SkillToId": "1f80c657-d958-4d98-a83f-052c9dc2f11b",
+                "Level": 5
+            },
+            {
+                "SkillToId": "234fdab0-1e90-41b1-8f9f-c9d0cef8d3fb",
+                "Level": 5
+            },
+            {
+                "SkillToId": "592d63f4-6a2f-4a3d-a76b-eed074279e1f",
+                "Level": 5
+            },
+            {
+                "SkillToId": "0f5f071a-4d2b-4acc-8bf9-c84a94060a45",
+                "Level": 5
+            },
+            {
+                "SkillToId": "762f934f-748d-48d2-963e-db7f0cfaaaf0",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "102efa64-2b79-4395-b215-3b129ccc1a22",
+        "Name": "Archiving IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 2627,
+        "RequiredSkills": [
+            {
+                "SkillToId": "4f77007d-0727-45c5-a591-62cb9bbffd40",
+                "Level": 6
+            },
+            {
+                "SkillToId": "1f80c657-d958-4d98-a83f-052c9dc2f11b",
+                "Level": 6
+            },
+            {
+                "SkillToId": "234fdab0-1e90-41b1-8f9f-c9d0cef8d3fb",
+                "Level": 6
+            },
+            {
+                "SkillToId": "592d63f4-6a2f-4a3d-a76b-eed074279e1f",
+                "Level": 6
+            },
+            {
+                "SkillToId": "0f5f071a-4d2b-4acc-8bf9-c84a94060a45",
+                "Level": 6
+            },
+            {
+                "SkillToId": "762f934f-748d-48d2-963e-db7f0cfaaaf0",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "f72e3923-9c10-4574-85c2-cdae503c1122",
+        "Name": "Archiving IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 1791,
+        "RequiredSkills": [
+            {
+                "SkillToId": "4f77007d-0727-45c5-a591-62cb9bbffd40",
+                "Level": 7
+            },
+            {
+                "SkillToId": "1f80c657-d958-4d98-a83f-052c9dc2f11b",
+                "Level": 7
+            },
+            {
+                "SkillToId": "234fdab0-1e90-41b1-8f9f-c9d0cef8d3fb",
+                "Level": 7
+            },
+            {
+                "SkillToId": "592d63f4-6a2f-4a3d-a76b-eed074279e1f",
+                "Level": 7
+            },
+            {
+                "SkillToId": "0f5f071a-4d2b-4acc-8bf9-c84a94060a45",
+                "Level": 7
+            },
+            {
+                "SkillToId": "762f934f-748d-48d2-963e-db7f0cfaaaf0",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "9bcd8c7d-e90b-478a-b806-274e545a9076",
+        "Name": "Archiving IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 2395,
+        "RequiredSkills": [
+            {
+                "SkillToId": "4f77007d-0727-45c5-a591-62cb9bbffd40",
+                "Level": 8
+            },
+            {
+                "SkillToId": "1f80c657-d958-4d98-a83f-052c9dc2f11b",
+                "Level": 8
+            },
+            {
+                "SkillToId": "234fdab0-1e90-41b1-8f9f-c9d0cef8d3fb",
+                "Level": 8
+            },
+            {
+                "SkillToId": "592d63f4-6a2f-4a3d-a76b-eed074279e1f",
+                "Level": 8
+            },
+            {
+                "SkillToId": "0f5f071a-4d2b-4acc-8bf9-c84a94060a45",
+                "Level": 8
+            },
+            {
+                "SkillToId": "762f934f-748d-48d2-963e-db7f0cfaaaf0",
+                "Level": 8
+            }
+        ]
+    },
+    {
+        "toId": "35ae728e-b566-4ce0-9cf9-3e70a7070fcb",
+        "Tier": -1000,
+        "HorizontalPosition": 2465,
+        "Name": "Data mgmt TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "93500c97-c431-4823-a792-02c2c4e4c25f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "1928c3e6-0fa8-4287-8faf-4c98ce44448e",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "5304ff72-2dbf-40ad-b305-abf9dbe97755",
+        "Tier": -1200,
+        "HorizontalPosition": 2528,
+        "Name": "Data mgmt TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "93500c97-c431-4823-a792-02c2c4e4c25f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "1928c3e6-0fa8-4287-8faf-4c98ce44448e",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "668f2bd3-08fa-4db1-9ebf-60811d5fc4fc",
+        "Tier": -1400,
+        "HorizontalPosition": 1084,
+        "Name": "Data mgmt TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "93500c97-c431-4823-a792-02c2c4e4c25f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "1928c3e6-0fa8-4287-8faf-4c98ce44448e",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "5125bbf7-8450-4d71-8e61-b94af3e6dff0",
+        "Tier": -1600,
+        "HorizontalPosition": 1159,
+        "Name": "Data mgmt TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "93500c97-c431-4823-a792-02c2c4e4c25f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "1928c3e6-0fa8-4287-8faf-4c98ce44448e",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "606c95d4-5df0-414c-891d-6491ee89138d",
+        "Name": "Data mgmt IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 2920,
+        "RequiredSkills": [
+            {
+                "SkillToId": "93500c97-c431-4823-a792-02c2c4e4c25f",
+                "Level": 6
+            },
+            {
+                "SkillToId": "1928c3e6-0fa8-4287-8faf-4c98ce44448e",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "cd0d213d-87ad-4c40-922c-5ce3f03be6eb",
+        "Name": "Data mgmt IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 2030,
+        "RequiredSkills": [
+            {
+                "SkillToId": "93500c97-c431-4823-a792-02c2c4e4c25f",
+                "Level": 7
+            },
+            {
+                "SkillToId": "1928c3e6-0fa8-4287-8faf-4c98ce44448e",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "128aa611-c9aa-4f57-b8e7-6fe93bf0992e",
+        "Name": "Data mgmt IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 626,
+        "RequiredSkills": [
+            {
+                "SkillToId": "93500c97-c431-4823-a792-02c2c4e4c25f",
+                "Level": 8
+            },
+            {
+                "SkillToId": "1928c3e6-0fa8-4287-8faf-4c98ce44448e",
+                "Level": 8
+            }
+        ]
+    },
+    {
+        "toId": "ebb340d4-0b90-4309-abb3-9be966a6f680",
+        "Tier": -1000,
+        "HorizontalPosition": 1741,
+        "Name": "Output mgmt TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "aacf33e7-13cf-4f85-8686-e1a777b7673f",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "94936af5-f5e3-4d9c-91a0-5039b819fda8",
+        "Tier": -1200,
+        "HorizontalPosition": 1211,
+        "Name": "Output mgmt TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "aacf33e7-13cf-4f85-8686-e1a777b7673f",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "506e6123-b3f1-4113-88ad-f53478a57240",
+        "Tier": -1400,
+        "HorizontalPosition": 158,
+        "Name": "Output mgmt TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "aacf33e7-13cf-4f85-8686-e1a777b7673f",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "bb37b911-d658-42f6-8517-4cfe3948744b",
+        "Tier": -1600,
+        "HorizontalPosition": 413,
+        "Name": "Output mgmt TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "aacf33e7-13cf-4f85-8686-e1a777b7673f",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "a67da7c2-b3b2-45fc-ad4c-36505bab5e00",
+        "Tier": -1800,
+        "HorizontalPosition": 1255,
+        "Name": "Output mgmt TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "aacf33e7-13cf-4f85-8686-e1a777b7673f",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "5ac36237-aeae-48db-acbe-f536113f44d9",
+        "Name": "Output mgmt IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 2857,
+        "RequiredSkills": [
+            {
+                "SkillToId": "aacf33e7-13cf-4f85-8686-e1a777b7673f",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "b7884cd8-00c9-40e8-91ff-b5c00e40f8cc",
+        "Name": "Output mgmt IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 551,
+        "RequiredSkills": [
+            {
+                "SkillToId": "aacf33e7-13cf-4f85-8686-e1a777b7673f",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "f36e5c69-a173-4255-9f34-4915e39e0737",
+        "Name": "Output mgmt IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 248,
+        "RequiredSkills": [
+            {
+                "SkillToId": "aacf33e7-13cf-4f85-8686-e1a777b7673f",
+                "Level": 8
+            }
+        ]
+    },
+    {
+        "toId": "7b15d0ee-8efe-4db2-9219-d682f253c910",
+        "Tier": -1000,
+        "HorizontalPosition": 1920,
+        "Name": "Baan Operations TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "aad90fab-f0d5-4e84-baf1-e18c2bb9d97d",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ea389c15-13bd-46fe-869c-55d7dbb24734",
+                "Level": 1
+            },
+            {
+                "SkillToId": "2c147516-b696-405d-8932-83be8739bc70",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "79520a7c-8639-4c55-a97e-dfec5af68f1a",
+        "Tier": -1200,
+        "HorizontalPosition": 2191,
+        "Name": "Baan Operations TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "aad90fab-f0d5-4e84-baf1-e18c2bb9d97d",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ea389c15-13bd-46fe-869c-55d7dbb24734",
+                "Level": 2
+            },
+            {
+                "SkillToId": "2c147516-b696-405d-8932-83be8739bc70",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "ce110c87-2711-4e39-82be-206103521307",
+        "Tier": -1400,
+        "HorizontalPosition": 1124,
+        "Name": "Baan Operations TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "aad90fab-f0d5-4e84-baf1-e18c2bb9d97d",
+                "Level": 3
+            },
+            {
+                "SkillToId": "ea389c15-13bd-46fe-869c-55d7dbb24734",
+                "Level": 3
+            },
+            {
+                "SkillToId": "2c147516-b696-405d-8932-83be8739bc70",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "6710ce96-308f-408c-b044-172147140a2f",
+        "Tier": -1600,
+        "HorizontalPosition": 1671,
+        "Name": "Baan Operations TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "aad90fab-f0d5-4e84-baf1-e18c2bb9d97d",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ea389c15-13bd-46fe-869c-55d7dbb24734",
+                "Level": 4
+            },
+            {
+                "SkillToId": "2c147516-b696-405d-8932-83be8739bc70",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "eaa3f69e-b41a-4966-b18d-758b55b351bb",
+        "Tier": -1800,
+        "HorizontalPosition": 777,
+        "Name": "Baan Operations TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "aad90fab-f0d5-4e84-baf1-e18c2bb9d97d",
+                "Level": 5
+            },
+            {
+                "SkillToId": "ea389c15-13bd-46fe-869c-55d7dbb24734",
+                "Level": 5
+            },
+            {
+                "SkillToId": "2c147516-b696-405d-8932-83be8739bc70",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "0224e8d4-44d4-4fcf-a744-ddc54a56e282",
+        "Name": "Baan Operations IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 898,
+        "RequiredSkills": [
+            {
+                "SkillToId": "aad90fab-f0d5-4e84-baf1-e18c2bb9d97d",
+                "Level": 6
+            },
+            {
+                "SkillToId": "ea389c15-13bd-46fe-869c-55d7dbb24734",
+                "Level": 6
+            },
+            {
+                "SkillToId": "2c147516-b696-405d-8932-83be8739bc70",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "0cf77ffc-e023-410d-8074-e1f95525216a",
+        "Name": "Baan Operations IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 220,
+        "RequiredSkills": [
+            {
+                "SkillToId": "aad90fab-f0d5-4e84-baf1-e18c2bb9d97d",
+                "Level": 7
+            },
+            {
+                "SkillToId": "ea389c15-13bd-46fe-869c-55d7dbb24734",
+                "Level": 7
+            },
+            {
+                "SkillToId": "2c147516-b696-405d-8932-83be8739bc70",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "84f2ad3e-fb91-4066-995c-996a3e46fa92",
+        "Name": "Baan Operations IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 667,
+        "RequiredSkills": [
+            {
+                "SkillToId": "aad90fab-f0d5-4e84-baf1-e18c2bb9d97d",
+                "Level": 8
+            },
+            {
+                "SkillToId": "ea389c15-13bd-46fe-869c-55d7dbb24734",
+                "Level": 8
+            },
+            {
+                "SkillToId": "2c147516-b696-405d-8932-83be8739bc70",
+                "Level": 8
+            }
+        ]
+    },
+    {
+        "toId": "a2f81d8c-5d89-4fb0-98b3-3ec539dd2512",
+        "Tier": -1000,
+        "HorizontalPosition": 2565,
+        "Name": "All TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a12f0b74-659f-42a5-aacc-c91d0dbb212f",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "34e7b07e-e1b7-48b9-aca4-477d3804fc7f",
+        "Tier": -1200,
+        "HorizontalPosition": 2309,
+        "Name": "All TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a12f0b74-659f-42a5-aacc-c91d0dbb212f",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "2f565150-db5a-44a5-9e56-d50472c0d85c",
+        "Tier": -1400,
+        "HorizontalPosition": 2564,
+        "Name": "All TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a12f0b74-659f-42a5-aacc-c91d0dbb212f",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "c484d5b2-a12d-42d5-b20d-33d2ba16bf3a",
+        "Tier": -1600,
+        "HorizontalPosition": 1377,
+        "Name": "All TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a12f0b74-659f-42a5-aacc-c91d0dbb212f",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "bb622a39-3fda-41f7-b5fc-8deeaf3e57a1",
+        "Tier": -1800,
+        "HorizontalPosition": 1142,
+        "Name": "All TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "a12f0b74-659f-42a5-aacc-c91d0dbb212f",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "0b1acbb7-1082-43d1-9be4-07d8f6c710d8",
+        "Name": "All IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 715,
+        "RequiredSkills": [
+            {
+                "SkillToId": "a12f0b74-659f-42a5-aacc-c91d0dbb212f",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "803544cd-3ef5-40b5-8d42-3fd2a87ddd50",
+        "Name": "All IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 277,
+        "RequiredSkills": [
+            {
+                "SkillToId": "a12f0b74-659f-42a5-aacc-c91d0dbb212f",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "db56cf9f-4185-4cac-89ac-25a73a58e2e1",
+        "Name": "All IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 261,
+        "RequiredSkills": [
+            {
+                "SkillToId": "a12f0b74-659f-42a5-aacc-c91d0dbb212f",
+                "Level": 8
+            }
+        ]
+    },
+    {
+        "toId": "3b38c04c-849c-43ef-8d24-6d1605c6f2b0",
+        "Tier": -1000,
+        "HorizontalPosition": 1,
+        "Name": "Exchange TS 1",
+        "RequiredSkills": [
+            {
+                "SkillToId": "b9c7dd08-3149-4aa0-8bef-56a50dfcd3c4",
+                "Level": 1
+            },
+            {
+                "SkillToId": "60948de7-0fd1-4508-abe4-fe2bfe0f1e45",
+                "Level": 1
+            },
+            {
+                "SkillToId": "2283d956-f31e-469c-a6a6-1ed0b6095c11",
+                "Level": 1
+            },
+            {
+                "SkillToId": "cc69f5a7-23c4-47bd-a609-29e2975e93f4",
+                "Level": 1
+            },
+            {
+                "SkillToId": "41e2f4b4-f290-45c0-867b-d3af47a4458b",
+                "Level": 1
+            },
+            {
+                "SkillToId": "3b162dc3-96d5-4c30-bceb-e08165808127",
+                "Level": 1
+            },
+            {
+                "SkillToId": "44a4c1ac-67b8-4867-8d5b-d5771f764a1e",
+                "Level": 1
+            },
+            {
+                "SkillToId": "3468ebee-5fb4-425c-9f13-3e0553047350",
+                "Level": 1
+            },
+            {
+                "SkillToId": "db539249-439b-4c16-98ce-205dcdf34ea8",
+                "Level": 1
+            },
+            {
+                "SkillToId": "69c7d33f-eaba-4c7a-824c-61afd27bcba2",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "ab1b4330-e068-40e6-8d78-2b847ca56dbe",
+        "Tier": -1200,
+        "HorizontalPosition": 442,
+        "Name": "Exchange TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "b9c7dd08-3149-4aa0-8bef-56a50dfcd3c4",
+                "Level": 2
+            },
+            {
+                "SkillToId": "60948de7-0fd1-4508-abe4-fe2bfe0f1e45",
+                "Level": 2
+            },
+            {
+                "SkillToId": "2283d956-f31e-469c-a6a6-1ed0b6095c11",
+                "Level": 2
+            },
+            {
+                "SkillToId": "cc69f5a7-23c4-47bd-a609-29e2975e93f4",
+                "Level": 2
+            },
+            {
+                "SkillToId": "41e2f4b4-f290-45c0-867b-d3af47a4458b",
+                "Level": 2
+            },
+            {
+                "SkillToId": "3b162dc3-96d5-4c30-bceb-e08165808127",
+                "Level": 2
+            },
+            {
+                "SkillToId": "44a4c1ac-67b8-4867-8d5b-d5771f764a1e",
+                "Level": 2
+            },
+            {
+                "SkillToId": "3468ebee-5fb4-425c-9f13-3e0553047350",
+                "Level": 2
+            },
+            {
+                "SkillToId": "db539249-439b-4c16-98ce-205dcdf34ea8",
+                "Level": 2
+            },
+            {
+                "SkillToId": "69c7d33f-eaba-4c7a-824c-61afd27bcba2",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "18b71b47-ee21-46fd-9f98-a90eaf7e9bed",
+        "Tier": -1400,
+        "HorizontalPosition": 708,
+        "Name": "Exchange TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "b9c7dd08-3149-4aa0-8bef-56a50dfcd3c4",
+                "Level": 3
+            },
+            {
+                "SkillToId": "60948de7-0fd1-4508-abe4-fe2bfe0f1e45",
+                "Level": 3
+            },
+            {
+                "SkillToId": "2283d956-f31e-469c-a6a6-1ed0b6095c11",
+                "Level": 3
+            },
+            {
+                "SkillToId": "cc69f5a7-23c4-47bd-a609-29e2975e93f4",
+                "Level": 3
+            },
+            {
+                "SkillToId": "3b162dc3-96d5-4c30-bceb-e08165808127",
+                "Level": 3
+            },
+            {
+                "SkillToId": "44a4c1ac-67b8-4867-8d5b-d5771f764a1e",
+                "Level": 3
+            },
+            {
+                "SkillToId": "3468ebee-5fb4-425c-9f13-3e0553047350",
+                "Level": 3
+            },
+            {
+                "SkillToId": "db539249-439b-4c16-98ce-205dcdf34ea8",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "9df57445-c7f4-4522-bc39-c19b0f698a7f",
+        "Tier": -1600,
+        "HorizontalPosition": 2957,
+        "Name": "Exchange TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "b9c7dd08-3149-4aa0-8bef-56a50dfcd3c4",
+                "Level": 4
+            },
+            {
+                "SkillToId": "60948de7-0fd1-4508-abe4-fe2bfe0f1e45",
+                "Level": 4
+            },
+            {
+                "SkillToId": "2283d956-f31e-469c-a6a6-1ed0b6095c11",
+                "Level": 4
+            },
+            {
+                "SkillToId": "cc69f5a7-23c4-47bd-a609-29e2975e93f4",
+                "Level": 4
+            },
+            {
+                "SkillToId": "3b162dc3-96d5-4c30-bceb-e08165808127",
+                "Level": 4
+            },
+            {
+                "SkillToId": "44a4c1ac-67b8-4867-8d5b-d5771f764a1e",
+                "Level": 4
+            },
+            {
+                "SkillToId": "3468ebee-5fb4-425c-9f13-3e0553047350",
+                "Level": 4
+            },
+            {
+                "SkillToId": "db539249-439b-4c16-98ce-205dcdf34ea8",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "196d366b-1fd7-4781-9a10-c7815a4932e6",
+        "Tier": -1800,
+        "HorizontalPosition": 697,
+        "Name": "Exchange TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "b9c7dd08-3149-4aa0-8bef-56a50dfcd3c4",
+                "Level": 5
+            },
+            {
+                "SkillToId": "60948de7-0fd1-4508-abe4-fe2bfe0f1e45",
+                "Level": 5
+            },
+            {
+                "SkillToId": "2283d956-f31e-469c-a6a6-1ed0b6095c11",
+                "Level": 5
+            },
+            {
+                "SkillToId": "cc69f5a7-23c4-47bd-a609-29e2975e93f4",
+                "Level": 5
+            },
+            {
+                "SkillToId": "3b162dc3-96d5-4c30-bceb-e08165808127",
+                "Level": 5
+            },
+            {
+                "SkillToId": "44a4c1ac-67b8-4867-8d5b-d5771f764a1e",
+                "Level": 5
+            },
+            {
+                "SkillToId": "3468ebee-5fb4-425c-9f13-3e0553047350",
+                "Level": 5
+            },
+            {
+                "SkillToId": "db539249-439b-4c16-98ce-205dcdf34ea8",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "d1fd027f-4eae-4f3a-a423-5c1770e98e16",
+        "Name": "Exchange IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 1135,
+        "RequiredSkills": [
+            {
+                "SkillToId": "b9c7dd08-3149-4aa0-8bef-56a50dfcd3c4",
+                "Level": 6
+            },
+            {
+                "SkillToId": "60948de7-0fd1-4508-abe4-fe2bfe0f1e45",
+                "Level": 6
+            },
+            {
+                "SkillToId": "2283d956-f31e-469c-a6a6-1ed0b6095c11",
+                "Level": 6
+            },
+            {
+                "SkillToId": "cc69f5a7-23c4-47bd-a609-29e2975e93f4",
+                "Level": 6
+            },
+            {
+                "SkillToId": "3b162dc3-96d5-4c30-bceb-e08165808127",
+                "Level": 6
+            },
+            {
+                "SkillToId": "44a4c1ac-67b8-4867-8d5b-d5771f764a1e",
+                "Level": 6
+            },
+            {
+                "SkillToId": "3468ebee-5fb4-425c-9f13-3e0553047350",
+                "Level": 6
+            },
+            {
+                "SkillToId": "db539249-439b-4c16-98ce-205dcdf34ea8",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "eca2c1a2-afd6-4b4f-8f3c-75fabdc2f042",
+        "Tier": -1200,
+        "HorizontalPosition": 1959,
+        "Name": "EUS TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "b126ad9c-e95e-4ec7-9c21-1a635b06648c",
+                "Level": 1
+            },
+            {
+                "SkillToId": "40c2e0d4-95e9-4fe7-807d-7f984239f513",
+                "Level": 1
+            },
+            {
+                "SkillToId": "9da14968-e94a-49ed-a970-e349757d6745",
+                "Level": 1
+            },
+            {
+                "SkillToId": "f7acc685-c8ba-4703-88b1-d7a1f3e44693",
+                "Level": 1
+            },
+            {
+                "SkillToId": "6d201cfe-3b11-4f3c-8df1-dc49685c24e2",
+                "Level": 1
+            },
+            {
+                "SkillToId": "f24ba2fe-bcab-40cf-a185-227a3c5f58d9",
+                "Level": 1
+            },
+            {
+                "SkillToId": "8d13278a-7e76-4920-9b2e-7a4887bd86f0",
+                "Level": 1
+            },
+            {
+                "SkillToId": "006a142e-505a-4dc5-a69f-ebc3fc1444f9",
+                "Level": 1
+            },
+            {
+                "SkillToId": "350733a9-7d27-4873-bcdb-9ff55eeaa88f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "600a47dd-dd1c-4037-af6b-4118ec8b073b",
+                "Level": 1
+            },
+            {
+                "SkillToId": "cdedc32f-7840-4fa4-9ad4-3dae9280a114",
+                "Level": 1
+            },
+            {
+                "SkillToId": "76fb637b-4018-46ae-b214-a11a631d625e",
+                "Level": 1
+            },
+            {
+                "SkillToId": "75831f94-2495-41e4-9ea7-86b19f301bce",
+                "Level": 1
+            },
+            {
+                "SkillToId": "1d49a7dd-c913-4869-93bd-61c0d2a5d454",
+                "Level": 1
+            },
+            {
+                "SkillToId": "24ae97ad-3796-4484-8717-b4cd6dc42464",
+                "Level": 1
+            },
+            {
+                "SkillToId": "cc38d080-86a8-4ccf-9fbd-2dba83faa0c5",
+                "Level": 1
+            },
+            {
+                "SkillToId": "36c1b4fb-e39c-495f-afeb-14b6a3d60cef",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ccad055a-1dd8-4029-bfd3-dd7b7f068a01",
+                "Level": 1
+            },
+            {
+                "SkillToId": "1100db07-edbc-446e-b7ad-2ad2ff338e00",
+                "Level": 1
+            },
+            {
+                "SkillToId": "a85d569a-62eb-4ee7-bc4b-f35ab470a95c",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ac2f5725-444a-4406-b53d-875508fdcf23",
+                "Level": 1
+            },
+            {
+                "SkillToId": "d3b06ff2-3bf1-437a-8b4c-2385e2b28c72",
+                "Level": 1
+            },
+            {
+                "SkillToId": "a31c9897-3fa3-4398-94b2-329826883e85",
+                "Level": 1
+            },
+            {
+                "SkillToId": "8cec0146-85d2-407a-90c8-ed47092efbf4",
+                "Level": 1
+            },
+            {
+                "SkillToId": "46f21767-7228-4a9b-b1d4-50a376b9d42c",
+                "Level": 1
+            },
+            {
+                "SkillToId": "d67d7018-12d2-4e8f-96a4-7d188b17feb5",
+                "Level": 1
+            },
+            {
+                "SkillToId": "02222297-55e5-4dcb-9d13-21c005ad613f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "46d6ffd1-d0e2-4e04-abbb-844a664be3cc",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "4f6b56c6-4da0-40e9-84b7-564675edf031",
+        "Tier": -1400,
+        "HorizontalPosition": 1970,
+        "Name": "EUS TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "b126ad9c-e95e-4ec7-9c21-1a635b06648c",
+                "Level": 2
+            },
+            {
+                "SkillToId": "40c2e0d4-95e9-4fe7-807d-7f984239f513",
+                "Level": 2
+            },
+            {
+                "SkillToId": "9da14968-e94a-49ed-a970-e349757d6745",
+                "Level": 2
+            },
+            {
+                "SkillToId": "f7acc685-c8ba-4703-88b1-d7a1f3e44693",
+                "Level": 2
+            },
+            {
+                "SkillToId": "6d201cfe-3b11-4f3c-8df1-dc49685c24e2",
+                "Level": 2
+            },
+            {
+                "SkillToId": "f24ba2fe-bcab-40cf-a185-227a3c5f58d9",
+                "Level": 2
+            },
+            {
+                "SkillToId": "8d13278a-7e76-4920-9b2e-7a4887bd86f0",
+                "Level": 2
+            },
+            {
+                "SkillToId": "006a142e-505a-4dc5-a69f-ebc3fc1444f9",
+                "Level": 2
+            },
+            {
+                "SkillToId": "350733a9-7d27-4873-bcdb-9ff55eeaa88f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "600a47dd-dd1c-4037-af6b-4118ec8b073b",
+                "Level": 2
+            },
+            {
+                "SkillToId": "cdedc32f-7840-4fa4-9ad4-3dae9280a114",
+                "Level": 2
+            },
+            {
+                "SkillToId": "76fb637b-4018-46ae-b214-a11a631d625e",
+                "Level": 2
+            },
+            {
+                "SkillToId": "75831f94-2495-41e4-9ea7-86b19f301bce",
+                "Level": 2
+            },
+            {
+                "SkillToId": "1d49a7dd-c913-4869-93bd-61c0d2a5d454",
+                "Level": 2
+            },
+            {
+                "SkillToId": "24ae97ad-3796-4484-8717-b4cd6dc42464",
+                "Level": 2
+            },
+            {
+                "SkillToId": "cc38d080-86a8-4ccf-9fbd-2dba83faa0c5",
+                "Level": 2
+            },
+            {
+                "SkillToId": "36c1b4fb-e39c-495f-afeb-14b6a3d60cef",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ccad055a-1dd8-4029-bfd3-dd7b7f068a01",
+                "Level": 2
+            },
+            {
+                "SkillToId": "1100db07-edbc-446e-b7ad-2ad2ff338e00",
+                "Level": 2
+            },
+            {
+                "SkillToId": "a85d569a-62eb-4ee7-bc4b-f35ab470a95c",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ac2f5725-444a-4406-b53d-875508fdcf23",
+                "Level": 2
+            },
+            {
+                "SkillToId": "d3b06ff2-3bf1-437a-8b4c-2385e2b28c72",
+                "Level": 2
+            },
+            {
+                "SkillToId": "a31c9897-3fa3-4398-94b2-329826883e85",
+                "Level": 2
+            },
+            {
+                "SkillToId": "8cec0146-85d2-407a-90c8-ed47092efbf4",
+                "Level": 2
+            },
+            {
+                "SkillToId": "46f21767-7228-4a9b-b1d4-50a376b9d42c",
+                "Level": 2
+            },
+            {
+                "SkillToId": "d67d7018-12d2-4e8f-96a4-7d188b17feb5",
+                "Level": 2
+            },
+            {
+                "SkillToId": "02222297-55e5-4dcb-9d13-21c005ad613f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "46d6ffd1-d0e2-4e04-abbb-844a664be3cc",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "356b314f-4b33-45d3-a121-b1e5b5901d6a",
+        "Tier": -1600,
+        "HorizontalPosition": 134,
+        "Name": "EUS TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "b126ad9c-e95e-4ec7-9c21-1a635b06648c",
+                "Level": 3
+            },
+            {
+                "SkillToId": "40c2e0d4-95e9-4fe7-807d-7f984239f513",
+                "Level": 3
+            },
+            {
+                "SkillToId": "9da14968-e94a-49ed-a970-e349757d6745",
+                "Level": 3
+            },
+            {
+                "SkillToId": "f7acc685-c8ba-4703-88b1-d7a1f3e44693",
+                "Level": 3
+            },
+            {
+                "SkillToId": "6d201cfe-3b11-4f3c-8df1-dc49685c24e2",
+                "Level": 3
+            },
+            {
+                "SkillToId": "f24ba2fe-bcab-40cf-a185-227a3c5f58d9",
+                "Level": 3
+            },
+            {
+                "SkillToId": "8d13278a-7e76-4920-9b2e-7a4887bd86f0",
+                "Level": 3
+            },
+            {
+                "SkillToId": "006a142e-505a-4dc5-a69f-ebc3fc1444f9",
+                "Level": 3
+            },
+            {
+                "SkillToId": "350733a9-7d27-4873-bcdb-9ff55eeaa88f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "600a47dd-dd1c-4037-af6b-4118ec8b073b",
+                "Level": 3
+            },
+            {
+                "SkillToId": "cdedc32f-7840-4fa4-9ad4-3dae9280a114",
+                "Level": 3
+            },
+            {
+                "SkillToId": "76fb637b-4018-46ae-b214-a11a631d625e",
+                "Level": 3
+            },
+            {
+                "SkillToId": "75831f94-2495-41e4-9ea7-86b19f301bce",
+                "Level": 3
+            },
+            {
+                "SkillToId": "1d49a7dd-c913-4869-93bd-61c0d2a5d454",
+                "Level": 3
+            },
+            {
+                "SkillToId": "24ae97ad-3796-4484-8717-b4cd6dc42464",
+                "Level": 3
+            },
+            {
+                "SkillToId": "cc38d080-86a8-4ccf-9fbd-2dba83faa0c5",
+                "Level": 3
+            },
+            {
+                "SkillToId": "36c1b4fb-e39c-495f-afeb-14b6a3d60cef",
+                "Level": 3
+            },
+            {
+                "SkillToId": "ccad055a-1dd8-4029-bfd3-dd7b7f068a01",
+                "Level": 3
+            },
+            {
+                "SkillToId": "1100db07-edbc-446e-b7ad-2ad2ff338e00",
+                "Level": 3
+            },
+            {
+                "SkillToId": "a85d569a-62eb-4ee7-bc4b-f35ab470a95c",
+                "Level": 3
+            },
+            {
+                "SkillToId": "ac2f5725-444a-4406-b53d-875508fdcf23",
+                "Level": 3
+            },
+            {
+                "SkillToId": "d3b06ff2-3bf1-437a-8b4c-2385e2b28c72",
+                "Level": 3
+            },
+            {
+                "SkillToId": "a31c9897-3fa3-4398-94b2-329826883e85",
+                "Level": 3
+            },
+            {
+                "SkillToId": "8cec0146-85d2-407a-90c8-ed47092efbf4",
+                "Level": 3
+            },
+            {
+                "SkillToId": "46f21767-7228-4a9b-b1d4-50a376b9d42c",
+                "Level": 3
+            },
+            {
+                "SkillToId": "d67d7018-12d2-4e8f-96a4-7d188b17feb5",
+                "Level": 3
+            },
+            {
+                "SkillToId": "02222297-55e5-4dcb-9d13-21c005ad613f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "46d6ffd1-d0e2-4e04-abbb-844a664be3cc",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "4144c65e-a51d-4067-9ffe-d7ddf02feba3",
+        "Tier": -1800,
+        "HorizontalPosition": 1874,
+        "Name": "EUS TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "b126ad9c-e95e-4ec7-9c21-1a635b06648c",
+                "Level": 4
+            },
+            {
+                "SkillToId": "40c2e0d4-95e9-4fe7-807d-7f984239f513",
+                "Level": 4
+            },
+            {
+                "SkillToId": "9da14968-e94a-49ed-a970-e349757d6745",
+                "Level": 4
+            },
+            {
+                "SkillToId": "f7acc685-c8ba-4703-88b1-d7a1f3e44693",
+                "Level": 4
+            },
+            {
+                "SkillToId": "6d201cfe-3b11-4f3c-8df1-dc49685c24e2",
+                "Level": 4
+            },
+            {
+                "SkillToId": "f24ba2fe-bcab-40cf-a185-227a3c5f58d9",
+                "Level": 4
+            },
+            {
+                "SkillToId": "8d13278a-7e76-4920-9b2e-7a4887bd86f0",
+                "Level": 4
+            },
+            {
+                "SkillToId": "006a142e-505a-4dc5-a69f-ebc3fc1444f9",
+                "Level": 4
+            },
+            {
+                "SkillToId": "350733a9-7d27-4873-bcdb-9ff55eeaa88f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "600a47dd-dd1c-4037-af6b-4118ec8b073b",
+                "Level": 4
+            },
+            {
+                "SkillToId": "cdedc32f-7840-4fa4-9ad4-3dae9280a114",
+                "Level": 4
+            },
+            {
+                "SkillToId": "76fb637b-4018-46ae-b214-a11a631d625e",
+                "Level": 4
+            },
+            {
+                "SkillToId": "75831f94-2495-41e4-9ea7-86b19f301bce",
+                "Level": 4
+            },
+            {
+                "SkillToId": "1d49a7dd-c913-4869-93bd-61c0d2a5d454",
+                "Level": 4
+            },
+            {
+                "SkillToId": "24ae97ad-3796-4484-8717-b4cd6dc42464",
+                "Level": 4
+            },
+            {
+                "SkillToId": "cc38d080-86a8-4ccf-9fbd-2dba83faa0c5",
+                "Level": 4
+            },
+            {
+                "SkillToId": "36c1b4fb-e39c-495f-afeb-14b6a3d60cef",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ccad055a-1dd8-4029-bfd3-dd7b7f068a01",
+                "Level": 4
+            },
+            {
+                "SkillToId": "1100db07-edbc-446e-b7ad-2ad2ff338e00",
+                "Level": 4
+            },
+            {
+                "SkillToId": "a85d569a-62eb-4ee7-bc4b-f35ab470a95c",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ac2f5725-444a-4406-b53d-875508fdcf23",
+                "Level": 4
+            },
+            {
+                "SkillToId": "d3b06ff2-3bf1-437a-8b4c-2385e2b28c72",
+                "Level": 4
+            },
+            {
+                "SkillToId": "a31c9897-3fa3-4398-94b2-329826883e85",
+                "Level": 4
+            },
+            {
+                "SkillToId": "8cec0146-85d2-407a-90c8-ed47092efbf4",
+                "Level": 4
+            },
+            {
+                "SkillToId": "46f21767-7228-4a9b-b1d4-50a376b9d42c",
+                "Level": 4
+            },
+            {
+                "SkillToId": "d67d7018-12d2-4e8f-96a4-7d188b17feb5",
+                "Level": 4
+            },
+            {
+                "SkillToId": "02222297-55e5-4dcb-9d13-21c005ad613f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "46d6ffd1-d0e2-4e04-abbb-844a664be3cc",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "3a466382-d94e-4132-a31b-3487d055b033",
+        "Name": "EUS IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 1265,
+        "RequiredSkills": [
+            {
+                "SkillToId": "b126ad9c-e95e-4ec7-9c21-1a635b06648c",
+                "Level": 5
+            },
+            {
+                "SkillToId": "40c2e0d4-95e9-4fe7-807d-7f984239f513",
+                "Level": 5
+            },
+            {
+                "SkillToId": "9da14968-e94a-49ed-a970-e349757d6745",
+                "Level": 5
+            },
+            {
+                "SkillToId": "f7acc685-c8ba-4703-88b1-d7a1f3e44693",
+                "Level": 5
+            },
+            {
+                "SkillToId": "6d201cfe-3b11-4f3c-8df1-dc49685c24e2",
+                "Level": 5
+            },
+            {
+                "SkillToId": "f24ba2fe-bcab-40cf-a185-227a3c5f58d9",
+                "Level": 5
+            },
+            {
+                "SkillToId": "8d13278a-7e76-4920-9b2e-7a4887bd86f0",
+                "Level": 5
+            },
+            {
+                "SkillToId": "006a142e-505a-4dc5-a69f-ebc3fc1444f9",
+                "Level": 5
+            },
+            {
+                "SkillToId": "350733a9-7d27-4873-bcdb-9ff55eeaa88f",
+                "Level": 5
+            },
+            {
+                "SkillToId": "600a47dd-dd1c-4037-af6b-4118ec8b073b",
+                "Level": 5
+            },
+            {
+                "SkillToId": "cdedc32f-7840-4fa4-9ad4-3dae9280a114",
+                "Level": 5
+            },
+            {
+                "SkillToId": "76fb637b-4018-46ae-b214-a11a631d625e",
+                "Level": 5
+            },
+            {
+                "SkillToId": "75831f94-2495-41e4-9ea7-86b19f301bce",
+                "Level": 5
+            },
+            {
+                "SkillToId": "24ae97ad-3796-4484-8717-b4cd6dc42464",
+                "Level": 5
+            },
+            {
+                "SkillToId": "cc38d080-86a8-4ccf-9fbd-2dba83faa0c5",
+                "Level": 5
+            },
+            {
+                "SkillToId": "36c1b4fb-e39c-495f-afeb-14b6a3d60cef",
+                "Level": 5
+            },
+            {
+                "SkillToId": "ccad055a-1dd8-4029-bfd3-dd7b7f068a01",
+                "Level": 5
+            },
+            {
+                "SkillToId": "1100db07-edbc-446e-b7ad-2ad2ff338e00",
+                "Level": 5
+            },
+            {
+                "SkillToId": "a85d569a-62eb-4ee7-bc4b-f35ab470a95c",
+                "Level": 5
+            },
+            {
+                "SkillToId": "ac2f5725-444a-4406-b53d-875508fdcf23",
+                "Level": 5
+            },
+            {
+                "SkillToId": "d3b06ff2-3bf1-437a-8b4c-2385e2b28c72",
+                "Level": 5
+            },
+            {
+                "SkillToId": "a31c9897-3fa3-4398-94b2-329826883e85",
+                "Level": 5
+            },
+            {
+                "SkillToId": "8cec0146-85d2-407a-90c8-ed47092efbf4",
+                "Level": 5
+            },
+            {
+                "SkillToId": "46f21767-7228-4a9b-b1d4-50a376b9d42c",
+                "Level": 5
+            },
+            {
+                "SkillToId": "d67d7018-12d2-4e8f-96a4-7d188b17feb5",
+                "Level": 5
+            },
+            {
+                "SkillToId": "02222297-55e5-4dcb-9d13-21c005ad613f",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "687f7e6b-083b-40e9-bea9-f61398f9aeb6",
+        "Name": "EUS IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 30,
+        "RequiredSkills": [
+            {
+                "SkillToId": "b126ad9c-e95e-4ec7-9c21-1a635b06648c",
+                "Level": 6
+            },
+            {
+                "SkillToId": "40c2e0d4-95e9-4fe7-807d-7f984239f513",
+                "Level": 6
+            },
+            {
+                "SkillToId": "9da14968-e94a-49ed-a970-e349757d6745",
+                "Level": 6
+            },
+            {
+                "SkillToId": "f7acc685-c8ba-4703-88b1-d7a1f3e44693",
+                "Level": 6
+            },
+            {
+                "SkillToId": "6d201cfe-3b11-4f3c-8df1-dc49685c24e2",
+                "Level": 6
+            },
+            {
+                "SkillToId": "f24ba2fe-bcab-40cf-a185-227a3c5f58d9",
+                "Level": 6
+            },
+            {
+                "SkillToId": "8d13278a-7e76-4920-9b2e-7a4887bd86f0",
+                "Level": 6
+            },
+            {
+                "SkillToId": "006a142e-505a-4dc5-a69f-ebc3fc1444f9",
+                "Level": 6
+            },
+            {
+                "SkillToId": "350733a9-7d27-4873-bcdb-9ff55eeaa88f",
+                "Level": 6
+            },
+            {
+                "SkillToId": "600a47dd-dd1c-4037-af6b-4118ec8b073b",
+                "Level": 6
+            },
+            {
+                "SkillToId": "cdedc32f-7840-4fa4-9ad4-3dae9280a114",
+                "Level": 6
+            },
+            {
+                "SkillToId": "76fb637b-4018-46ae-b214-a11a631d625e",
+                "Level": 6
+            },
+            {
+                "SkillToId": "75831f94-2495-41e4-9ea7-86b19f301bce",
+                "Level": 6
+            },
+            {
+                "SkillToId": "24ae97ad-3796-4484-8717-b4cd6dc42464",
+                "Level": 6
+            },
+            {
+                "SkillToId": "cc38d080-86a8-4ccf-9fbd-2dba83faa0c5",
+                "Level": 6
+            },
+            {
+                "SkillToId": "36c1b4fb-e39c-495f-afeb-14b6a3d60cef",
+                "Level": 6
+            },
+            {
+                "SkillToId": "ccad055a-1dd8-4029-bfd3-dd7b7f068a01",
+                "Level": 6
+            },
+            {
+                "SkillToId": "1100db07-edbc-446e-b7ad-2ad2ff338e00",
+                "Level": 6
+            },
+            {
+                "SkillToId": "a85d569a-62eb-4ee7-bc4b-f35ab470a95c",
+                "Level": 6
+            },
+            {
+                "SkillToId": "ac2f5725-444a-4406-b53d-875508fdcf23",
+                "Level": 6
+            },
+            {
+                "SkillToId": "d3b06ff2-3bf1-437a-8b4c-2385e2b28c72",
+                "Level": 6
+            },
+            {
+                "SkillToId": "a31c9897-3fa3-4398-94b2-329826883e85",
+                "Level": 6
+            },
+            {
+                "SkillToId": "8cec0146-85d2-407a-90c8-ed47092efbf4",
+                "Level": 6
+            },
+            {
+                "SkillToId": "46f21767-7228-4a9b-b1d4-50a376b9d42c",
+                "Level": 6
+            },
+            {
+                "SkillToId": "d67d7018-12d2-4e8f-96a4-7d188b17feb5",
+                "Level": 6
+            },
+            {
+                "SkillToId": "02222297-55e5-4dcb-9d13-21c005ad613f",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "e1c6d7f5-eb7a-43ea-8290-eea2ac5f62d4",
+        "Name": "EUS IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 2537,
+        "RequiredSkills": [
+            {
+                "SkillToId": "b126ad9c-e95e-4ec7-9c21-1a635b06648c",
+                "Level": 7
+            },
+            {
+                "SkillToId": "40c2e0d4-95e9-4fe7-807d-7f984239f513",
+                "Level": 7
+            },
+            {
+                "SkillToId": "9da14968-e94a-49ed-a970-e349757d6745",
+                "Level": 7
+            },
+            {
+                "SkillToId": "f7acc685-c8ba-4703-88b1-d7a1f3e44693",
+                "Level": 7
+            },
+            {
+                "SkillToId": "6d201cfe-3b11-4f3c-8df1-dc49685c24e2",
+                "Level": 7
+            },
+            {
+                "SkillToId": "f24ba2fe-bcab-40cf-a185-227a3c5f58d9",
+                "Level": 7
+            },
+            {
+                "SkillToId": "8d13278a-7e76-4920-9b2e-7a4887bd86f0",
+                "Level": 7
+            },
+            {
+                "SkillToId": "006a142e-505a-4dc5-a69f-ebc3fc1444f9",
+                "Level": 7
+            },
+            {
+                "SkillToId": "350733a9-7d27-4873-bcdb-9ff55eeaa88f",
+                "Level": 7
+            },
+            {
+                "SkillToId": "600a47dd-dd1c-4037-af6b-4118ec8b073b",
+                "Level": 7
+            },
+            {
+                "SkillToId": "cdedc32f-7840-4fa4-9ad4-3dae9280a114",
+                "Level": 7
+            },
+            {
+                "SkillToId": "76fb637b-4018-46ae-b214-a11a631d625e",
+                "Level": 7
+            },
+            {
+                "SkillToId": "24ae97ad-3796-4484-8717-b4cd6dc42464",
+                "Level": 7
+            },
+            {
+                "SkillToId": "cc38d080-86a8-4ccf-9fbd-2dba83faa0c5",
+                "Level": 7
+            },
+            {
+                "SkillToId": "36c1b4fb-e39c-495f-afeb-14b6a3d60cef",
+                "Level": 7
+            },
+            {
+                "SkillToId": "ccad055a-1dd8-4029-bfd3-dd7b7f068a01",
+                "Level": 7
+            },
+            {
+                "SkillToId": "1100db07-edbc-446e-b7ad-2ad2ff338e00",
+                "Level": 7
+            },
+            {
+                "SkillToId": "a85d569a-62eb-4ee7-bc4b-f35ab470a95c",
+                "Level": 7
+            },
+            {
+                "SkillToId": "ac2f5725-444a-4406-b53d-875508fdcf23",
+                "Level": 7
+            },
+            {
+                "SkillToId": "d3b06ff2-3bf1-437a-8b4c-2385e2b28c72",
+                "Level": 7
+            },
+            {
+                "SkillToId": "a31c9897-3fa3-4398-94b2-329826883e85",
+                "Level": 7
+            },
+            {
+                "SkillToId": "8cec0146-85d2-407a-90c8-ed47092efbf4",
+                "Level": 7
+            },
+            {
+                "SkillToId": "46f21767-7228-4a9b-b1d4-50a376b9d42c",
+                "Level": 7
+            },
+            {
+                "SkillToId": "d67d7018-12d2-4e8f-96a4-7d188b17feb5",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "b1983f3b-1b56-4fb8-b514-289b3782cf1c",
+        "Tier": -1200,
+        "HorizontalPosition": 2434,
+        "Name": "Java Midleware TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "c6eee863-9bad-4efb-8b22-b4215de1dcd8",
+                "Level": 1
+            },
+            {
+                "SkillToId": "d3eb4175-2f31-4f70-a78e-61229df5a3e9",
+                "Level": 1
+            },
+            {
+                "SkillToId": "8408f0b7-5456-44a8-ad07-f793fa16c5ce",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "16b930c1-d29c-471d-a420-5d7a5c98155c",
+        "Tier": -1400,
+        "HorizontalPosition": 629,
+        "Name": "Java Midleware TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "c6eee863-9bad-4efb-8b22-b4215de1dcd8",
+                "Level": 2
+            },
+            {
+                "SkillToId": "d3eb4175-2f31-4f70-a78e-61229df5a3e9",
+                "Level": 2
+            },
+            {
+                "SkillToId": "8408f0b7-5456-44a8-ad07-f793fa16c5ce",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "197f8439-994c-4aec-b5ff-c8ef1c845e13",
+        "Tier": -1600,
+        "HorizontalPosition": 2355,
+        "Name": "Java Midleware TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "c6eee863-9bad-4efb-8b22-b4215de1dcd8",
+                "Level": 3
+            },
+            {
+                "SkillToId": "d3eb4175-2f31-4f70-a78e-61229df5a3e9",
+                "Level": 3
+            },
+            {
+                "SkillToId": "8408f0b7-5456-44a8-ad07-f793fa16c5ce",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "1cc5f387-e922-4bca-8e10-d3656ca2257b",
+        "Tier": -1800,
+        "HorizontalPosition": 1384,
+        "Name": "Java Midleware TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "c6eee863-9bad-4efb-8b22-b4215de1dcd8",
+                "Level": 4
+            },
+            {
+                "SkillToId": "d3eb4175-2f31-4f70-a78e-61229df5a3e9",
+                "Level": 4
+            },
+            {
+                "SkillToId": "8408f0b7-5456-44a8-ad07-f793fa16c5ce",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "ef9b2096-ccc2-439a-8d5d-23bf2c1f1396",
+        "Name": "Java Midleware IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 286,
+        "RequiredSkills": [
+            {
+                "SkillToId": "c6eee863-9bad-4efb-8b22-b4215de1dcd8",
+                "Level": 5
+            },
+            {
+                "SkillToId": "d3eb4175-2f31-4f70-a78e-61229df5a3e9",
+                "Level": 5
+            },
+            {
+                "SkillToId": "8408f0b7-5456-44a8-ad07-f793fa16c5ce",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "1a8880ee-f038-474b-8d78-51954f10b9c3",
+        "Name": "Java Midleware IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 1297,
+        "RequiredSkills": [
+            {
+                "SkillToId": "c6eee863-9bad-4efb-8b22-b4215de1dcd8",
+                "Level": 6
+            },
+            {
+                "SkillToId": "d3eb4175-2f31-4f70-a78e-61229df5a3e9",
+                "Level": 6
+            },
+            {
+                "SkillToId": "8408f0b7-5456-44a8-ad07-f793fa16c5ce",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "dc7998c8-f49d-4bec-99b1-a458703eb497",
+        "Name": "Java Midleware IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 2699,
+        "RequiredSkills": [
+            {
+                "SkillToId": "c6eee863-9bad-4efb-8b22-b4215de1dcd8",
+                "Level": 7
+            },
+            {
+                "SkillToId": "d3eb4175-2f31-4f70-a78e-61229df5a3e9",
+                "Level": 7
+            },
+            {
+                "SkillToId": "8408f0b7-5456-44a8-ad07-f793fa16c5ce",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "63a0f697-aa83-477c-a9c5-33df08cfeb20",
+        "Tier": -1200,
+        "HorizontalPosition": 2097,
+        "Name": "Integrations TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "67fe97a1-a035-437d-a918-db4fb51fb6ab",
+                "Level": 1
+            },
+            {
+                "SkillToId": "d7286e01-b6f6-448a-a1b5-c0c5ce00042e",
+                "Level": 1
+            },
+            {
+                "SkillToId": "f11ef590-b534-419b-96f8-0b9a2a769dca",
+                "Level": 1
+            },
+            {
+                "SkillToId": "95a0ba1d-7a3d-4fa0-894d-d297109c933e",
+                "Level": 1
+            },
+            {
+                "SkillToId": "a792c5dd-f28a-475f-b656-9b9bd639eff0",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "aeee078d-8ba4-4985-864e-ab8fe933d5aa",
+        "Tier": -1400,
+        "HorizontalPosition": 154,
+        "Name": "Integrations TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "67fe97a1-a035-437d-a918-db4fb51fb6ab",
+                "Level": 2
+            },
+            {
+                "SkillToId": "d7286e01-b6f6-448a-a1b5-c0c5ce00042e",
+                "Level": 2
+            },
+            {
+                "SkillToId": "f11ef590-b534-419b-96f8-0b9a2a769dca",
+                "Level": 2
+            },
+            {
+                "SkillToId": "95a0ba1d-7a3d-4fa0-894d-d297109c933e",
+                "Level": 2
+            },
+            {
+                "SkillToId": "a792c5dd-f28a-475f-b656-9b9bd639eff0",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "fbffe354-3767-467e-a498-834992ba2475",
+        "Tier": -1600,
+        "HorizontalPosition": 2774,
+        "Name": "Integrations TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "67fe97a1-a035-437d-a918-db4fb51fb6ab",
+                "Level": 3
+            },
+            {
+                "SkillToId": "d7286e01-b6f6-448a-a1b5-c0c5ce00042e",
+                "Level": 3
+            },
+            {
+                "SkillToId": "f11ef590-b534-419b-96f8-0b9a2a769dca",
+                "Level": 3
+            },
+            {
+                "SkillToId": "95a0ba1d-7a3d-4fa0-894d-d297109c933e",
+                "Level": 3
+            },
+            {
+                "SkillToId": "a792c5dd-f28a-475f-b656-9b9bd639eff0",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "ac47e9b4-4686-4769-9ca7-5021c8863988",
+        "Tier": -1800,
+        "HorizontalPosition": 2163,
+        "Name": "Integrations TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "67fe97a1-a035-437d-a918-db4fb51fb6ab",
+                "Level": 4
+            },
+            {
+                "SkillToId": "d7286e01-b6f6-448a-a1b5-c0c5ce00042e",
+                "Level": 4
+            },
+            {
+                "SkillToId": "f11ef590-b534-419b-96f8-0b9a2a769dca",
+                "Level": 4
+            },
+            {
+                "SkillToId": "95a0ba1d-7a3d-4fa0-894d-d297109c933e",
+                "Level": 4
+            },
+            {
+                "SkillToId": "a792c5dd-f28a-475f-b656-9b9bd639eff0",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "f14e0451-8fb8-40fb-9549-2c8796ac4e1d",
+        "Name": "Integrations IA 3",
+        "Tier": -800,
+        "HorizontalPosition": 911,
+        "RequiredSkills": [
+            {
+                "SkillToId": "67fe97a1-a035-437d-a918-db4fb51fb6ab",
+                "Level": 5
+            },
+            {
+                "SkillToId": "d7286e01-b6f6-448a-a1b5-c0c5ce00042e",
+                "Level": 5
+            },
+            {
+                "SkillToId": "f11ef590-b534-419b-96f8-0b9a2a769dca",
+                "Level": 5
+            },
+            {
+                "SkillToId": "95a0ba1d-7a3d-4fa0-894d-d297109c933e",
+                "Level": 5
+            },
+            {
+                "SkillToId": "a792c5dd-f28a-475f-b656-9b9bd639eff0",
+                "Level": 5
+            }
+        ]
+    },
+    {
+        "toId": "2b05ee1e-9140-433f-a445-e2caa593529e",
+        "Name": "Integrations IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 160,
+        "RequiredSkills": [
+            {
+                "SkillToId": "67fe97a1-a035-437d-a918-db4fb51fb6ab",
+                "Level": 6
+            },
+            {
+                "SkillToId": "d7286e01-b6f6-448a-a1b5-c0c5ce00042e",
+                "Level": 6
+            },
+            {
+                "SkillToId": "f11ef590-b534-419b-96f8-0b9a2a769dca",
+                "Level": 6
+            },
+            {
+                "SkillToId": "95a0ba1d-7a3d-4fa0-894d-d297109c933e",
+                "Level": 6
+            },
+            {
+                "SkillToId": "a792c5dd-f28a-475f-b656-9b9bd639eff0",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "913aac72-7260-4da8-864e-5503b6e5794a",
+        "Name": "Integrations IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 2049,
+        "RequiredSkills": [
+            {
+                "SkillToId": "67fe97a1-a035-437d-a918-db4fb51fb6ab",
+                "Level": 7
+            },
+            {
+                "SkillToId": "d7286e01-b6f6-448a-a1b5-c0c5ce00042e",
+                "Level": 7
+            },
+            {
+                "SkillToId": "f11ef590-b534-419b-96f8-0b9a2a769dca",
+                "Level": 7
+            },
+            {
+                "SkillToId": "95a0ba1d-7a3d-4fa0-894d-d297109c933e",
+                "Level": 7
+            },
+            {
+                "SkillToId": "a792c5dd-f28a-475f-b656-9b9bd639eff0",
+                "Level": 7
+            }
+        ]
+    },
+    {
+        "toId": "fbc1f204-4d57-407e-9c9e-6bdaed8d71f3",
+        "Tier": -1200,
+        "HorizontalPosition": 1192,
+        "Name": "SAP TS 2",
+        "RequiredSkills": [
+            {
+                "SkillToId": "2e709cb0-c021-4e5d-89ae-daccd8d71d18",
+                "Level": 1
+            },
+            {
+                "SkillToId": "eca5d275-5ce4-494e-8964-67c4d5d384ef",
+                "Level": 1
+            },
+            {
+                "SkillToId": "5177639e-4542-45dd-922e-95f287ed39eb",
+                "Level": 1
+            },
+            {
+                "SkillToId": "8ab7c4b4-62ee-4b22-9274-e9836da4110e",
+                "Level": 1
+            },
+            {
+                "SkillToId": "1d5a821f-d915-45e5-8fd6-82c57067e129",
+                "Level": 1
+            },
+            {
+                "SkillToId": "cb61a1bd-67e6-467d-bd8f-621a68cb762f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "a724f2b0-bf8c-4d8e-96e5-a3fddec2a072",
+                "Level": 1
+            },
+            {
+                "SkillToId": "99eeea01-a754-49a9-98ee-ee105c6dd25f",
+                "Level": 1
+            },
+            {
+                "SkillToId": "99026e0f-5079-475d-99cc-7c7f804b0129",
+                "Level": 1
+            },
+            {
+                "SkillToId": "a399f045-b2b3-4ce7-a32a-ff2843590ff7",
+                "Level": 1
+            },
+            {
+                "SkillToId": "9fcc3d86-f1ea-45f2-b79c-34132f1fae1d",
+                "Level": 1
+            },
+            {
+                "SkillToId": "7ff7d7e1-6cfc-4ee0-9db6-379477a20ed8",
+                "Level": 1
+            },
+            {
+                "SkillToId": "567452ae-7068-446f-aa10-e057fdf7c57e",
+                "Level": 1
+            },
+            {
+                "SkillToId": "68a30827-cd11-4354-bbda-b3ccc6f07bdd",
+                "Level": 1
+            },
+            {
+                "SkillToId": "ffd93b1c-e835-4384-be3e-b5937bb16e06",
+                "Level": 1
+            },
+            {
+                "SkillToId": "83a4b820-ae87-4cf5-a5ca-5639d66523dc",
+                "Level": 1
+            }
+        ]
+    },
+    {
+        "toId": "8612b044-e991-4873-a1c8-498e998cb9fc",
+        "Tier": -1400,
+        "HorizontalPosition": 1437,
+        "Name": "SAP TS 3",
+        "RequiredSkills": [
+            {
+                "SkillToId": "2e709cb0-c021-4e5d-89ae-daccd8d71d18",
+                "Level": 2
+            },
+            {
+                "SkillToId": "eca5d275-5ce4-494e-8964-67c4d5d384ef",
+                "Level": 2
+            },
+            {
+                "SkillToId": "5177639e-4542-45dd-922e-95f287ed39eb",
+                "Level": 2
+            },
+            {
+                "SkillToId": "8ab7c4b4-62ee-4b22-9274-e9836da4110e",
+                "Level": 2
+            },
+            {
+                "SkillToId": "1d5a821f-d915-45e5-8fd6-82c57067e129",
+                "Level": 2
+            },
+            {
+                "SkillToId": "cb61a1bd-67e6-467d-bd8f-621a68cb762f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "a724f2b0-bf8c-4d8e-96e5-a3fddec2a072",
+                "Level": 2
+            },
+            {
+                "SkillToId": "99eeea01-a754-49a9-98ee-ee105c6dd25f",
+                "Level": 2
+            },
+            {
+                "SkillToId": "99026e0f-5079-475d-99cc-7c7f804b0129",
+                "Level": 2
+            },
+            {
+                "SkillToId": "a399f045-b2b3-4ce7-a32a-ff2843590ff7",
+                "Level": 2
+            },
+            {
+                "SkillToId": "9fcc3d86-f1ea-45f2-b79c-34132f1fae1d",
+                "Level": 2
+            },
+            {
+                "SkillToId": "7ff7d7e1-6cfc-4ee0-9db6-379477a20ed8",
+                "Level": 2
+            },
+            {
+                "SkillToId": "567452ae-7068-446f-aa10-e057fdf7c57e",
+                "Level": 2
+            },
+            {
+                "SkillToId": "68a30827-cd11-4354-bbda-b3ccc6f07bdd",
+                "Level": 2
+            },
+            {
+                "SkillToId": "ffd93b1c-e835-4384-be3e-b5937bb16e06",
+                "Level": 2
+            },
+            {
+                "SkillToId": "83a4b820-ae87-4cf5-a5ca-5639d66523dc",
+                "Level": 2
+            }
+        ]
+    },
+    {
+        "toId": "0e394a21-c074-4275-8ccb-340d9d29cb14",
+        "Tier": -1600,
+        "HorizontalPosition": 2288,
+        "Name": "SAP TS 4",
+        "RequiredSkills": [
+            {
+                "SkillToId": "2e709cb0-c021-4e5d-89ae-daccd8d71d18",
+                "Level": 3
+            },
+            {
+                "SkillToId": "eca5d275-5ce4-494e-8964-67c4d5d384ef",
+                "Level": 3
+            },
+            {
+                "SkillToId": "5177639e-4542-45dd-922e-95f287ed39eb",
+                "Level": 3
+            },
+            {
+                "SkillToId": "8ab7c4b4-62ee-4b22-9274-e9836da4110e",
+                "Level": 3
+            },
+            {
+                "SkillToId": "1d5a821f-d915-45e5-8fd6-82c57067e129",
+                "Level": 3
+            },
+            {
+                "SkillToId": "cb61a1bd-67e6-467d-bd8f-621a68cb762f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "a724f2b0-bf8c-4d8e-96e5-a3fddec2a072",
+                "Level": 3
+            },
+            {
+                "SkillToId": "99eeea01-a754-49a9-98ee-ee105c6dd25f",
+                "Level": 3
+            },
+            {
+                "SkillToId": "99026e0f-5079-475d-99cc-7c7f804b0129",
+                "Level": 3
+            },
+            {
+                "SkillToId": "a399f045-b2b3-4ce7-a32a-ff2843590ff7",
+                "Level": 3
+            },
+            {
+                "SkillToId": "9fcc3d86-f1ea-45f2-b79c-34132f1fae1d",
+                "Level": 3
+            },
+            {
+                "SkillToId": "7ff7d7e1-6cfc-4ee0-9db6-379477a20ed8",
+                "Level": 3
+            },
+            {
+                "SkillToId": "567452ae-7068-446f-aa10-e057fdf7c57e",
+                "Level": 3
+            },
+            {
+                "SkillToId": "68a30827-cd11-4354-bbda-b3ccc6f07bdd",
+                "Level": 3
+            },
+            {
+                "SkillToId": "ffd93b1c-e835-4384-be3e-b5937bb16e06",
+                "Level": 3
+            },
+            {
+                "SkillToId": "83a4b820-ae87-4cf5-a5ca-5639d66523dc",
+                "Level": 3
+            }
+        ]
+    },
+    {
+        "toId": "9b748068-0516-40ca-b88a-3e11ca5f7869",
+        "Tier": -1800,
+        "HorizontalPosition": 2426,
+        "Name": "SAP TS 5",
+        "RequiredSkills": [
+            {
+                "SkillToId": "2e709cb0-c021-4e5d-89ae-daccd8d71d18",
+                "Level": 4
+            },
+            {
+                "SkillToId": "eca5d275-5ce4-494e-8964-67c4d5d384ef",
+                "Level": 4
+            },
+            {
+                "SkillToId": "5177639e-4542-45dd-922e-95f287ed39eb",
+                "Level": 4
+            },
+            {
+                "SkillToId": "8ab7c4b4-62ee-4b22-9274-e9836da4110e",
+                "Level": 4
+            },
+            {
+                "SkillToId": "1d5a821f-d915-45e5-8fd6-82c57067e129",
+                "Level": 4
+            },
+            {
+                "SkillToId": "cb61a1bd-67e6-467d-bd8f-621a68cb762f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "a724f2b0-bf8c-4d8e-96e5-a3fddec2a072",
+                "Level": 4
+            },
+            {
+                "SkillToId": "99eeea01-a754-49a9-98ee-ee105c6dd25f",
+                "Level": 4
+            },
+            {
+                "SkillToId": "99026e0f-5079-475d-99cc-7c7f804b0129",
+                "Level": 4
+            },
+            {
+                "SkillToId": "a399f045-b2b3-4ce7-a32a-ff2843590ff7",
+                "Level": 4
+            },
+            {
+                "SkillToId": "9fcc3d86-f1ea-45f2-b79c-34132f1fae1d",
+                "Level": 4
+            },
+            {
+                "SkillToId": "7ff7d7e1-6cfc-4ee0-9db6-379477a20ed8",
+                "Level": 4
+            },
+            {
+                "SkillToId": "567452ae-7068-446f-aa10-e057fdf7c57e",
+                "Level": 4
+            },
+            {
+                "SkillToId": "68a30827-cd11-4354-bbda-b3ccc6f07bdd",
+                "Level": 4
+            },
+            {
+                "SkillToId": "ffd93b1c-e835-4384-be3e-b5937bb16e06",
+                "Level": 4
+            },
+            {
+                "SkillToId": "83a4b820-ae87-4cf5-a5ca-5639d66523dc",
+                "Level": 4
+            }
+        ]
+    },
+    {
+        "toId": "10393c3f-e377-4014-85bd-91b0bcdd3d50",
+        "Name": "SAP IA 4",
+        "Tier": -1000,
+        "HorizontalPosition": 1609,
+        "RequiredSkills": [
+            {
+                "SkillToId": "2e709cb0-c021-4e5d-89ae-daccd8d71d18",
+                "Level": 6
+            },
+            {
+                "SkillToId": "eca5d275-5ce4-494e-8964-67c4d5d384ef",
+                "Level": 6
+            },
+            {
+                "SkillToId": "5177639e-4542-45dd-922e-95f287ed39eb",
+                "Level": 6
+            },
+            {
+                "SkillToId": "8ab7c4b4-62ee-4b22-9274-e9836da4110e",
+                "Level": 6
+            },
+            {
+                "SkillToId": "1d5a821f-d915-45e5-8fd6-82c57067e129",
+                "Level": 6
+            },
+            {
+                "SkillToId": "cb61a1bd-67e6-467d-bd8f-621a68cb762f",
+                "Level": 6
+            },
+            {
+                "SkillToId": "a724f2b0-bf8c-4d8e-96e5-a3fddec2a072",
+                "Level": 6
+            },
+            {
+                "SkillToId": "99eeea01-a754-49a9-98ee-ee105c6dd25f",
+                "Level": 6
+            },
+            {
+                "SkillToId": "99026e0f-5079-475d-99cc-7c7f804b0129",
+                "Level": 6
+            },
+            {
+                "SkillToId": "a399f045-b2b3-4ce7-a32a-ff2843590ff7",
+                "Level": 6
+            },
+            {
+                "SkillToId": "9fcc3d86-f1ea-45f2-b79c-34132f1fae1d",
+                "Level": 6
+            },
+            {
+                "SkillToId": "7ff7d7e1-6cfc-4ee0-9db6-379477a20ed8",
+                "Level": 6
+            },
+            {
+                "SkillToId": "567452ae-7068-446f-aa10-e057fdf7c57e",
+                "Level": 6
+            },
+            {
+                "SkillToId": "68a30827-cd11-4354-bbda-b3ccc6f07bdd",
+                "Level": 6
+            },
+            {
+                "SkillToId": "ffd93b1c-e835-4384-be3e-b5937bb16e06",
+                "Level": 6
+            },
+            {
+                "SkillToId": "83a4b820-ae87-4cf5-a5ca-5639d66523dc",
+                "Level": 6
+            }
+        ]
+    },
+    {
+        "toId": "16a04b47-a291-4b2c-92d1-88d44f1815f6",
+        "Name": "SAP IA 5",
+        "Tier": -1200,
+        "HorizontalPosition": 635,
+        "RequiredSkills": [
+            {
+                "SkillToId": "2e709cb0-c021-4e5d-89ae-daccd8d71d18",
+                "Level": 7
+            },
+            {
+                "SkillToId": "eca5d275-5ce4-494e-8964-67c4d5d384ef",
+                "Level": 7
+            },
+            {
+                "SkillToId": "5177639e-4542-45dd-922e-95f287ed39eb",
+                "Level": 7
+            },
+            {
+                "SkillToId": "8ab7c4b4-62ee-4b22-9274-e9836da4110e",
+                "Level": 7
+            },
+            {
+                "SkillToId": "1d5a821f-d915-45e5-8fd6-82c57067e129",
+                "Level": 7
+            },
+            {
+                "SkillToId": "cb61a1bd-67e6-467d-bd8f-621a68cb762f",
+                "Level": 7
+            },
+            {
+                "SkillToId": "a724f2b0-bf8c-4d8e-96e5-a3fddec2a072",
+                "Level": 7
+            },
+            {
+                "SkillToId": "99eeea01-a754-49a9-98ee-ee105c6dd25f",
+                "Level": 7
+            },
+            {
+                "SkillToId": "99026e0f-5079-475d-99cc-7c7f804b0129",
+                "Level": 7
+            },
+            {
+                "SkillToId": "a399f045-b2b3-4ce7-a32a-ff2843590ff7",
+                "Level": 7
+            },
+            {
+                "SkillToId": "9fcc3d86-f1ea-45f2-b79c-34132f1fae1d",
+                "Level": 7
+            },
+            {
+                "SkillToId": "7ff7d7e1-6cfc-4ee0-9db6-379477a20ed8",
+                "Level": 7
+            },
+            {
+                "SkillToId": "567452ae-7068-446f-aa10-e057fdf7c57e",
+                "Level": 7
+            },
+            {
+                "SkillToId": "68a30827-cd11-4354-bbda-b3ccc6f07bdd",
+                "Level": 7
+            },
+            {
+                "SkillToId": "ffd93b1c-e835-4384-be3e-b5937bb16e06",
+                "Level": 7
+            },
+            {
+                "SkillToId": "83a4b820-ae87-4cf5-a5ca-5639d66523dc",
+                "Level": 7
+            }
+        ]
+    }
+]

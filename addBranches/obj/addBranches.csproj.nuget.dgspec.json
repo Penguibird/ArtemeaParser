@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\scripts\\ArtemeaParser\\addBranches\\addBranches.csproj": {}
+  },
+  "projects": {
+    "C:\\scripts\\ArtemeaParser\\addBranches\\addBranches.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\scripts\\ArtemeaParser\\addBranches\\addBranches.csproj",
+        "projectName": "addBranches",
+        "projectPath": "C:\\scripts\\ArtemeaParser\\addBranches\\addBranches.csproj",
+        "packagesPath": "C:\\Users\\VojtechLoskot\\.nuget\\packages\\",
+        "outputPath": "C:\\scripts\\ArtemeaParser\\addBranches\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VojtechLoskot\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.12.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.2, )"
+            },
+            "Newtonsoft.JSON": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

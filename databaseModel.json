@@ -1,0 +1,303 @@
+[{
+  "_id": {
+    "$binary": {
+      "base64": "w6HCqcKnbUbCvV1GwqNQcwnCt8KbwoIi",
+      "subType": "00"
+    }
+  },
+  "Name": "C#",
+  "Description": "Knowledge of C#",
+  "MaxLevel": 5,
+  "Levels": [
+    "Test",
+    "Test"
+  ],
+  "Category": 0
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wpnDrcKeTcK/woVeQcKWGXd5w4Vkw48L",
+      "subType": "00"
+    }
+  },
+  "Name": "Language skills (English) ",
+  "Description": "",
+  "MaxLevel": 4,
+  "Levels": [
+    "Basic B1",
+    "Intermediate B2",
+    "Advanced C1",
+    "Expert C2"
+  ],
+  "Category": 1
+},{
+  "_id": {
+    "$binary": {
+      "base64": "HMOcwr7Cs3oAw5hKwpvDpj9eBcKxwrBX",
+      "subType": "00"
+    }
+  },
+  "Name": "Communication Skills ",
+  "Description": "",
+  "MaxLevel": 4,
+  "Levels": [
+    "Empty Level Description"
+  ],
+  "Category": 1
+},{
+  "_id": {
+    "$binary": {
+      "base64": "w5jCrxbDkF7CpE9Lwr3CvlJ2B3XCvsOK",
+      "subType": "00"
+    }
+  },
+  "Name": "Leadership skills \n",
+  "Description": "",
+  "MaxLevel": 4,
+  "Levels": [],
+  "Category": 1
+},{
+  "_id": {
+    "$binary": {
+      "base64": "w57DusK/TsOvasKyScKWHwAJw5xJw4vCoQ==",
+      "subType": "00"
+    }
+  },
+  "Name": "Ability to work effectively in a team \n",
+  "Description": "",
+  "MaxLevel": 4,
+  "Levels": [],
+  "Category": 1
+},{
+  "_id": {
+    "$binary": {
+      "base64": "B2XDn8Otwr7DisK0QcKIwq/DvzogYMK4AA==",
+      "subType": "00"
+    }
+  },
+  "Name": "Problem solving \n",
+  "Description": "",
+  "MaxLevel": 4,
+  "Levels": [],
+  "Category": 1
+},{
+  "_id": {
+    "$binary": {
+      "base64": "f1pYfsOZa8KxScKLNVsSwplpwovDoQ==",
+      "subType": "00"
+    }
+  },
+  "Name": "Business Customer Knowledge \n",
+  "Description": "",
+  "MaxLevel": 4,
+  "Levels": [],
+  "Category": 1
+},{
+  "_id": {
+    "$binary": {
+      "base64": "w7bDsCV/ZXjDiUnCgcOfHC0sbmIG",
+      "subType": "00"
+    }
+  },
+  "Name": "Customer Service \n",
+  "Description": "",
+  "MaxLevel": 4,
+  "Levels": [],
+  "Category": 1
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wojDl27DqMKFw7vDjU/CvS5bBy/Dmh3CkQ==",
+      "subType": "00"
+    }
+  },
+  "Name": "Ability to work under the pressure \n",
+  "Description": "",
+  "MaxLevel": 4,
+  "Levels": [],
+  "Category": 1
+},{
+  "_id": {
+    "$binary": {
+      "base64": "aQ8+fkvCpXJFwpPDgMOgwqjDsCfCocKP",
+      "subType": "00"
+    }
+  },
+  "Name": "Team spirit \n",
+  "Description": "",
+  "MaxLevel": 4,
+  "Levels": [],
+  "Category": 1
+},{
+  "_id": {
+    "$binary": {
+      "base64": "cnxfLlzCrk1CwoAcKSJ+JMOswoc=",
+      "subType": "00"
+    }
+  },
+  "Name": "Incident Management \n",
+  "Description": "",
+  "MaxLevel": 2,
+  "Levels": [],
+  "Category": 2
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wpQdwrjCnATCscOWScKGw4wwaSfDjGrCvw==",
+      "subType": "00"
+    }
+  },
+  "Name": "Problem Management \n",
+  "Description": "",
+  "MaxLevel": 2,
+  "Levels": [],
+  "Category": 2
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wrdMXxk4wotoRcKGMw4HwqnCuH3DvA==",
+      "subType": "00"
+    }
+  },
+  "Name": "Change Management \n",
+  "Description": "",
+  "MaxLevel": 2,
+  "Levels": [],
+  "Category": 2
+},{
+  "_id": {
+    "$binary": {
+      "base64": "GRrDqizDjsK3Q0zCpWTDkD/CrMK7w7U8",
+      "subType": "00"
+    }
+  },
+  "Name": "Configuration Management \n",
+  "Description": "",
+  "MaxLevel": 2,
+  "Levels": [],
+  "Category": 2
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wpkdI0MzCg5AwoDCmXlawo5/woVL",
+      "subType": "00"
+    }
+  },
+  "Name": "Request fulfillment \n",
+  "Description": "",
+  "MaxLevel": 2,
+  "Levels": [],
+  "Category": 2
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wo7DskxHBcK/M0PCoMOROcOfwp8tSx4=",
+      "subType": "00"
+    }
+  },
+  "Name": "Knowledge Management \n",
+  "Description": "",
+  "MaxLevel": 2,
+  "Levels": [],
+  "Category": 2
+},{
+  "_id": {
+    "$binary": {
+      "base64": "EMOBw7Y+IcO1wotHwrDDrsKyYETDpMK1Nw==",
+      "subType": "00"
+    }
+  },
+  "Name": "Customer  Knowledge \n",
+  "Description": "",
+  "MaxLevel": 4,
+  "Levels": [],
+  "Category": 3
+},{
+  "_id": {
+    "$binary": {
+      "base64": "UAJ0w59XLRJPwq3DuRfDjFs9YMK+",
+      "subType": "00"
+    }
+  },
+  "Name": "Virtualization \n",
+  "Description": "",
+  "MaxLevel": 4,
+  "Category": 0
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XCIxH8Oxw5fDu0XCt8KUByzCl8OhYXM=",
+      "subType": "00"
+    }
+  },
+  "Name": "Hardware - ESXi hosts, servers \n",
+  "Description": "",
+  "MaxLevel": 4,
+  "Category": 0
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wqTCiMKgIArCqcK1TMKsSMKtwoZ6wojChQs=",
+      "subType": "00"
+    }
+  },
+  "Name": "*Hardware - Storage \n",
+  "Description": "",
+  "MaxLevel": 3,
+  "Category": 0
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ZSQbKcKvJMKtS8KWwqMBw6prw5rCpiQ=",
+      "subType": "00"
+    }
+  },
+  "Name": "*Hardware - Backup \n",
+  "Description": "",
+  "MaxLevel": 3,
+  "Category": 0
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wrrDum99wqHDnTVCwqsrwonDh8KQwqVTUA==",
+      "subType": "00"
+    }
+  },
+  "Name": "*Network \n",
+  "Description": "",
+  "MaxLevel": 3,
+  "Category": 0
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wqFOw648wqxvw6ZGwrgbwo7DrcOQDUXCjQ==",
+      "subType": "00"
+    }
+  },
+  "Name": "*Monitoring \n",
+  "Description": "",
+  "MaxLevel": 3,
+  "Category": 0
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Z2NWw48Gw480QcKjwpJjMsOUPsKSEQ==",
+      "subType": "00"
+    }
+  },
+  "Name": "*Scripting \n",
+  "Description": "",
+  "MaxLevel": 2,
+  "Category": 0
+},{
+  "_id": {
+    "$binary": {
+      "base64": "woXDkcOkSDJMwpNKwpctLsOJwrjDnA7Ctw==",
+      "subType": "00"
+    }
+  },
+  "Name": "TCSo -BOS,BOSplus,MIB,DIB,HIB 1C - XS,S,M,L",
+  "Description": "",
+  "MaxLevel": 3,
+  "Category": 0
+}]
