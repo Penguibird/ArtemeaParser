@@ -487,19 +487,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\VojtechLoskot\\.nuget\\packages\\": {}
+    "C:\\Users\\Vojta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\scripts\\ArtemeaParser\\addBranches\\addBranches.csproj",
+      "projectUniqueName": "D:\\scripts\\ArtemeaParser\\addBranches\\addBranches.csproj",
       "projectName": "addBranches",
-      "projectPath": "C:\\scripts\\ArtemeaParser\\addBranches\\addBranches.csproj",
-      "packagesPath": "C:\\Users\\VojtechLoskot\\.nuget\\packages\\",
-      "outputPath": "C:\\scripts\\ArtemeaParser\\addBranches\\obj\\",
+      "projectPath": "D:\\scripts\\ArtemeaParser\\addBranches\\addBranches.csproj",
+      "packagesPath": "C:\\Users\\Vojta\\.nuget\\packages\\",
+      "outputPath": "D:\\scripts\\ArtemeaParser\\addBranches\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\VojtechLoskot\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Vojta\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -554,7 +554,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
